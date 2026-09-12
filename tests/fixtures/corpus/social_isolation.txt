@@ -1,0 +1,10 @@
+Social isolation, social support, and treatment outcomes in post-traumatic stress disorder.
+This observational cohort study followed adults with PTSD and examined how perceived social isolation
+and social support predicted response to trauma-focused treatment. Greater social isolation at baseline
+was associated with smaller symptom improvement and higher dropout, while stronger social support
+predicted better outcomes and sustained remission. The authors argue that support interventions,
+peer groups, and family involvement should be considered alongside evidence-based psychotherapy for
+isolated patients. Mechanistic background research on loneliness and threat processing is discussed as
+context, but the study notes this is not direct evidence for any specific treatment. Limitations include
+reliance on self-report measures of isolation, a predominantly civilian sample, and possible confounding
+by depression severity and unemployment.

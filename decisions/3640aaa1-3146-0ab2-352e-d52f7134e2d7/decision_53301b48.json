@@ -1,0 +1,136 @@
+{
+  "decision_id": "53301b48",
+  "recorded_at": "2026-09-12T10:59:55+00:00",
+  "patient_id": "3640aaa1-3146-0ab2-352e-d52f7134e2d7",
+  "clinician": "MZ",
+  "decision": "approve",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Evidence is insufficient to generate a patient-specific PTSD treatment plan from the supplied passages. The plan remains provisional pending a complete patient summary and direct clinical evidence.",
+    "recommended_plan": [
+      {
+        "id": "PI-1",
+        "cat": "Target setting / Initial assessment",
+        "text": "Establish the clinical target before treatment selection.",
+        "rationale": "No patient data provided; 01420 is an assessment/methodology reference rather than a patient-specific efficacy signal.",
+        "ev": [
+          "LOCAL-01420"
+        ],
+        "cautions": [
+          "Evidence is indirect; plan relies on clinician judgment with incomplete data."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PI-2",
+        "cat": "Evidence translation / treatment recommendation pending",
+        "text": "Do not select a PTSD treatment from the supplied evidence alone.",
+        "rationale": "The excerpts do not provide direct clinical evidence to support a PTSD-specific treatment decision.",
+        "ev": [
+          "LOCAL-02091",
+          "LOCAL-00920",
+          "LOCAL-02908",
+          "LOCAL-01499"
+        ],
+        "cautions": [
+          "No direct PTSD-treatment efficacy data in the supplied passages."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PI-3",
+        "cat": "Population/extrapolation caution",
+        "text": "Avoid extrapolating from cardiovascular or other populations.",
+        "rationale": "02091 describes a sertraline-related study in cardiac patients, not PTSD treatment evidence.",
+        "ev": [
+          "LOCAL-02091"
+        ],
+        "cautions": [
+          "Avoid generalizing from non-PTSD populations or settings."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PI-4",
+        "cat": "Mechanistic evidence caution",
+        "text": "Avoid extrapolating mechanistic or animal findings to care.",
+        "rationale": "The excerpt is mechanistic/animal-oriented and does not provide patient-level treatment guidance.",
+        "ev": [
+          "LOCAL-00920"
+        ],
+        "cautions": [
+          "Mechanistic/animal data do not constitute direct clinical treatment guidance."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PI-5",
+        "cat": "Education/therapy content caution",
+        "text": "Treat pain-related education as unconfirmed for this plan.",
+        "rationale": "The reference notes a topic but does not present extractable intervention details or outcomes.",
+        "ev": [
+          "LOCAL-02908"
+        ],
+        "cautions": [
+          "No extractable, direct evidence for pain neuroscience education in PTSD within the provided passages."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PI-6",
+        "cat": "Comorbidity/substance-use context",
+        "text": "Review substance-use and severe-mental-illness context without assuming comorbidity.",
+        "rationale": "01420 and 01499 discuss assessment/context rather than direct treatment recommendations.",
+        "ev": [
+          "LOCAL-01420",
+          "LOCAL-01499"
+        ],
+        "cautions": [
+          "Avoid assuming comorbidity; verify substance-use context with a complete record."
+        ],
+        "conf": "low"
+      }
+    ],
+    "monitoring": [
+      "Await acquisition of the complete patient summary to inform treatment selection",
+      "Reassess plan promptly once direct clinical evidence or patient data become available",
+      "Monitor for any changes in safety status or new risk signals if treatment is initiated in the future",
+      "Document any updated comorbidity or medication information as it becomes available"
+    ],
+    "reassessment_triggers": [
+      "Receipt of complete patient summary",
+      "Emergence of new direct clinical evidence supporting specific PTSD intervention",
+      "Change in safety risk or new adverse events",
+      "New information about comorbidities or prior treatment response",
+      "Clinician request for reassessment"
+    ],
+    "missing": [
+      "Complete patient summary (presenting problems, trauma history, functional impairment)",
+      "Current PTSD symptom characterization and severity",
+      "Safety assessment (suicidality/homicidality) and risk status",
+      "Medical and psychiatric comorbidity details",
+      "Substance-use status and history",
+      "Prior and current treatments and responses",
+      "Complete patient record to inform treatment choice"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-02091",
+    "LOCAL-01420",
+    "LOCAL-00920",
+    "LOCAL-02908",
+    "LOCAL-01499"
+  ]
+}

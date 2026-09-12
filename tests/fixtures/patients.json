@@ -1,0 +1,46 @@
+[
+  {
+    "patient_id": "fixture-routine-01",
+    "provenance": "SYNTHETIC (test fixture)",
+    "demographics": {"birthdate": "1980-05-01", "gender": "F", "state": "Texas", "county": "Travis County"},
+    "ptsd": {"snomed": "47505003", "onset_date": "2014-01-01", "age_at_onset": 34, "still_active": true},
+    "comorbidities_at_onset": ["Social isolation (finding)", "Stress (finding)"],
+    "treatment": {
+      "medications": [{"drug": "Sertraline", "code": "312940", "start": "2015-02-01", "stop": null}],
+      "care_plans": [{"plan": "Mental health care plan", "start": "2015-02-01"}],
+      "procedures": [],
+      "encounters": []
+    },
+    "screening_scores": [
+      {"instrument": "PCL-5", "value": 42, "units": "score", "date": "2015-01-15"}
+    ],
+    "suicide_risk_flagged": false
+  },
+  {
+    "patient_id": "fixture-flagged-02",
+    "provenance": "SYNTHETIC (test fixture)",
+    "demographics": {"birthdate": "1975-09-09", "gender": "M", "state": "Ohio", "county": "Franklin County"},
+    "ptsd": {"snomed": "47505003", "onset_date": "2001-01-01", "age_at_onset": 26, "still_active": true},
+    "comorbidities_at_onset": ["Unhealthy alcohol drinking behavior (finding)", "Misuses drugs (finding)"],
+    "treatment": {"medications": [], "care_plans": [], "procedures": [], "encounters": []},
+    "screening_scores": [],
+    "suicide_risk_flagged": true
+  },
+  {
+    "patient_id": "fixture-remission-03",
+    "provenance": "SYNTHETIC (test fixture)",
+    "demographics": {"birthdate": "1988-03-12", "gender": "M", "state": "Texas", "county": "Travis County"},
+    "ptsd": {"snomed": "47505003", "onset_date": "2016-01-01", "age_at_onset": 28, "still_active": false},
+    "comorbidities_at_onset": ["Stress (finding)"],
+    "treatment": {
+      "medications": [{"drug": "Sertraline", "code": "312940", "start": "2016-02-01", "stop": null}],
+      "care_plans": [{"plan": "Mental health care plan", "start": "2016-02-01"}],
+      "procedures": [],
+      "encounters": []
+    },
+    "screening_scores": [
+      {"instrument": "PCL-5", "value": 12, "units": "score", "date": "2018-01-15"}
+    ],
+    "suicide_risk_flagged": false
+  }
+]

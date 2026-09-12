@@ -1,0 +1,96 @@
+{
+  "decision_id": "fff3f6cc",
+  "recorded_at": "2026-09-12T13:02:40+00:00",
+  "patient_id": "657ff2d9-a1e8-e236-07ca-1b0dac7ff919",
+  "clinician": "Muaaz Zakria",
+  "decision": "approve",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Draft PTSD evidence-synthesis treatment-plan note generated for clinician review. The full attachment was not retrievable from the provided input; reviewers should amend and complete. The draft references the saved file at /home/ubuntu/ptsd_treatment_plan_note.md and summarizes the available patient facts and five evidence passages, outlining a plan that requires a complete clinical assessment prior to implementation.",
+    "recommended_plan": [
+      {
+        "id": "PLAN-TR-001",
+        "cat": "Psychotherapy engagement",
+        "text": "Initiate or continue evidence-based trauma-focused psychotherapy as the primary intervention, with pacing aligned to patient comorbidity and preferences.",
+        "rationale": "Trauma-focused psychotherapy is identified as first-line treatment for PTSD; evidence for ketamine in combination with psychotherapy exists but is inconclusive and not a substitute for established psychotherapy alone.",
+        "ev": [
+          "LOCAL-02261"
+        ],
+        "cautions": [
+          "Evidence specificity to a given therapy modality is limited in the provided excerpts; individual patient suitability remains to be determined."
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-2",
+        "cat": "Medication management",
+        "text": "Maintain current sertraline therapy after thorough reconciliation; avoid dose changes until a complete clinical assessment and shared decision-making.",
+        "rationale": "A randomized controlled trial of sertraline is cited, but the abstract lacks outcome data; no dose-change recommendation can be made from the provided material.",
+        "ev": [
+          "LOCAL-01499"
+        ],
+        "cautions": [
+          "Lack of detailed outcomes and safety data in the supplied excerpt; monitor for efficacy and adverse effects."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PLAN-3",
+        "cat": "Safety and medical coordination",
+        "text": "Coordinate medical comorbidity management with the treating team; perform a thorough suicidality assessment and develop or update a safety plan as indicated; optimize sleep and pain management to support trauma-focused work.",
+        "rationale": "Medical comorbidities can influence engagement and safety; safety planning is standard but not explicitly detailed in the excerpts.",
+        "ev": [
+          "LOCAL-02168",
+          "LOCAL-01499"
+        ],
+        "cautions": [
+          "No direct PTSD safety protocol in the extracted texts; requires clinical judgment and local guidelines"
+        ],
+        "conf": "low"
+      }
+    ],
+    "monitoring": [
+      "Baseline and periodic PTSD symptom severity and functional impairment assessment",
+      "Regular medication reconciliation for sertraline; monitor adherence, dose, efficacy, and adverse effects",
+      "Reassess suicidality and safety at each contact; document ideation, plans, means, and protective factors",
+      "Monitor medical comorbid conditions and treatment tolerance; track sleep quality and pain as they affect engagement",
+      "Document engagement and attendance for trauma-focused psychotherapy; note pacing and patient preferences",
+      "Define concrete follow-up intervals and decision points based on response and safety"
+    ],
+    "reassessment_triggers": [
+      "Worsening PTSD symptoms or functional impairment despite engagement in trauma-focused psychotherapy",
+      "Emergence or escalation of suicidality or self-harm risk",
+      "Adverse effects, nonadherence, or interactions with sertraline warranting dose change or switch",
+      "Acute medical issues that impede treatment participation or safety planning",
+      "Decision to pursue or defer ketamine or other novel therapies based on evolving evidence and patient factors"
+    ],
+    "missing": [
+      "Trauma history details and PTSD symptom profile (clusters, duration, severity) and functional impairment",
+      "Current sertraline dose, duration, adherence, perceived benefit, adverse effects, drug interactions",
+      "Past psychotherapy and pharmacotherapy history, prior treatment response, and any treatment resistance",
+      "Sleep disturbance, substance use, dissociation, cognitive symptoms, mood/anxiety/psychosis screening",
+      "Detailed medical history: severity of acute bronchitis, acute infective cystitis, acute viral pharyngitis, alveolitis of the jaw, anemia, obesity, burn injury; current treatments and impact on PTSD care",
+      "Trauma-related safety concerns and protective factors, and a concrete safety plan if indicated",
+      "Planned follow-up schedule and objective outcome measures (e.g., symptom scales, functioning)"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-01499",
+    "LOCAL-02597",
+    "LOCAL-02261",
+    "LOCAL-02168",
+    "LOCAL-02707"
+  ]
+}

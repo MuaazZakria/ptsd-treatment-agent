@@ -1,0 +1,137 @@
+{
+  "decision_id": "7dfdeea7",
+  "recorded_at": "2026-09-12T12:51:05+00:00",
+  "patient_id": "9e4ac621-8656-b23b-db91-5fda3f792ce2",
+  "clinician": "Muaaz Zakria",
+  "decision": "approve",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Draft PTSD evidence-synthesis treatment-plan note prepared from the supplied excerpts and visible patient factors. The excerpts are insufficient to support explicit medication changes, dosing, or a ketamine-enabled strategy. The plan emphasizes completing a full clinical assessment, continuing evidence-aligned approaches (trauma-focused psychotherapy as first-line), careful medication review of sertraline, safety/comorbidity reassessment, and structured measurement/follow-up. All recommendations acknowledge the limited/excerpted nature of the evidence and lack of patient-level data. In particular, there is no patient-specific dosing, safety plan, or therapy modality/schedule from the supplied text.",
+    "recommended_plan": [
+      {
+        "id": "PLAN-001",
+        "cat": "Assessment",
+        "text": "Perform a complete clinical assessment prior to modifying treatment. The assessment should cover PTSD symptom clusters and severity, functional impairment, trauma history, current safety, current sertraline dose and duration, adherence, response, and adverse effects, prior psychotherapy and medication trials, and patient treatment preferences.",
+        "rationale": "Foundation: a comprehensive clinical assessment is prerequisite to any treatment modification; evidence indicates trauma-focused psychotherapy as first-line, and sertraline has been studied in PTSD but without dosing details in the provided abstract.",
+        "ev": [
+          "LOCAL-02261",
+          "LOCAL-01499"
+        ],
+        "cautions": [
+          "Data in the current drafts are incomplete; no comprehensive patient chart is available."
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-002",
+        "cat": "Therapy",
+        "text": "Refer to or continue trauma-focused psychotherapy as the foundational PTSD treatment, with modality and pacing tailored after a full assessment of readiness, stability, dissociation, current stressors, access, and patient preference.",
+        "rationale": "Trauma-focused psychotherapy is described as first-line in the study background; ketamine addition is uncertain per the same excerpt.",
+        "ev": [
+          "LOCAL-02261"
+        ],
+        "cautions": [
+          "Evidence base in excerpts supports trauma-focused therapy as first-line; modality details not specified in the excerpts."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-003",
+        "cat": "Medication",
+        "text": "Conduct a thorough review of the current sertraline regimen (dose, duration, adherence, response, adverse effects) and document indication and prior trial history; continue current regimen unless assessment supports a change.",
+        "rationale": "Sertraline has been studied for PTSD, but the abstract fragment provides no dosing or adjustment guidance; cardiovascular/other context in excerpts is not patient-specific.",
+        "ev": [
+          "LOCAL-01499",
+          "LOCAL-02168"
+        ],
+        "cautions": [
+          "No dosing guidance or patient-specific data available in the excerpts.",
+          "No explicit recommendation to change sertraline without a full assessment."
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-004",
+        "cat": "Augmentation/ Ketamine",
+        "text": "Do not initiate ketamine augmentation based on the provided evidence. If ketamine is ever considered for treatment-resistant PTSD, require a formal specialist evaluation, risk-benefit analysis, and local protocol adherence.",
+        "rationale": "The supplied excerpt indicates uncertainty about ketamine augmentation; not recommended in this draft without a documented treatment-resistant course and specialist evaluation.",
+        "ev": [
+          "LOCAL-02261"
+        ],
+        "cautions": [
+          "Evidence notes uncertainty about adding ketamine to psychotherapy; no patient-specific data to support ketamine use."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PLAN-005",
+        "cat": "Safety/Comorbidity",
+        "text": "Reassess acute medical conditions, obesity, reproductive status, concurrent medications, allergies, substance-use, sleep, pain, and cardiovascular history prior to treatment planning; ensure safety planning and cross-check for potential interactions or contraindications.",
+        "rationale": "Comorbidity/safety considerations are acknowledged but patient-specific conclusions cannot be drawn from the excerpts.",
+        "ev": [
+          "LOCAL-02168",
+          "LOCAL-02707",
+          "LOCAL-02597"
+        ],
+        "cautions": [
+          "No patient-specific contraindications or interactions documented in excerpts."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PLAN-006",
+        "cat": "Monitoring/Measurement",
+        "text": "Establish baseline symptom measures and functional status, define treatment goals, tolerability, and adherence, and schedule follow-up according to local practice; select measurement instruments during the assessment phase.",
+        "rationale": "Measurement and follow-up are prudent but explicit instruments and timing are not defined in the excerpts; align with local practice.",
+        "ev": [
+          "LOCAL-02261",
+          "LOCAL-01499"
+        ],
+        "cautions": [
+          "No measurement instruments or follow-up interval specified in excerpts."
+        ],
+        "conf": "low"
+      }
+    ],
+    "monitoring": [
+      "Monitor sertraline tolerability, adherence, and perceived benefit if continued.",
+      "Monitor PTSD symptom trajectory and functional status after initiating or continuing psychotherapy.",
+      "Reassess suicidality and safety plan as clinically indicated (even if suicide risk is flagged as false in the prompt).",
+      "Reassess acute medical conditions, obesity, reproductive status, and cardiovascular risk factors that may influence PTSD treatment choices.",
+      "Document and review adherence and engagement with trauma-focused care and follow-up appointments."
+    ],
+    "reassessment_triggers": [
+      "Worsening PTSD symptoms or functional impairment despite treatment.",
+      "Emergence of suicidality or self-harm risk.",
+      "Adverse effects or poor tolerability leading to dose change or discontinuation.",
+      "New medical contraindications or significant changes in comorbid conditions.",
+      "Request for augmentation (e.g., ketamine) or changes in therapy modality by patient or clinician."
+    ],
+    "missing": [
+      "Full patient medical history and trauma history (complete psychiatric/medical chart) not available in this draft.",
+      "Current sertraline dose, duration, adherence, prior response, and adverse effects not specified.",
+      "Formal PTSD symptom severity, functional impairment, sleep, dissociation, and safety assessment data not provided.",
+      "Patient preferences, treatment goals, and safety-planning details are not available.",
+      "Specific psychotherapy modality, schedule, and access details are not provided in the excerpts."
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-01499",
+    "LOCAL-02597",
+    "LOCAL-02261",
+    "LOCAL-02168",
+    "LOCAL-02707"
+  ]
+}

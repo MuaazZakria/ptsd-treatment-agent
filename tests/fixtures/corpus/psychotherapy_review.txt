@@ -1,0 +1,9 @@
+Trauma-focused psychotherapy and pharmacotherapy for PTSD: a systematic review of comparative evidence.
+This systematic review synthesized randomized trials comparing trauma-focused psychotherapies, including
+prolonged exposure and cognitive processing therapy, with pharmacotherapy and combined treatment for
+adults with post-traumatic stress disorder. Trauma-focused psychotherapy showed the largest and most
+durable effect sizes and is recommended as first-line treatment in most clinical guidelines. Combined
+treatment did not consistently outperform psychotherapy alone. The review discusses outcomes in comorbid
+populations, including depression and chronic pain, and notes that many trials excluded patients with
+active substance use or recent suicidal behaviour, limiting applicability to complex veteran presentations.
+Recency, study quality, and population match should be weighed above citation count when selecting evidence.
