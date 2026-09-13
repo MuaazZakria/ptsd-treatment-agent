@@ -46,7 +46,7 @@ self-contained ports in `iaso_lite/`, no shared dependency.
 ## Setup
 
 ```bash
-git clone <this repo> 
+git clone <this repo> && cd iaso-manus
 
 # --- backend ---
 python3.11 -m venv .venv
