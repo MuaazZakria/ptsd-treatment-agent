@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { EventSourcePolyfill } from "event-source-polyfill";
 
 /* ---- REST -------------------------------------------------------------- */
 
@@ -6,6 +7,10 @@ import { useEffect, useState } from "react";
 // separately from the backend (e.g. Vercel frontend + tunnelled FastAPI).
 // Left empty, requests stay relative and same-origin, as before.
 const API_BASE = (import.meta.env.VITE_API_BASE_URL || "").replace(/\/$/, "");
+
+// Free ngrok tunnels show an HTML interstitial to browser-like requests
+// unless this header is present; harmless when not on ngrok.
+const SKIP_NGROK_WARNING = { "ngrok-skip-browser-warning": "true" };
 
 const asJson = (r) => r.json().then((b) => ({ ok: r.ok, status: r.status, body: b }));
 
@@ -18,7 +23,11 @@ export function onUnauthorized(fn) {
 }
 
 async function apiFetch(path, init) {
-  const r = await fetch(`${API_BASE}${path}`, { credentials: "include", ...init });
+  const r = await fetch(`${API_BASE}${path}`, {
+    credentials: "include",
+    ...init,
+    headers: { ...SKIP_NGROK_WARNING, ...init?.headers },
+  });
   if (r.status === 401) unauthorizedHandler?.();
   return r;
 }
@@ -129,9 +138,9 @@ export function useRunStream(patientId, nonce) {
 
     const store = new Map();
     let seq = 0;
-    const es = new EventSource(
+    const es = new EventSourcePolyfill(
       `${API_BASE}/api/run?patient_id=${encodeURIComponent(patientId)}`,
-      { withCredentials: true }
+      { withCredentials: true, headers: SKIP_NGROK_WARNING }
     );
     const patch = (fn) => setState((s) => ({ ...s, ...fn(s) }));
 
