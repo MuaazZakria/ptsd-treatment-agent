@@ -1,0 +1,133 @@
+{
+  "decision_id": "d1b42ca1",
+  "recorded_at": "2026-09-13T20:55:07+00:00",
+  "patient_id": "0f4d9e11-8c48-7698-385d-90caefda5ec1",
+  "clinician": "Ciara Reynolds",
+  "decision": "approve",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "dropped_items": [],
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Active, mild PTSD (PCL-5 19; CAPS-5 mild) after combat exposure with partial response to prior EMDR. Currently on sertraline, but dose, duration, adherence, efficacy, and tolerability are not documented. Significant data gaps exist around PTSD symptom-cluster profile, sleep disturbance, functional impairment, comorbid medical conditions, substance use, psychosocial supports, and patient treatment preferences. A contemporaneous suicide-risk assessment is not provided in the current record. This synthesis supports a stepped, patient-centered plan combining reassessment, pharmacotherapy review, consideration of renewed or alternative trauma-focused psychotherapy, and engagement/coordination strategies, while addressing safety and comorbidity.”",
+    "recommended_plan": [
+      {
+        "id": "PLAN-01",
+        "cat": "Assessment & Monitoring",
+        "text": "Reassess current PTSD symptom clusters and functional impairment using a validated measure; obtain EMDR course details (sessions, dates, symptom-level response) and re-administer a validated PTSD measure to guide target setting.",
+        "rationale": "Baseline clarification and symptom-targeted planning are needed given inconsistent stress indicators and partial EMDR response.",
+        "ev": [
+          "LOCAL-00072",
+          "LOCAL-04171",
+          "LOCAL-02901",
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "None beyond standard clinical practice"
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-02",
+        "cat": "Pharmacotherapy",
+        "text": "Review sertraline regimen (dose, duration at therapeutic level, adherence, response, adverse effects) with the treating prescriber; document current medication list and plan for optimization or continuation with safety precautions.",
+        "rationale": "Sertraline remains in use but dose, duration, adherence, efficacy, and tolerability are unknown; review with prescriber before any medication decision.",
+        "ev": [
+          "LOCAL-00072"
+        ],
+        "cautions": [
+          "Do not change dosing without prescriber approval"
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-03",
+        "cat": "Psychotherapy",
+        "text": "Engage patient in shared decision-making about renewed EMDR versus alternative trauma-focused psychotherapy (e.g., CPT, TF-CBT). If feasible and acceptable, discuss brief formats such as WET, ensuring appropriate therapist training and safety planning.",
+        "rationale": "Partial EMDR response suggests exploring renewed or alternative trauma-focused options; Brief formats like Written Exposure Therapy (WET) may be considered if aligned with patient preferences and clinician expertise.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-00072",
+          "LOCAL-02420",
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "Evidence for WET is context-dependent and may not be suitable for all patients; ensure trained provider and safe setting"
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-04",
+        "cat": "Engagement & Access",
+        "text": "Assess and address barriers to engagement (transport, scheduling, cost, privacy). Enhance therapeutic fit through shared decision-making and consider telehealth or flexible delivery to improve adherence.",
+        "rationale": "Engagement barriers and disparities influence treatment response; addressing access and cultural-fit is essential for sustainable care.",
+        "ev": [
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "None specific; tailor to patient resources and preferences"
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PLAN-05",
+        "cat": "Medical Comorbidity & Safety",
+        "text": "Coordinate with medical clinicians to assess active conditions (e.g., bronchitis, cystitis, pharyngitis, burns, fractures) and obesity-related sleep concerns; optimize medical stability, pain management, sleep hygiene, and consider sleep-disorder evaluation as indicated.",
+        "rationale": "Active medical conditions and obesity-related sleep concerns can affect participation in exposure-based work and sleep quality, which sustain PTSD symptoms.",
+        "ev": [
+          "LOCAL-02715",
+          "LOCAL-00072",
+          "LOCAL-02901"
+        ],
+        "cautions": [
+          "Coordinate with medical team; consider pregnancy-related history if relevant; monitor for sleep-related breathing disorders in obesity"
+        ],
+        "conf": "moderate"
+      }
+    ],
+    "monitoring": [
+      "Regular PTSD symptom and functioning monitoring using validated measures (e.g., PCL-5, CAPS-5) at defined intervals",
+      "Sertraline-related monitoring: dose, duration, adherence, efficacy, adverse effects; coordination with prescriber",
+      "Sleep quality and nightmare tracking; pain, irritability, mood fluctuations",
+      "Attendance/engagement monitoring and barriers to care; consideration of telehealth or flexible scheduling",
+      "Suicide risk assessment at each contact and maintenance of a safety/crisis plan",
+      "Medical status monitoring in coordination with medical team (active conditions, medications, pregnancy status if relevant)"
+    ],
+    "reassessment_triggers": [
+      "Inadequate improvement after an adequate trial (e.g., 6–12 weeks) of pharmacotherapy or psychotherapy",
+      "Worsening suicidality or emergence of self-harm risk",
+      "Significant adverse effects leading to non-adherence or need for dose adjustment",
+      "New medical issues or sleep/pain changes that interfere with therapy",
+      "Persistent barriers to engagement despite supportive interventions",
+      "Changes in substance use that could affect PTSD treatment"
+    ],
+    "missing": [
+      "Sertraline dose, duration at therapeutic level, adherence, perceived benefit, and adverse effects; prescriber details",
+      "EMDR course specifics (total sessions, dates, symptom-level response by cluster)",
+      "Detailed PTSD symptom-cluster profile and functional impact (sleep, nightmares, mood, cognition, dissociation, avoidance)",
+      "Current medical status and activity of comorbid conditions (acute bronchitis, cystitis, pharyngitis, injuries, obesity-related risks)",
+      "Sleep assessment and potential sleep-disordered breathing evaluation if indicated",
+      "Substance-use status and history (screen results, current use, treatment if any)",
+      "Psychosocial supports, safety planning, social determinants of health (transportation, housing, employment, caregiver support)",
+      "Patient treatment goals, preferences, acceptable pace, and potential barriers to engagement",
+      "Contemporary suicide/self-harm risk assessment and crisis-plan status"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-02901",
+    "LOCAL-04171",
+    "LOCAL-02420",
+    "LOCAL-00072",
+    "LOCAL-02715"
+  ]
+}

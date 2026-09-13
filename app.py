@@ -27,6 +27,7 @@ from pathlib import Path
 from typing import Any
 
 from fastapi import Cookie, Depends, FastAPI, HTTPException, Request, Response
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
@@ -46,6 +47,16 @@ STEPS = [
 ]
 
 app = FastAPI(title="iaso-manus", version="0.1.0")
+
+_cors_origins = get_settings().cors_origins
+if _cors_origins:
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=list(_cors_origins),
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+    )
 
 
 @app.on_event("startup")
@@ -77,13 +88,14 @@ def login(req: LoginRequest, response: Response) -> dict[str, Any]:
     if not auth.check_password(req.password, cfg):
         raise HTTPException(401, "Wrong password.")
     token = auth.issue_token(cfg)
+    cross_site = bool(cfg.cors_origins)  # frontend on a different origin (e.g. Vercel)
     response.set_cookie(
         auth.COOKIE_NAME,
         token,
         max_age=auth.SESSION_TTL_S,
         httponly=True,
-        samesite="lax",
-        secure=False,  # set True behind HTTPS
+        samesite="none" if cross_site else "lax",
+        secure=cross_site,  # SameSite=None requires Secure; ngrok/Vercel are both https
     )
     return {"ok": True, "auth_enabled": True}
 

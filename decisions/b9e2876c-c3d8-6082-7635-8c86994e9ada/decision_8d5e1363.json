@@ -1,0 +1,145 @@
+{
+  "decision_id": "8d5e1363",
+  "recorded_at": "2026-09-13T20:51:23+00:00",
+  "patient_id": "b9e2876c-c3d8-6082-7635-8c86994e9ada",
+  "clinician": "Ciara Reynolds",
+  "decision": "approve",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "dropped_items": [],
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Structured treatment-plan note drafted. Based on active PTSD (PCL-5 49; CAPS-5 severe), prior CPT with partial response, and complex medical context (CKD and kidney transplant planning), the plan emphasizes a structured reassessment, safety/medical coordination, and an individualized trauma-focused psychotherapy plan with measurement-based monitoring. Pharmacotherapy is deferred pending comprehensive medical reconciliation; nonpharmacologic options are described with explicit evidence limitations.",
+    "recommended_plan": [
+      {
+        "id": "PLAN-01",
+        "cat": "Psychotherapy planning",
+        "text": "Undertake structured reassessment and select initial trauma-focused modality (reformulated CPT or WET) aligned with patient preferences and feasibility.",
+        "rationale": "Partial response to prior CPT warrants adaptation and explicit readiness assessment prior to processing the index trauma.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-00074"
+        ],
+        "cautions": [
+          "Ensure medical clearance given CKD/transplant context; avoid excessive homework load; verify trauma chronology."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-02",
+        "cat": "Safety/Medical coordination",
+        "text": "Repeat a formal suicide-risk assessment and document protective factors, crisis resources, and a formal safety plan; confirm CKD status and transplant considerations with nephrology team.",
+        "rationale": "Safety planning and medical coordination are essential given the medical complexity and potential risk changes.",
+        "ev": [
+          "LOCAL-00074",
+          "LOCAL-03297"
+        ],
+        "cautions": [
+          "Not to rely on prior 'suicide risk flagged' alone; ensure up-to-date assessment."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-03",
+        "cat": "Trauma-focused psychotherapy selection",
+        "text": "Discuss renewed trauma-focused therapy, either reformulated CPT or an alternative evidence-based modality, tailored to patient cognitive style, treatment history, and ability to engage in between-session work.",
+        "rationale": "Prior partial response indicates adaptation rather than abandonment; therapy choice should be individualized and documented.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-00074"
+        ],
+        "cautions": [
+          "Assess feasibility of homework; ensure alignment with medical status and kidney transplant considerations."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-04",
+        "cat": "Adjunctive/alternative therapies discussion",
+        "text": "Consider brief exposure therapy (WET) as a potential brief option when treatment burden or rapid relief is prioritized; discuss risks, tolerability, and patient preferences; do not initiate without institutional policy guidance.",
+        "rationale": "WET has reported brief format and tolerability; applicability should be individualized and not assumed in this patient.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-00556"
+        ],
+        "cautions": [
+          "Not standard care; ensure policy approvals and patient suitability."
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-05",
+        "cat": "Measurement-based monitoring",
+        "text": "Implement regular outcome monitoring with PCL-5 (and CAPS-5 when possible) at defined intervals, document symptom clusters, functioning, attendance, adverse effects, and patient goals; adjust plan based on trajectory.",
+        "rationale": "Longitudinal change tracking supports objective assessment of progress and guides treatment adjustments.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-00074"
+        ],
+        "cautions": [
+          "If multiple assessments burden the patient, adjust frequency."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-06",
+        "cat": "Prior CPT data collection",
+        "text": "Obtain detailed CPT history: number and spacing of sessions, fidelity, homework completion, targets addressed, residual symptoms, adverse effects, and reasons for discontinuation.",
+        "rationale": "Detailed prior CPT data informs adaptation and future therapy planning.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-00074"
+        ],
+        "cautions": [
+          "Ensure access to prior CPT records; consider privacy and data quality."
+        ],
+        "conf": "high"
+      }
+    ],
+    "monitoring": [
+      "PTSD symptom tracking with PCL-5 and CAPS-5 at defined intervals",
+      "Sleep, nightmares, and dissociation monitoring",
+      "Treatment engagement, attendance, homework completion",
+      "Suicide risk assessment at each visit; update crisis plan",
+      "Medical status monitoring: CKD labs, anemia, respiratory status",
+      "Medication safety monitoring if pharmacotherapy is pursued"
+    ],
+    "reassessment_triggers": [
+      "Worsening PTSD symptoms or functional decline",
+      "New or worsening suicidality or self-harm risk",
+      "Medical status changes (CKD progression, transplant considerations)",
+      "Nonadherence or barriers to therapy",
+      "Insufficient response after defined trauma-focused course",
+      "Emergence of comorbid mood/anxiety symptoms or substance use",
+      "Patient preference shift toward pharmacologic or alternative modalities"
+    ],
+    "missing": [
+      "Current structured suicide-risk assessment and crisis plan",
+      "Reconciled CKD stage and current nephrology/transplant status",
+      "Comprehensive medication list and allergies",
+      "Trauma chronology beyond index trauma",
+      "Sleep disturbance/nightmares details",
+      "Substance use status and treatment history",
+      "Functional impairment/occupational status",
+      "Current renal labs (eGFR, creatinine) and anemia status",
+      "Prior CPT details (sessions, fidelity, homework, goals)"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-00074",
+    "LOCAL-04171",
+    "LOCAL-00556",
+    "LOCAL-02715",
+    "LOCAL-03297"
+  ]
+}

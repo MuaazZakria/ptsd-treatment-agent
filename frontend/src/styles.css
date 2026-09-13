@@ -146,7 +146,8 @@ a:hover { color: var(--color-accent-800); }
 }
 .task-link:hover { color: var(--color-accent-800); border-color: var(--color-accent-800); }
 button.task-link { background: none; border: none; border-bottom: 1px solid color-mix(in srgb, var(--color-accent) 40%, transparent); cursor: pointer; }
-.decide-print-btn { display: inline-block; margin-top: var(--space-3); }
+.decide-actions { display: flex; align-items: center; gap: var(--space-3); margin-top: var(--space-3); }
+.decide-actions .run-btn { margin-top: 0; }
 
 .badge {
   display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px;

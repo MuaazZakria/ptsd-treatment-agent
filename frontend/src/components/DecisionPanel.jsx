@@ -97,9 +97,11 @@ export default function DecisionPanel({ patientId, status, draft, audit, evidenc
         <p className="decide-note">
           This draft is now locked. Re-run the case to review it again.
         </p>
-        <button type="button" className="task-link decide-print-btn no-print" onClick={() => window.print()}>
-          print / save as pdf
-        </button>
+        <div className="decide-actions no-print">
+          <button type="button" className="run-btn" onClick={() => window.print()}>
+            Save as PDF <span className="arrow">→</span>
+          </button>
+        </div>
       </section>
     );
   }
@@ -168,9 +170,19 @@ export default function DecisionPanel({ patientId, status, draft, audit, evidenc
           <textarea ref={notesRef} rows={3} />
         </label>
 
-        <button type="submit" className="run-btn" disabled={busy}>
-          {busy ? "recording…" : m.submit} <span className="arrow">→</span>
-        </button>
+        <div className="decide-actions">
+          <button type="submit" className="run-btn" disabled={busy}>
+            {busy ? "recording…" : m.submit} <span className="arrow">→</span>
+          </button>
+          <button
+            type="button"
+            className="run-btn"
+            disabled
+            title="Record a decision to enable saving as PDF"
+          >
+            Save as PDF <span className="arrow">→</span>
+          </button>
+        </div>
         {err && (
           <span className="field__err" role="alert">
             {err}

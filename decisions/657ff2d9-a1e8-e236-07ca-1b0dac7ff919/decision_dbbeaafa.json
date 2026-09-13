@@ -1,0 +1,119 @@
+{
+  "decision_id": "dbbeaafa",
+  "recorded_at": "2026-09-13T21:08:39+00:00",
+  "patient_id": "657ff2d9-a1e8-e236-07ca-1b0dac7ff919",
+  "clinician": "Ciara Reynolds",
+  "decision": "approve",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "dropped_items": [
+      {
+        "id": "PLAN-MEDICAL-COORD",
+        "text": "Coordinate with medical teams regarding concussion history, anemia, obesity, and any acute infections or medical problems; assess how active comorbidities may affect concentration, sleep, energy, safety, and treatment tolerance; identify practical barriers to care (transport, privacy, MST triggers).",
+        "reason": "no_valid_citation",
+        "attempted_ev": []
+      },
+      {
+        "id": "PLAN-SAFETY-PLAN",
+        "text": "Directly assess suicidality and implement a safety plan with crisis resources; review protective factors and support networks; adjust the plan promptly if suicidality emerges or increases.",
+        "reason": "no_valid_citation",
+        "attempted_ev": []
+      },
+      {
+        "id": "PLAN-MONITORING-OUTCOMES",
+        "text": "Set baseline and follow-up targets, repeat PCL-5 and CAPS-5 under consistent conditions, and track functional outcomes (sleep, work/relationships); monitor treatment adherence, alliance, safety, and adverse effects; define explicit criteria for progression, changes in modality, or level of care.",
+        "reason": "no_valid_citation",
+        "attempted_ev": []
+      }
+    ],
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Clinical synthesis: Active PTSD after military sexual trauma with onset at age 56. Current symptom burden is severe (PCL-5 48; CAPS-5 severe). The patient previously completed Prolonged Exposure with an outcome recorded as non-responder. Current medications include sertraline; no suicide risk is flagged in the provided data. Medical comorbidity includes obesity (BMI 30+), anemia, and several acute conditions described in the medical history. Functional status and psychosocial context beyond symptom scales are not detailed and require targeted assessment. The note reflects only information from the patient summary and five evidence passages and does not diagnose or prescribe.",
+    "recommended_plan": [
+      {
+        "id": "PLAN-REASSESSMENT",
+        "cat": "Assessment/Plan Development",
+        "text": "Reassess PTSD symptom profile and functional impairment; confirm PCL-5 and CAPS-5 results under consistent conditions; document prior PE course details (sessions, spacing, homework, fidelity) and reasons for nonresponse; re-evaluate suicide risk and safety plan; review comorbidity status and functional context.",
+        "rationale": "Clarifies accuracy of current status and informs next steps; prior nonresponse to PE has unclear documentation and requires clarification before selecting the next intervention.",
+        "ev": [
+          "LOCAL-02901",
+          "LOCAL-00072"
+        ],
+        "cautions": [
+          "Avoid assuming reasons for PE nonresponse; verify documentation; maintain MST-informed, patient-centered approach."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-THERAPY-CHOICE",
+        "cat": "Psychotherapy modality selection",
+        "text": "Collaboratively decide next psychotherapy approach, considering patient goals, tolerability, and previous response to PE; if trauma-focused therapy is pursued, tailor method and pacing to the patient; if a stabilization/skills-first approach is chosen, define purpose, targets, review date, and criteria for progression.",
+        "rationale": "Nonresponse to PE with unclear contributing factors supports re-evaluation of modality, pacing, and patient preferences; therapist factors influence outcomes; no adult-specific alternative is established by the supplied passages.",
+        "ev": [
+          "LOCAL-02901",
+          "LOCAL-04166",
+          "LOCAL-00332",
+          "LOCAL-02420"
+        ],
+        "cautions": [
+          "Be cautious about extrapolating pediatric evidence to adults; psychedelic-assisted approaches require regulatory approval and are not recommended as routine options based on the supplied passages."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-PHARM-REVIEW",
+        "cat": "Pharmacotherapy",
+        "text": "Review sertraline regimen with the prescribing clinician: verify indication, current dose and duration, adherence, perceived benefit, adverse effects, and potential interactions; consider dose optimization or augmentation only with careful clinical judgment and monitoring.",
+        "rationale": "Evidence supports SSRIs as first-line pharmacotherapy and cites sertraline as FDA-approved for PTSD, with modest effects and higher dropout risk due to adverse effects; a formal medication review is indicated rather than automatic changes.",
+        "ev": [
+          "LOCAL-00072"
+        ],
+        "cautions": [
+          "Do not modify pharmacotherapy without prescriber involvement; consider the patient’s concussion history, sleep, activation, and bleeding risk."
+        ],
+        "conf": "high"
+      }
+    ],
+    "monitoring": [
+      "Repeat PCL-5 and CAPS-5 at defined intervals with consistent administration conditions",
+      "Regular suicide risk screening at each contact with safety planning updated as needed",
+      "Monitor sertraline dose, adherence, adverse effects, and effects on sleep/activation",
+      "Track treatment engagement, attendance, therapy alliance, and functional outcomes (sleep, work, relationships)",
+      "Document any new medical issues or contraindications to planned interventions"
+    ],
+    "reassessment_triggers": [
+      "Worsening PTSD symptoms or functional impairment despite treatment changes",
+      "New or escalating suicidality or self-harm risk",
+      "Adverse effects or nonadherence to sertraline requiring pharmacotherapy changes",
+      "Significant new medical issues affecting treatment tolerance or engagement",
+      "Patient preference shift away from the planned modality"
+    ],
+    "missing": [
+      "Precise sertraline dose, duration, and adherence",
+      "Details of the prior PE course: number of sessions, spacing, homework, fidelity, attendance, and post-treatment measures",
+      "Current functional status (occupational, social, sleep, daily activities) and living situation",
+      "Active medical status of described comorbidities and any new medications or substances",
+      "Direct suicide risk assessment results and a formal safety plan",
+      "Patient treatment goals, preferences for modality, pace, and therapist characteristics",
+      "Transportation, privacy, and access barriers to care",
+      "Safety and risk factors related to MST in care settings"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-02901",
+    "LOCAL-00332",
+    "LOCAL-02420",
+    "LOCAL-00072",
+    "LOCAL-04166"
+  ]
+}

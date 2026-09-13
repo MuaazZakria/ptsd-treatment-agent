@@ -7,7 +7,8 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 5173,
-    proxy: { "/api": "http://localhost:8000" },
+    host: true,
+    proxy: { "/api": "http://192.168.1.77:8000" },
   },
   build: {
     outDir: "../static",

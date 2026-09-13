@@ -105,6 +105,16 @@ class Settings:
         default_factory=lambda: _env_path("IASO_DECISIONS_DIR", REPO_ROOT / "decisions")
     )
 
+    # --- cross-origin frontend (e.g. Vercel frontend + tunnelled backend) ---
+    # Comma-separated list of allowed origins, e.g. "https://iaso-demo.vercel.app".
+    # Non-empty => CORS is enabled and the session cookie switches to
+    # SameSite=None; Secure (required for cross-site cookies).
+    cors_origins: tuple[str, ...] = field(
+        default_factory=lambda: tuple(
+            o.strip() for o in os.getenv("IASO_CORS_ORIGINS", "").split(",") if o.strip()
+        )
+    )
+
     def __post_init__(self) -> None:
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.decisions_dir.mkdir(parents=True, exist_ok=True)

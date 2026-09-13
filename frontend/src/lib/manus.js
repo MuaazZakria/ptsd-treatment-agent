@@ -2,6 +2,11 @@ import { useEffect, useState } from "react";
 
 /* ---- REST -------------------------------------------------------------- */
 
+// Set VITE_API_BASE_URL (e.g. to an ngrok URL) when the frontend is deployed
+// separately from the backend (e.g. Vercel frontend + tunnelled FastAPI).
+// Left empty, requests stay relative and same-origin, as before.
+const API_BASE = (import.meta.env.VITE_API_BASE_URL || "").replace(/\/$/, "");
+
 const asJson = (r) => r.json().then((b) => ({ ok: r.ok, status: r.status, body: b }));
 
 // A 401 from any /api/* call (session missing/expired) is handled in one
@@ -13,7 +18,7 @@ export function onUnauthorized(fn) {
 }
 
 async function apiFetch(path, init) {
-  const r = await fetch(path, { credentials: "same-origin", ...init });
+  const r = await fetch(`${API_BASE}${path}`, { credentials: "include", ...init });
   if (r.status === 401) unauthorizedHandler?.();
   return r;
 }
@@ -124,7 +129,10 @@ export function useRunStream(patientId, nonce) {
 
     const store = new Map();
     let seq = 0;
-    const es = new EventSource(`/api/run?patient_id=${encodeURIComponent(patientId)}`);
+    const es = new EventSource(
+      `${API_BASE}/api/run?patient_id=${encodeURIComponent(patientId)}`,
+      { withCredentials: true }
+    );
     const patch = (fn) => setState((s) => ({ ...s, ...fn(s) }));
 
     es.addEventListener("stage", (e) => {
