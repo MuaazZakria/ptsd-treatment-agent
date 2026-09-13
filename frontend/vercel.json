@@ -1,4 +1,10 @@
 {
   "buildCommand": "npm run build -- --outDir dist",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://unworried-stingily-resend.ngrok-free.dev/api/:path*"
+    }
+  ]
 }
