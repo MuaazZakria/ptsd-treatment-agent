@@ -1,0 +1,138 @@
+{
+  "decision_id": "61128f0e",
+  "recorded_at": "2026-09-12T23:41:57+00:00",
+  "patient_id": "214d5996-6622-7def-d6f7-d14214ac3c38",
+  "clinician": "Ciara Reynolds",
+  "decision": "approve",
+  "notes": "Review of all research reviewed. Approved from my side, with added ecotherapy for the patient.",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "The patient exhibits moderate PTSD symptom severity by CAPS-5 and PCL-5 with a prior EMDR response, currently managed on sertraline and with alcohol-use comorbidity. There is clinical discordance between PTSD symptom measures and brief general screening results, necessitating a direct, contemporaneous assessment of risk, symptom burden, and functional impairment. The draft plan emphasizes safety, measurement-based monitoring, sertraline review, trauma-focused psychotherapy re-engagement (with EMDR reconsideration), and integrated PTSD-alcohol treatment planning, while clearly avoiding autonomous medication changes or unvalidated interventions. Clinician review and amendment are required before use with a patient.",
+    "recommended_plan": [
+      {
+        "id": "PLAN-001",
+        "cat": "Safety and risk management",
+        "text": "Initiate an urgent, contemporaneous safety assessment (suicide and violence risk) with an explicit crisis plan and clear escalation pathways; assess withdrawal risk related to alcohol use and document a safety-net plan.",
+        "rationale": "Direct assessment of suicide risk and withdrawal/relapse risk is mandatory given current flags and comorbidity; establishes immediate safety and coordinated care.",
+        "ev": [
+          "LOCAL-00072",
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "Incorporate crisis management planning and ensure escalation pathways are clear"
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-002",
+        "cat": "Assessment/measurement",
+        "text": "Reassess PTSD symptom burden with repeated, validated measures (PCL-5 and/or CAPS-5) and document date, context, and goals; align with patient’s functional impairment and goals.",
+        "rationale": "Discordant PCL-5/CAPS-5 with PHQ/stress entries requires interview-based reconciliation and timing/context documentation prior to making treatment decisions.",
+        "ev": [
+          "LOCAL-00072",
+          "LOCAL-02901"
+        ],
+        "cautions": [
+          "Avoid reliance on a single score; reconcile discordant data with clinical interview and contextual data"
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-003",
+        "cat": "Medication-management",
+        "text": "Review sertraline dose, duration, adherence, perceived benefit, and adverse effects; confirm plan to continue, adjust, or refer for psychiatry input without prescribing changes within this draft.",
+        "rationale": "SSRIs have moderate-certainty support for PTSD; current sertraline use warrants dose/duration/adherence review and safety monitoring before any changes.",
+        "ev": [
+          "LOCAL-00072"
+        ],
+        "cautions": [
+          "Do not modify sertraline dose or discontinue without a documented plan and medical coordination"
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-004",
+        "cat": "Psychotherapy selection",
+        "text": "Offer a shared-decision discussion about re-engaging trauma-focused psychotherapy, prioritizing EMDR given prior response; if EMDR is unavailable or not preferred, discuss alternative evidence-based trauma-focused approaches with the patient.",
+        "rationale": "Prior EMDR responder history supports reconsideration of EMDR; discuss modality options within local availability and clinician expertise; reserve WET/PSYCH options as conditional or investigational rather than routine.",
+        "ev": [
+          "LOCAL-04171",
+          "LOCAL-02901"
+        ],
+        "cautions": [
+          "Re-engagement should be paced and tailored to dissociation, sleep, and medical comorbidity; availability may vary"
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-005",
+        "cat": "Substance-use integration",
+        "text": "Assess current alcohol use pattern, cravings, consequences, withdrawal risk, and readiness for change; coordinate integrated PTSD-alcohol care and develop a withdrawal-safety plan if needed.",
+        "rationale": "Integrated PTSD and alcohol-use treatment is supported conceptually; direct evidence for alcohol-specific outcomes is indirect in the supplied passages.",
+        "ev": [
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "Coordinate PTSD and alcohol-use treatment; avoid abrupt cessation without safety planning"
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-006",
+        "cat": "Monitoring/follow-up",
+        "text": "Establish a plan for regular measurement-based follow-up (e.g., PCL-5) and track patient-defined goals, functioning, sleep, and treatment engagement; document interval timing.",
+        "rationale": "Measurement-based follow-up clarifies progress and informs treatment decisions; repeated assessments should align with shared goals.",
+        "ev": [
+          "LOCAL-02901"
+        ],
+        "cautions": [
+          "Ensure consistent use of the same instrument across follow-up; define goal milestones"
+        ],
+        "conf": "moderate"
+      }
+    ],
+    "monitoring": [
+      "Repeat PTSD symptom measurement with a validated instrument (PCL-5 and/or CAPS-5) at predefined intervals to track change",
+      "Direct suicide/violence risk assessment at each contact and maintenance of a crisis plan",
+      "Regular safety checks for sleep disturbance, dissociation, agitation, sleep-wake cycle, and medication adverse effects",
+      "Ongoing alcohol-use assessment and screening for withdrawal risk; document readiness for change and engagement in integrated treatment",
+      "Monitor treatment attendance, adherence to the plan, and any adverse effects from sertraline",
+      "Document and review functional impairment related to work, cognition, and daily activities"
+    ],
+    "reassessment_triggers": [
+      "Worsening suicidality or emergence of self-harm thoughts",
+      "New or worsening withdrawal symptoms or dangerous alcohol-use pattern",
+      "Significant sleep disturbance, dissociation, or agitation",
+      "Poor engagement or nonresponse to planned psychotherapy",
+      "Adverse sertraline effects or suspected nonadherence",
+      "New medical or neurological symptoms (e.g., concussion-related issues)"
+    ],
+    "missing": [
+      "sertraline dose, duration, adherence, benefit, and adverse effects (not provided)",
+      "current sleep quality and sleep disturbance profile",
+      "trauma symptom clusters (re-experiencing, avoidance, hyperarousal, impairment) and functional impact",
+      "current alcohol use pattern and withdrawal risk (quantity, frequency, dependencies)",
+      "details and timing of prior EMDR (session count, completed vs. incomplete)",
+      "current psychosocial stressors and supports",
+      "trust, cultural factors, and access considerations that may affect engagement in trauma-focused therapy"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-02901",
+    "LOCAL-04171",
+    "LOCAL-02420",
+    "LOCAL-00072",
+    "LOCAL-02715"
+  ]
+}

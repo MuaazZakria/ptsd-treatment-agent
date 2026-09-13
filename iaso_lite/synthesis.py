@@ -81,6 +81,42 @@ def evidence_quality_audit(plan: list[dict], compact_ev: list[dict]) -> dict:
     return {"weak_confidence_items": weak_confidence_items}
 
 
+def enforce_citation_discipline(
+    plan: list[dict], retrieved_ids: set[str]
+) -> tuple[list[dict], list[dict]]:
+    """Deterministically enforces "every plan item cites at least one real,
+    retrieved passage" instead of relying on the model to follow that rule
+    every time. Three rounds of prompt-only wording (require a citation,
+    allow-but-require, explicit "drop it instead") each got partial,
+    inconsistent compliance - see HANDOVER-timing-and-audit-reliability.md.
+
+    Any id in an item's `ev` that isn't in `retrieved_ids` is dropped first
+    (this also catches the "wrote a sentence instead of an id" failure mode -
+    a sentence is never a member of retrieved_ids either, so it's just
+    treated as an invalid id like any other). If nothing valid remains for
+    an item, the whole item is dropped rather than shown with an empty or
+    fabricated citation. Dropped items are returned separately, not silently
+    discarded - the caller surfaces them so the record shows what Manus drafted
+    even if it didn't survive the citation check, same transparency principle
+    as the rest of this pipeline's audit trail."""
+    kept: list[dict] = []
+    dropped: list[dict] = []
+    for o in plan or []:
+        valid_ev = [x for x in (o.get("ev") or []) if x in retrieved_ids]
+        if valid_ev:
+            kept.append({**o, "ev": valid_ev})
+        else:
+            dropped.append(
+                {
+                    "id": o.get("id"),
+                    "text": o.get("text"),
+                    "reason": "no_valid_citation",
+                    "attempted_ev": o.get("ev") or [],
+                }
+            )
+    return kept, dropped
+
+
 def citation_check(options: list[dict], retrieved_ids: set[str]) -> dict:
     """Mirrors iaso-ptsd-agent/iaso/graph.py audit_node (deterministic)."""
     used: list[str] = []
@@ -310,34 +346,46 @@ async def run_stream(
     s = perf_counter()
     yield "stage", {"id": "synthesis", "state": "running"}
     task_url: str | None = None
+    manus_timings: dict | None = None
 
     if not cfg.manus_available:
         yield "manus", {"kind": "offline", "note": "[OFFLINE STUB] Manus was not called."}
         draft = offline_stub(patient_compact, compact_ev)
     else:
         message = _build_message(patient_compact, compact_ev)
-        try:
-            resp = await manus_client.create_task(
-                message, OPTIONS_SCHEMA, cfg.manus_agent_profile, cfg=cfg
-            )
-        except manus_client.ManusError as exc:
-            yield "error", {"message": f"Manus task.create failed: {exc}"}
-            return
-        task_id = resp["task_id"]
-        task_url = resp.get("task_url")
-        yield "stage", {"id": "synthesis", "state": "running", "task_id": task_id, "task_url": task_url}
+        events: list[dict] = []
+        # One keep-alive connection for task.create + the whole poll loop.
+        async with manus_client.session(cfg) as http:
+            try:
+                resp = await manus_client.create_task(
+                    message, OPTIONS_SCHEMA, cfg.manus_agent_profile, cfg=cfg, client=http
+                )
+            except manus_client.ManusError as exc:
+                yield "error", {"message": f"Manus task.create failed: {exc}"}
+                return
+            task_id = resp["task_id"]
+            task_url = resp.get("task_url")
+            yield "stage", {"id": "synthesis", "state": "running", "task_id": task_id, "task_url": task_url}
 
-        try:
-            async for kind, data in manus_client.stream_task_events(task_id, request, cfg=cfg):
-                if kind == "event":
-                    yield "manus", {"event": data}
-                elif kind == "status":
-                    yield "manus_status", {"agent_status": data}
-                # "done" -> fall through, handled below
-            events = await manus_client.fetch_all_events(task_id, cfg=cfg)
-        except manus_client.ManusError as exc:
-            yield "error", {"message": f"Manus stream failed: {exc}"}
-            return
+            try:
+                async for kind, data in manus_client.stream_task_events(
+                    task_id, request, cfg=cfg, client=http
+                ):
+                    if kind == "event":
+                        yield "manus", {"event": data}
+                    elif kind == "status":
+                        yield "manus_status", {"agent_status": data}
+                    elif kind == "timing":
+                        manus_timings = dict(data)
+                    elif kind == "final":
+                        # The poll loop already holds the complete event list -
+                        # re-paginating the whole task here was a wasted full
+                        # round-trip on a fresh connection.
+                        events = data
+                    # "done" -> fall through, handled below
+            except manus_client.ManusError as exc:
+                yield "error", {"message": f"Manus stream failed: {exc}"}
+                return
 
         raw = manus_client.structured_result(events)
         if raw is None:
@@ -353,6 +401,9 @@ async def run_stream(
         draft["source"] = "manus"
 
     draft = {**_normalize_draft(draft), "source": draft.get("source", "manus")}
+    draft["recommended_plan"], dropped_items = enforce_citation_discipline(
+        draft["recommended_plan"], retrieved_ids
+    )
     mark("synthesis", s)
     yield "stage", {"id": "synthesis", "state": "done"}
     yield "draft", draft
@@ -361,6 +412,7 @@ async def run_stream(
     s = perf_counter()
     audit = citation_check(draft["recommended_plan"], retrieved_ids)
     audit["evidence_quality"] = evidence_quality_audit(draft["recommended_plan"], compact_ev)
+    audit["dropped_items"] = dropped_items
     if audit["audited"] and audit["pass"]:
         status = "READY_FOR_CLINICIAN_REVIEW"
     elif audit["audited"]:
@@ -374,6 +426,11 @@ async def run_stream(
     yield "done", {
         "status": status,
         "timings": timings,
+        # per-phase breakdown of the Manus call: how long until the task was
+        # queryable, until the first event, until agent_status went terminal,
+        # and the post-stop structured-output tail. See open issue 2 in
+        # HANDOVER-timing-and-audit-reliability.md.
+        "manus_timings": manus_timings,
         "manus_called": cfg.manus_available,
         "task_url": task_url,
     }

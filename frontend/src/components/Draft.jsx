@@ -95,6 +95,19 @@ export default function Draft({ draft, audit, onCite, selectedEv }) {
         </div>
       )}
 
+      {audit?.dropped_items?.length > 0 && (
+        <div className="audit-banner" data-tone="info">
+          {audit.dropped_items.length === 1 ? "One item Manus drafted" : `${audit.dropped_items.length} items Manus drafted`}{" "}
+          didn't cite a passage that was actually retrieved, so {audit.dropped_items.length === 1 ? "it was" : "they were"}{" "}
+          removed from the plan below rather than shown uncited — kept here for the record, not as a recommendation:
+          <ul>
+            {audit.dropped_items.map((d) => (
+              <li key={d.id}>{d.text}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       {plan.length === 0 ? (
         <p className="empty prose">No plan drafted.</p>
       ) : (

@@ -1,0 +1,132 @@
+{
+  "decision_id": "c09ae5dc",
+  "recorded_at": "2026-09-13T17:59:22+00:00",
+  "patient_id": "cdc768aa-6340-2a41-5f7d-a8dba9d58779",
+  "clinician": "MN",
+  "decision": "reject",
+  "notes": "",
+  "pipeline_status": "READY_FOR_CLINICIAN_REVIEW",
+  "citation_audit": {
+    "invalid_evidence_ids": [],
+    "options_without_evidence_ids": [],
+    "pass": true,
+    "audited": true,
+    "evidence_quality": {
+      "weak_confidence_items": []
+    },
+    "dropped_items": [],
+    "status": "READY_FOR_CLINICIAN_REVIEW"
+  },
+  "draft": {
+    "assessment": "Active PTSD with extreme symptom burden (PCL-5 61; CAPS-5 severity extreme), onset at age 57, linked to a non-combat operational stressor. Suicide risk is not flagged in the current record, but a formal safety assessment remains required at clinical encounters. Current pharmacotherapy includes sertraline; several important data gaps exist (CAPS-5 symptom clusters, prior psychotherapy, sertraline dose/duration/adherence, substance-use history, sleep disturbance, trauma-treatment preferences, social supports, and comprehensive risk assessment).",
+    "recommended_plan": [
+      {
+        "id": "PLAN-001",
+        "cat": "assessment",
+        "text": "Complete diagnostic confirmation of PTSD and impairment via structured interview and CAPS-5 where indicated; clarify index event, ongoing exposure, moral injury, and safety context; capture patient treatment priorities and barriers; ensure formal safety assessment regardless of prior risk labeling.",
+        "rationale": "Ensures diagnostic accuracy and alignment with patient goals; addresses information gaps in the current record.",
+        "ev": [
+          "LOCAL-02901",
+          "LOCAL-00072"
+        ],
+        "cautions": [
+          "Avoid assuming a specific trauma-focused modality from the evidence; findings must guide shared decision-making."
+        ],
+        "conf": "high"
+      },
+      {
+        "id": "PLAN-002",
+        "cat": "psychotherapy",
+        "text": "Offer evidence-based trauma-focused psychotherapy appropriate to patient context, preferences, and local access; collaborate on modality selection (e.g., TF-CBT or other guideline-concordant approaches) and establish a treatment timeline with objective milestones; monitor with PCL-5 and functional goals.",
+        "rationale": "Trauma-focused therapies are first-line for PTSD with high symptom burden; modality should be patient-centered and practically feasible.",
+        "ev": [
+          "LOCAL-02901",
+          "LOCAL-04171"
+        ],
+        "cautions": [
+          "Evidence cited includes pediatric data and brief protocols; applicability to this adult patient requires clinical judgment and clinician competence."
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-003",
+        "cat": "medication",
+        "text": "Review and optimize sertraline regimen in collaboration with the prescribing clinician; assess dose, duration, adherence, response by symptom domain, adverse effects, sleep, glucose metabolism, and potential interactions with comorbid conditions; avoid automatic changes based on this draft; consider dose optimization or augmentation if clinically indicated.",
+        "rationale": "SSRIs have modest benefit and potential adverse effects; stabilization and optimization may improve outcomes.",
+        "ev": [
+          "LOCAL-00072"
+        ],
+        "cautions": [
+          "Monitor for activation, sleep disturbance, metabolic interactions with diabetes/obesity, and fatigue; changes require medical oversight."
+        ],
+        "conf": "moderate"
+      },
+      {
+        "id": "PLAN-004",
+        "cat": "safety-and-regulatory-considerations",
+        "text": "Document discussions of psychedelic-assisted therapies only within appropriate research or specialty pathways; do not present as routine care based on the supplied evidence.",
+        "rationale": "Investigate interest in psychedelic-assisted therapies only within appropriate research or specialty pathways; not routine care given current evidence.",
+        "ev": [
+          "LOCAL-02420",
+          "LOCAL-00072",
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "Regulatory and eligibility constraints are jurisdiction-specific; ensure informed consent and safety oversight if pursued in research settings."
+        ],
+        "conf": "low"
+      },
+      {
+        "id": "PLAN-005",
+        "cat": "coordination",
+        "text": "Coordinate with primary care and relevant specialists to manage active comorbidities (type 2 diabetes, obesity, anemia, acute infections) and assess how fatigue, sleep, pain, and functioning influence PTSD treatment engagement; align diabetes/obesity management with the PTSD plan without ascribing causation.",
+        "rationale": "Integrated care supports engagement and accurate symptom interpretation; medical comorbidities can confound assessment and treatment response.",
+        "ev": [
+          "LOCAL-00072",
+          "LOCAL-02715"
+        ],
+        "cautions": [
+          "Involve appropriate specialists; avoid duplicative testing; ensure safe timing of psychotherapy sessions with medical conditions."
+        ],
+        "conf": "moderate"
+      }
+    ],
+    "monitoring": [
+      "Track PTSD symptoms with PCL-5 at defined intervals and measure trajectory from baseline (61).",
+      "Reassess with CAPS-5 or structured diagnostic interview when clinically indicated to confirm diagnosis and clusters.",
+      "Assess safety at each contact: suicidality, self-harm, homicidal ideation, agitation, substance use, psychosis, mania; document protective factors.",
+      "Monitor functioning: sleep, work/relationships, avoidance, daily activities; align with patient-defined goals.",
+      "Review medication adherence, adverse effects, activation, sleep, metabolic interactions with comorbidities; decisions about changes rest with the prescribing clinician.",
+      "Evaluate psychotherapy engagement: alliance, attendance barriers, homework burden, and treatment fit.",
+      "Coordinate care for comorbid medical conditions; monitor energy, fatigue, and infection status that may affect engagement."
+    ],
+    "reassessment_triggers": [
+      "Lack of clinically meaningful PTSD symptom improvement (e.g., minimal PCL-5 reduction or no CAPS-5 improvement after 6–8 weeks of trauma-focused treatment).",
+      "Emergence or escalation of suicidal or self-harming thoughts, plans, or means access.",
+      "Significant adverse effects or poor tolerability from sertraline necessitating dose adjustment or alternative strategy.",
+      "Poor medication adherence or barriers to treatment attendance.",
+      "New or worsening sleep disturbance, cognitive changes, mania/hypomania, or dissociative symptoms.",
+      "New medical illnesses or acute infections impacting energy, concentration, or participation in treatment.",
+      "Patient request to change modality or discontinue treatment; decision-making to be revisited with patient."
+    ],
+    "missing": [
+      "CAPS-5 symptom cluster profile and duration",
+      "Prior psychotherapy history and response",
+      "Current sertraline dose, duration, adherence, tolerability",
+      "Substance use history and current use",
+      "Sleep disturbance assessment or disorder",
+      "Trauma-treatment preferences and treatment goals",
+      "Social supports and occupational context",
+      "Formal suicidal/homicidal risk assessment and protective factors",
+      "Active medical status of listed comorbidities (diabetes, obesity, anemia, infections) and current medications"
+    ],
+    "source": "manus"
+  },
+  "evidence_ids": [
+    "LOCAL-02901",
+    "LOCAL-04171",
+    "LOCAL-02420",
+    "LOCAL-00072",
+    "LOCAL-02715"
+  ]
+}
