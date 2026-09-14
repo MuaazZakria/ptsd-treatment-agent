@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://unworried-stingily-resend.ngrok-free.dev/api/:path*"
+      "destination": "https://iaso-acg6gsa4bngpafcp.northeurope-01.azurewebsites.net/api/:path*"
     }
   ]
 }
