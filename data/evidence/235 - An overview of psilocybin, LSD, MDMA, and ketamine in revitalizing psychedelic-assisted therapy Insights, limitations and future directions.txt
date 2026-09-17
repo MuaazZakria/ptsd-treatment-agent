@@ -1,0 +1,10 @@
+An overview of psilocybin, LSD, MDMA, and ketamine in revitalizing psychedelic-assisted therapy: Insights, limitations and future directions.
+
+Authors: Kiana Askariyan, M. Joghataei, S. Dehghan, Shabnam Nohesara, Leila Rihipour, M. Mohammadi, Nooshin Ahmadirad
+Journal: Progress in Neuro-psychopharmacology and Biological Psychiatry
+Date: 2025
+DOI: 10.1016/j.pnpbp.2025.111461
+Citations: 6
+URL: https://www.semanticscholar.org/paper/9f6bb295fe0d68033cc0c3a9eb1b65766ebd5cc1
+
+ABSTRACT: The resurgence of psychedelic-assisted psychotherapy marks a pivotal evolution in mental health treatment, challenging traditional paradigms by integrating compounds such as psilocybin, LSD, MDMA, and ketamine into clinical practice. Historically marginalized due to regulatory and societal concerns, these agents are now gaining recognition for their unique neurobiological mechanisms and therapeutic potential in addressing complex conditions like depression, PTSD, and addiction. Unlike conventional treatments, psychedelics exert their effects primarily through modulation of serotonin receptors and brain network connectivity, with each substance demonstrating distinct pharmacological profiles and clinical applications. Notably, psilocybin and LSD share serotonergic pathways but differ in receptor specificity and subjective effects, while MDMA's empathogenic properties and ketamine's rapid antidepressant action offer alternative therapeutic avenues. Recent FDA breakthrough therapy designations for psilocybin and MDMA underscore a shift toward evidence-based acceptance, yet the field remains challenged by methodological limitations, regulatory barriers, and ethical considerations. This narrative review synthesizes historical developments, mechanistic insights, and clinical outcomes, emphasizing the need for rigorous research, diverse patient cohorts, and thoughtful integration of psychedelics with psychotherapeutic modalities to realize their full therapeutic promise.

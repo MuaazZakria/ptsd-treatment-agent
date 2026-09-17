@@ -1,0 +1,10 @@
+MDMA in Psychiatry: From PTSD to emerging indications, safety, and future directions
+
+Authors: Ming-Ming Zhao, Jian-Jun Yang, Kenji Hashimoto
+Journal: Psychedelics
+Date: 2025
+DOI: 10.61373/pp025i.0035
+Citations: 2
+URL: https://doi.org/10.61373/pp025i.0035
+
+ABSTRACT: MDMA, 3,4-methylenedioxymethamphetamine (“ecstasy,” “molly”), is a distinctive entactogen that reverses the serotonin (5-HT) transporter to increase synaptic 5-HT, while also engaging catecholaminergic and oxytocinergic pathways. In clinical trials, MDMA-assisted psychotherapy has yielded substantial improvements in treatment-resistant posttraumatic stress disorder (PTSD), although regulatory approval has been delayed over concerns about functional unblinding and protocol rigor. Early randomized, placebo-controlled studies also suggest benefits in autism spectrum disorder, eating disorders with comorbid PTSD, and anxiety related to life-threatening illness. Large epidemiological and naturalistic studies associate MDMA use with lower rates of depression, reduced suicidal ideation, and improved posttrauma coping, though causal inference is limited. MDMA-associated hyponatremia appears primarily linked to oxytocin-mediated antidiuresis (elevated plasma oxytocin without a copeptin rise), with arginine vasopressin potentially contributing under hyperthermia or polydipsia. In rodents, MDMA pretreatment enhances stress resilience and preserves adaptive neuroplasticity via a vagus-dependent gut–brain axis. This review traces MDMA's history; synthesizes evidence on acute risks (hyperthermia, hyponatremia, sympathomimetic overstimulation, and transient cognitive effects); and evaluates long-term outcomes and putative resilience mechanisms. Future work should standardize dosing and psychotherapeutic protocols, incorporate biomarkers to guide patient selection, and conduct adequately powered trials across emerging indications, alongside long-term safety monitoring and multidisciplinary collaboration.

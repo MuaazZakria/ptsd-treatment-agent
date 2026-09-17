@@ -1,0 +1,23 @@
+Associations of sleep measures with neural activations accompanying fear conditioning and extinction learning and memory in trauma-exposed individuals.
+
+Authors: Jee-Hye Seo, K. Oliver, Carolina Daffre, Kylie N. Moore, Samuel Gazecki, N. Lasko, M. Milad, E. Pace-Schott
+Journal: Sleep
+Date: 2021
+DOI: 10.1093/sleep/zsab261
+Citations: 21
+URL: https://academic.oup.com/sleep/article-pdf/45/3/zsab261/45287120/zsab261.pdf
+
+ABSTRACT: STUDY OBJECTIVES
+Sleep disturbances increase risk of posttraumatic stress disorder (PTSD). Sleep effects on extinction may contribute to such risk. Neural activations to fear extinction were examined in trauma-exposed participants and associated with sleep variables.
+
+
+METHODS
+Individuals trauma-exposed within the past 2 years (N=126, 63 PTSD) completed 2 weeks actigraphy and sleep diaries, 3 nights ambulatory polysomnography and a 2-day fMRI protocol with Fear-Conditioning, Extinction-Learning and, 24h later, Extinction-Recall phases. Activations within the anterior cerebrum and regions of interest (ROI) were examined within the total, PTSD-diagnosed and trauma-exposed control (TEC) groups. Sleep variables were used to predict activations within groups and among total participants. Family wise error was controlled at p<0.05 using nonparametric analysis with 5000 permutations.
+
+
+RESULTS
+Initially, Fear Conditioning activated broad subcortical and cortical anterior-cerebral regions. Within-group analyses showed: (1) by end of Fear Conditioning activations decreased in TEC but not PTSD; (2) across Extinction Learning, TEC activated medial prefrontal areas associated with emotion regulation whereas PTSD did not; (3) beginning Extinction Recall, PTSD activated this emotion-regulatory region whereas TEC did not. However, the only between-group contrast reaching significance was greater activation of a hippocampal ROI in TEC at Extinction Recall. A greater number of sleep variables were associated with cortical activations in separate groups versus the entire sample and in PTSD versus TEC.
+
+
+CONCLUSIONS
+PTSD non-significantly delayed extinction learning relative to TEC possibly increasing vulnerability to pathological anxiety. The influence of sleep integrity on brain responses to threat and extinction may be greater in more symptomatic individuals.

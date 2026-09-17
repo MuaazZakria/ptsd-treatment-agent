@@ -1,0 +1,10 @@
+History, pharmacology and therapeutic mechanisms of 3,4-methylenedioxymethamphetamine (MDMA).
+
+Authors: Austen B. Casey, B. Heifets
+Journal: British Journal of Pharmacology
+Date: 2025
+DOI: 10.1111/bph.70225
+Citations: 3
+URL: https://www.semanticscholar.org/paper/b26084b5289537f1edb0b6b729d9b6b8aed8b21a
+
+ABSTRACT: The illicit drug 3,4-methylenedioxymethamphetamine (MDMA) has recently shown promising efficacy as an adjunct to psychotherapy for posttraumatic stress disorder (PTSD), although the underlying mechanisms are poorly defined. In this review, we contextualize the emergence of MDMA-assisted psychotherapy (MDMA-AT) within 20th century psychiatry and trace its journey from assisting with military interrogation, through prohibition and to clinical use. We outline three core domains of MDMA's subjective effects-prosocial behaviour, reduced threat perception and euphoria-and explore how each may relate to its therapeutic efficacy and abuse liability. Drawing from clinical, behavioural, and pharmacological studies, we highlight the central role of 5-HT (serotonin) in mediating the effects of MDMA, while identifying key gaps in our understanding of its mechanism of action. We also assess how preclinical models capture therapeutic-relevant processes, discuss the limitations of existing data (including sex biases and an assumed role for therapeutic alliance) and suggest strategies to unravel the neurobiological basis of MDMA's therapeutic effects. Clarifying these mechanisms will be critical for optimizing future clinical protocols, mitigating risks and guiding the clinical development of safer, mechanistically informed MDMA-like therapeutic agents.

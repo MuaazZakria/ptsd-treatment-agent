@@ -1,0 +1,19 @@
+Ketamine-enhanced Prolonged Exposure Therapy in Veterans with PTSD: A Randomized Controlled Trial Protocol
+
+Authors: P. Shiroma, Paul Thuras, Melissa A. Polusny, S. Kehle-Forbes, S. Disner, J. Pardo, Brian Tolly, Emily Voller, E. McManus, Christie King, Alexandra J. Lipinski, Emily Eng, Francine Hawkinson, Gloria Wang
+Journal: Contemporary Clinical Trials
+Date: 2024
+DOI: 10.1016/j.cct.2024.107569
+Citations: 6
+URL: https://www.semanticscholar.org/paper/0a46d810051f71bb7665833024e24e362d920d9f
+
+ABSTRACT: BACKGROUND
+The 2023 VA/DoD Clinical Practice Guideline for the Management of PTSD recommends individual, manualized trauma-focused such as Prolonged Exposure (PE) over pharmacologic interventions for the primary treatment of PTSD. Unfortunately, clinical trials of trauma-based therapies in the military and veteran population showed that 30% to 50% of patients did not demonstrate clinically meaningful symptom change. Ketamine, an FDA-approved anesthetic with potent non-competitive glutamatergic N-methyl-d-aspartate antagonistic properties, has demonstrated to enhance the recall of extinction learning and decrease fear renewal without interference of extinction training in preclinical studies.
+
+
+METHODS
+We plan to conduct a single site RCT comparing three ketamine treatment vs. active placebo (midazolam) adjunct to PE therapy among Veterans with PTSD. Pharmacological phase will start simultaneously with PE session 1. Infusions will be administered 24 h. prior to PE session for the first 3 weeks. After PE is completed (session 10), patients will be assessed during a 3-month follow-up period at various time points. We estimate that out of 100 veterans, 80 will reach time point for primary outcome measure and will be considered for primary analysis. Secondary outcomes include severity of depression and anxiety scores, safety and tolerability of ketamine-enhanced PE therapy, cognitive performance during treatment and early improvement during PE related to the rate of dropouts during PE therapy.
+
+
+DISCUSSION
+Results of the proposed RCT could provide scientific foundation to distinguish the essential components of this approach, enhance the methodology, elucidate the mechanisms involved, and identify sub-PTSD populations that most likely benefit from this intervention.

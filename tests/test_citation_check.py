@@ -1,4 +1,4 @@
-from iaso_lite.synthesis import (
+from ptsd_lite.synthesis import (
     _normalize_draft,
     citation_check,
     enforce_citation_discipline,

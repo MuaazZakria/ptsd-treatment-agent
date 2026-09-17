@@ -1,0 +1,31 @@
+The effects of cannabis, cannabinoids, and their administration routes on pain control efficacy and safety: A systematic review and network meta-analysis.
+
+Authors: Karma Rabgay, N. Waranuch, N. Chaiyakunapruk, Ratree Sawangjit, K. Ingkaninan, P. Dilokthornsakul
+Journal: Journal of the American Pharmacists Association
+Date: 2019
+DOI: 10.1016/J.JAPH.2019.07.015
+Citations: 58
+URL: https://www.semanticscholar.org/paper/065c8f28185dfc0386934a68c3cf6154896c28e2
+
+ABSTRACT: OBJECTIVES
+To determine the effects of cannabis, cannabinoids, and their administration routes on pain and adverse euphoria events.
+
+
+DATA SOURCES
+A systematic search was performed in PubMed, ScienceDirect, ClincalTrials.gov, Scopus, Cochrane Library, and Embase from inception until June 2017.
+
+
+STUDY SELECTION
+Randomized controlled trials investigating the effects of cannabis or cannabinoids on pain reduction.
+
+
+DATA EXTRACTION
+Two reviewers extracted and assessed the quality of studies by means of Cochrane risk of bias. Standardized mean difference (SMD) was calculated. Random-effects model was undertaken to pool the treatment effects.
+
+
+RESULTS
+A total of 25 studies involving 2270 patients were included. We found that delta-9-tetrahydrocannabinol/cannabidiol (THC/CBD) (oromucosal route), THC (oromucosal route), and standardized dried cannabis (with THC; SCT; inhalation route) could reduce neuropathic pain score (SMD -0.41, 95% CI -0.7 to -0.1; -0.61, 95% CI -1.2 to -0.02; and -0.77, 95% CI -1.4 to -0.2; respectively). For nociceptive pain, only standardized cannabis extract (with THC; SCET) via oral route could reduce pain score (SMD -1.8, 95% C; -2.4 to -1.2). In cancer pain, THC/CBD via oromucosal route and THC via oral or oromucosal route could reduce pain score (SMD -0.7, 95% CI -1.2 to -0.2; and -2.1, 95% CI -2.8 to -1.4; respectively). No study was observed for THC/CBD via oral route or inhalation or THC via inhalation for cancer and nociceptive pain, SCET via oromucosal route or inhalation for neuropathic and cancer pain, THC via oromucosal route for nociceptive pain, and SCT via oromucosal or oral route for neuropathic, cancer, and nociceptive pain. Statistically significant increased risks of euphoria were observed in THC/CBD (oromucosal), THC (oromucosal), and SCT (inhalation).
+
+
+CONCLUSION
+The use of cannabis and cannabinoids via certain administration routes could reduce different types of pain. Product developers could consider our findings as part of their product design so that the effective route of cannabis and cannabinoids for pain control can be achieved.

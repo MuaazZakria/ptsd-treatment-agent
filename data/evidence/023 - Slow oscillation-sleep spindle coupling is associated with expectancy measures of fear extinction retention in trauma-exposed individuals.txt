@@ -1,0 +1,23 @@
+Slow oscillation-sleep spindle coupling is associated with expectancy measures of fear extinction retention in trauma-exposed individuals.
+
+Authors: Dan Denis, R. Bottary, Tony J. Cunningham, Per Davidson, C. Yuksel, Mohammed R. Milad, E. Pace-Schott
+Journal: Biological Psychiatry: Cognitive Neuroscience and Neuroimaging
+Date: 2025
+DOI: 10.1016/j.bpsc.2025.08.009
+Citations: 5
+URL: https://www.semanticscholar.org/paper/b9a82fee29c724f795e056e345c6adde7e4d1c84
+
+ABSTRACT: BACKGROUND
+Posttraumatic stress disorder (PTSD) can be characterized as a disorder of fear learning and memory, in which there is a failure to retain memory for the extinction of conditioned fear. Sleep has been implicated in successful extinction retention. The coupling of sleep spindles to slow oscillations (SOs) during non-rapid eye movement sleep has been shown to broadly underpin sleep's beneficial effect on memory consolidation. However, the role of this oscillatory coupling in the retention of extinction memories is unknown.
+
+
+METHODS
+In a large sample of 124 trauma-exposed individuals, we investigated SO-spindle coupling in relation to fear extinction memory.
+
+
+RESULTS
+We found that participants with a PTSD diagnosis, relative to trauma-exposed controls, showed significantly altered SO-spindle timing, such that PTSD participants exhibited spindle coupling further away from the peak of the SO. Across participants, the amount of coupling significantly predicted extinction retention, with coupled spindles uniquely predicting successful extinction retention compared to uncoupled spindles.
+
+
+CONCLUSIONS
+These results suggest that SO-spindle coupling is critical for successful retention of extinguished fear, and that SO-spindle coupling dynamics are altered in PTSD. These alterations in the mechanics of sleep may have substantial clinical implications, meriting further investigation.

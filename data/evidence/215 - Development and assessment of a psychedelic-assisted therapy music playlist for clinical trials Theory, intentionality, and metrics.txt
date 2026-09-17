@@ -1,0 +1,22 @@
+Development and assessment of a psychedelic-assisted therapy music playlist for clinical trials: Theory, intentionality, and metrics
+
+Authors: Rafaelle Lancelotta, Paul B Nagib, Stacey B. Armstrong, Adam W. Levin, Alan K. Davis
+Journal: Journal of Psychedelic Studies
+Date: 2026
+DOI: 10.1556/2054.2026.00462
+Citations: 0
+URL: https://www.semanticscholar.org/paper/5afc83e323d90778a832306299566d39fed7300d
+
+ABSTRACT: Music plays a central role in psychedelic-assisted therapy, yet few methodologies exist to create and assess therapeutic playlists. This study aimed to illustrate a methodology for developing and evaluating a music playlist for a clinical psilocybin trial using an integrative framework grounded in theory, intentionality, and metrics.
+ 
+ 
+ 
+ A playlist was designed based on clinical experience, phenomenological data, and therapeutic goals across pre-peak, peak, and post-peak phases of psilocybin administration. Each track was evaluated using Spotify's Application Programming Interface (API) metrics (Beats Per Minute, Danceability, Energy, and Valence). In addition, an exploratory human-rated measure of Transcendence was created and included to capture aspects of musical depth not represented by existing API metrics. Together, these tools provided a proof-of-concept model for how intentional playlist design may be supplemented with objective and experiential metrics in future psychedelic-assisted therapy research.
+ 
+ 
+ 
+ Most musical features followed the hypothesized emotional arc of the psilocybin experience represented in prior literature. Some deviations occurred, including misclassification of nature-based tracks as high-energy by the Spotify API, highlighting the limitations of algorithmic classification. Transcendence ratings suggested continued emotional depth in the music during post-peak phases.
+ 
+ 
+ 
+ This proof-of-concept model demonstrates the value of combining intentional playlist design with exploratory use of algorithmic and experiential metrics. While Spotify metrics may lack stability and generalizability, the integrative approach offers a transparent example that future researchers may adapt and refine for their own clinical and cultural contexts.

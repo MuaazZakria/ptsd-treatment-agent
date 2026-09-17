@@ -1,0 +1,30 @@
+ADVERSE DRUG REACTIONS AND SAFETY PROFILE OF ANTIDIABETIC DRUGS IN TYPE 2 DIABETES PATIENTS
+
+Authors: Razwan Ashraf, Athar Parvaiz, Qamar Sajad, H. Khan, Rafaqat Malik, Sania Attique, Ali Mahgoub
+Journal: International Journal of Drug Delivery Technology
+Date: 2026
+DOI: 10.25258/ijddt.16.47s.74
+Citations: 0
+URL: https://www.semanticscholar.org/paper/e7722d2b04a58f719f23207ddcbae82e64f891b9
+
+ABSTRACT: Background: Type 2 diabetes mellitus (T2DM) is a chronic metabolic condition and is characterized by a need for
+lifelong medical treatment with medications to control blood sugar and prevent complications. Continuous use of
+antidiabetic medications is frequently associated with adverse drug reactions (ADRs), which may negatively affect
+patient compliance, therapeutic outcomes, and overall safety.
+Objective: To assess the adverse drug effects and safety profile of antidiabetic drugs in patients with Type 2 DM
+receiving antidiabetic therapy at a tertiary care hospital.
+Methods: The study was a cross-sectional observational study conducted at the Aziz Bhatti Shaheed Teaching Hospital
+in Gujrat, Pakistan, from January 2025 to January 2026. Non-probability consecutive sampling was used, and 100
+diagnosed T2DM patients taking oral antidiabetic drug and/or insulin therapy were enrolled. Structured interviews
+and medical record reviews were used for demographic data, treatment patterns, laboratory parameters, and adverse
+drug reactions. The causality and severity for ADRs were determined by the Naranjo Probability Scale and Modified
+Hartwig and Siegel Severity Scale, respectively. Data analysis was carried out by SPSS 26.0 software.
+Results: Among 100 participants, 46.0% experienced at least one adverse drug reaction during therapy. The most
+frequent ADRs were gastrointestinal, such as nausea, diarrhea, and abdominal discomfort, especially in those taking
+metformin. Sulfonylureas and insulin therapy were the greatest risk factors for hypoglycemia. The majority of ADRs
+were either mild (60.9%) or moderate (30.4%), with severe reactions making up 8.7% of cases. The frequency of ADR
+was significantly associated with combination therapy, advanced age, obesity, long duration of diabetes, and high
+HbA1c level (p < 0.05).
+Conclusion: Adverse drug reactions are a frequent problem in Type 2 diabetes mellitus patients on antidiabetic
+treatment. To enhance the safety of medicines and therapeutic compliance in diabetic populations, regular
+pharmacovigilance monitoring, individualized treatment, and counseling of patients are required.

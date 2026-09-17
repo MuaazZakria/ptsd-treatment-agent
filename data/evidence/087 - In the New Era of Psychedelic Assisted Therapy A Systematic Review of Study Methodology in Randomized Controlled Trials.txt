@@ -1,0 +1,10 @@
+In the New Era of Psychedelic Assisted Therapy: A Systematic Review of Study Methodology in Randomized Controlled Trials
+
+Authors: Paul S Soliman, Dallece E. Curley, Christy Capone, Erica Eaton, C. Haass-Koffler
+Journal: Psychopharmacology
+Date: 2024
+DOI: 10.1007/s00213-024-06598-6
+Citations: 16
+URL: https://www.semanticscholar.org/paper/d4258142db214305ffdd779e2a168cad15b61a2d
+
+ABSTRACT: Recent years have seen a resurgence in randomized, placebo controlled trials (RCTs) utilizing non-classical psychedelics (e.g. 3,4-methyl enedioxy methamphetamine [MDMA]), and classical psychedelics (e.g. psilocybin, lysergic acid diethylamide [LSD], and N,N-dimethyltryptamine [DMT/ayahuasca]) in conjunction with assisted therapy (AT) for psychiatric disorders. A notable methodological challenge in psychedelic AT, however, is the complexity of blinding procedures. The lack of efficacious blinding can introduce considerable response bias, reduce internal validity, and compromise participant retention. This systematic review examines design and blinding techniques in RCTs utilizing psychedelics and placebo for the treatment of psychiatric disorders. The aim of this work is to identify factors that may inform future RTC design for conducting psychedelics research. We conducted a systematic review of PubMed, MEDLINE, CINAHL, Cochrane Central Register of Controlled Trials (CENTRAL), Psycinfo, Embase, and Web of Science Core Collection to examine: (1) placebo selection, (2) study design, and (3) integrity of blinding measures. Sixteen publications were identified as meeting the criteria for a systematic review. Our findings suggest that traditional placebo administration is insufficient to control for expectancy confounds. Consequently, experimental methodology that limits personnel unblinding and the use of an active placebo are important considerations when designing prospective clinical studies involving psychedelics.

@@ -1,0 +1,14 @@
+COMPARATIVE EFFICACY OF COGNITIVE BEHAVIORAL THERAPY AND PHARMACOLOGICAL TREATMENT IN GENERALIZED ANXIETY DISORDER
+
+Authors: Urooj Nasir, Alveera Akmal, Zia ud Din, Muhammad Hasnain Shahid, Asmaa Jan Muhammad, Soha Khan
+Journal: Insights-Journal of Life and Social Sciences
+Date: 2025
+DOI: 10.71000/05xp9735
+Citations: 0
+URL: https://www.semanticscholar.org/paper/2841865475d5d946709303672bb104a8d0b11cb5
+
+ABSTRACT: Background: Generalized anxiety disorder (GAD) is a prevalent psychiatric condition characterized by persistent and excessive worry, significantly impairing quality of life and daily functioning. Both cognitive behavioral therapy (CBT) and pharmacological interventions are recognized as first-line treatments; however, uncertainty remains regarding their relative long-term effectiveness and relapse prevention potential. Existing studies have yielded variable outcomes, warranting a comprehensive synthesis to guide evidence-based clinical decision-making.
+Objective: This systematic review aims to evaluate and compare the effectiveness of cognitive behavioral therapy versus pharmacologic treatments in reducing symptoms and preventing relapse in adult patients with generalized anxiety disorder.
+Methods: A systematic review was conducted following PRISMA guidelines. Databases searched included PubMed, Scopus, Web of Science, and Cochrane Library up to 2024. Randomized controlled trials and high-quality meta-analyses comparing CBT with pharmacologic treatments in adults diagnosed with GAD were included. Studies were screened using predefined inclusion and exclusion criteria, with data independently extracted and assessed for risk of bias using the Cochrane RoB 2.0 tool. A narrative synthesis was performed due to heterogeneity in outcome measures and interventions.
+Results: Eight studies encompassing a total of 2,643 participants were included. Both CBT and pharmacological treatments significantly reduced anxiety symptoms. While pharmacologic treatments provided faster initial symptom relief, CBT demonstrated superior long-term outcomes, including lower relapse rates and sustained symptom reduction. CBT was also associated with fewer adverse effects and better treatment adherence. Methodological quality was generally high, although heterogeneity and potential publication bias were noted.
+Conclusion: CBT appears to be as effective as pharmacologic treatment for GAD in the short term and offers distinct advantages in long-term management and relapse prevention. Despite the strength of current evidence, further large-scale, standardized trials are needed to validate these findings and refine treatment guidelines.

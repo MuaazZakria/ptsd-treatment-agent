@@ -123,7 +123,7 @@ const blank = () => ({
 });
 
 /**
- * One EventSource against GET /api/run?patient_id=…. Assembles the IASO stage
+ * One EventSource against GET /api/run?patient_id=…. Assembles the pipeline stage
  * payloads plus the live Manus working feed. `nonce` forces a fresh run.
  *
  * NOTE: /api/run creates a Manus task per connection. On a dropped connection

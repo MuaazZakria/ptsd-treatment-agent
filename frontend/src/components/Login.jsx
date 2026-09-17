@@ -24,7 +24,7 @@ export default function Login({ onSuccess }) {
   return (
     <div className="login-screen">
       <form className="login-card" onSubmit={submit}>
-        <span className="mark">IASO</span>
+        <span className="mark">PTA</span>
         <p className="login-lead">Admin sign-in — this console handles synthetic PTSD case data.</p>
         <label className="field">
           <span>Password</span>

@@ -1,0 +1,10 @@
+Overlap in the neural circuitry and molecular mechanisms underlying ketamine abuse and its use as an antidepressant.
+
+Authors: S. Kokane, Ross J. Armant, Carlos A. Bolaños-Guzmán, L. Perrotti
+Journal: Behavioural Brain Research
+Date: 2020
+DOI: 10.1016/j.bbr.2020.112548
+Citations: 53
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7469509
+
+ABSTRACT: Ketamine, a dissociative anesthetic and psychedelic compound, has revolutionized the field of psychopharmacology by showing robust, and rapid-acting antidepressant activity in patients suffering from major depressive disorder (MDD), suicidal tendencies, and treatment-resistant depression (TRD). Ketamine’s efficacy, however, is transient, and patients must return to the clinic for repeated treatment as they experience relapse. This is cause for concern because ketamine is known for its abuse liability, and repeated exposure to drugs of abuse often leads to drug abuse/dependence. Though the mechanism(s) underlying its antidepressant activity is an area of current intense research, both clinical and preclinical evidence shows that ketamine’s effects are mediated, at least in part, by molecular adaptations resulting in long-lasting synaptic changes in mesolimbic brain regions known to regulate natural and drug reward. This review outlines our limited knowledge of ketamine’s neurobiological and biochemical underpinnings mediating its antidepressant effects and correlates them to its abuse potential. Depression and addiction share overlapping neural circuitry and molecular mechanisms, and though speculative, repeated use of ketamine for the treatment of depression could lead to the development of substance use disorder/addiction, and thus should be tempered with caution. There is much that remains to be known about the long-term effects of ketamine, and our lack of understanding of neurobiological mechanisms underlying its antidepressant effects is a clear limiting factor that needs to be addressed systematically before using repeated ketamine in the treatment of depressed patients.

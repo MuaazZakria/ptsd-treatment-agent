@@ -1,5 +1,5 @@
 /* ============================================================================
-   IASO · Manus Console — retheme onto the Organic design system.
+   PTSD Treatment Agent — retheme onto the Organic design system.
    Warm cream ground, terracotta + sage accents, Caprasimo/Figtree type,
    over-rounded cards and pill controls.
    ========================================================================== */
@@ -170,7 +170,7 @@ button.task-link { background: none; border: none; border-bottom: 1px solid colo
 
 /* -------------------------------------------------------------------- grid */
 
-.grid, .grid-iaso { display: grid; grid-template-columns: 1.6fr 1fr; gap: var(--space-6); min-height: 0; }
+.grid, .grid-main { display: grid; grid-template-columns: 1.6fr 1fr; gap: var(--space-6); min-height: 0; }
 
 .panel {
   position: relative; display: flex; flex-direction: column; min-height: 0;
@@ -489,7 +489,7 @@ button.task-link { background: none; border: none; border-bottom: 1px solid colo
 
 @media (max-width: 900px) {
   .shell { height: auto; min-height: 100%; grid-template-rows: auto auto; }
-  .grid, .grid-iaso { grid-template-columns: 1fr; }
+  .grid, .grid-main { grid-template-columns: 1fr; }
   .telemetry { max-height: 60vh; }
 }
 
@@ -516,7 +516,7 @@ button.task-link { background: none; border: none; border-bottom: 1px solid colo
   a { color: #000; }
 
   .shell { max-width: none; height: auto; padding: 0.4in 0.5in; display: block; }
-  .grid, .grid-iaso { display: block; }
+  .grid, .grid-main { display: block; }
 
   .panel {
     background: #fff !important; box-shadow: none !important; border-radius: 0;

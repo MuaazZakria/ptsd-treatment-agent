@@ -1,0 +1,23 @@
+Psychedelic Therapy: A Primer for Primary Care Clinicians-Mescaline.
+
+Authors: Burton J. Tabaac, K. Shinozuka, Mahdi Fadel, G. Jones, Jared Worchel, Owen S Muir
+Journal: American Journal of Therapeutics
+Date: 2026
+DOI: 10.1097/MJT.0000000000002160
+Citations: 0
+URL: https://doi.org/10.1097/mjt.0000000000002160
+
+ABSTRACT: BACKGROUND
+Mescaline (3,4,5-trimethoxyphenethylamine) is a classic serotonergic psychedelic with a history of indigenous ceremonial use. There is renewed scientific interest in mescaline because of the potential psychiatric benefits of psychedelic-assisted therapy. Mescaline primarily exerts its psychoactive effects through serotonin-2A (5-HT2A) receptor agonism.
+
+
+AREAS OF UNCERTAINTY
+There is a lack of controlled clinical trials evaluating mescaline in patient populations, and most modern safety data are derived from healthy volunteers. Consequently, its safety in individuals with cardiovascular, metabolic, or psychiatric comorbidities remains unclear. Additional uncertainty exists regarding its psychological risks, long duration of action, and long-term safety in therapeutic settings.
+
+
+THERAPEUTIC ADVANCES
+Randomized, placebo-controlled studies in healthy participants demonstrate that mescaline produces dose-dependent subjective effects with moderate, transient autonomic stimulation and no serious medical complications under controlled conditions. Adverse effects are generally self-limited, and pooled safety analyses and observational data support an overall favorable safety profile in screened human populations.
+
+
+CONCLUSION
+Mescaline shows preliminary safety in healthy humans but remains understudied in clinical populations. Controlled clinical trials are needed to establish its safety and therapeutic potential.

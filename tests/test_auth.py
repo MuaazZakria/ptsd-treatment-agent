@@ -12,7 +12,7 @@ def client():
 def test_wrong_password_rejected_no_cookie(client):
     r = client.post("/api/login", json={"password": "nope"})
     assert r.status_code == 401
-    assert "iaso_session" not in r.cookies
+    assert "pta_session" not in r.cookies
 
 
 def test_protected_route_requires_session(client):
@@ -23,7 +23,7 @@ def test_protected_route_requires_session(client):
 def test_correct_password_grants_access(client):
     r = client.post("/api/login", json={"password": "test-admin-password"})
     assert r.status_code == 200
-    assert "iaso_session" in r.cookies
+    assert "pta_session" in r.cookies
 
     r2 = client.get("/api/patients")
     assert r2.status_code == 200

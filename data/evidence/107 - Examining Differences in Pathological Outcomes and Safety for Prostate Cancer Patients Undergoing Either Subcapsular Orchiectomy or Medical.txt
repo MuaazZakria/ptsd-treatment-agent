@@ -1,0 +1,10 @@
+Examining Differences in Pathological Outcomes and Safety for Prostate Cancer Patients Undergoing Either Subcapsular Orchiectomy or Medical Androgen Deprivation Therapy: A Systematic Review
+
+Authors: Erick Frapancah, I. Soerohardjo
+Journal: F1000Research
+Date: 2025
+DOI: 10.12688/f1000research.161612.1
+Citations: 0
+URL: https://doi.org/10.12688/f1000research.161612.1
+
+ABSTRACT: Purpose The purpose of this systematic review is to investigate differences in pathological outcomes and safety between subcapsular orchiectomy and pharmacological androgen deprivation therapy (ADT) for prostate cancer management. Methods A systematic search was conducted on PubMed, Google Scholar, and ScienceDirect for original articles published until February 2024 that compared tumour characteristics, biochemical markers, and adverse effects associated with these treatments. The risk of bias from each study was assessed using the Newcastle Ottawa Scale and Risk of Bias-2 (ROB-2) tool. Results Thirteen studies meeting the inclusion criteria were analysed. Both subcapsular orchiectomy and pharmacological ADT effectively reduced tumour size and prostate-specific antigen (PSA) levels. Subcapsular orchiectomy was linked to higher surgical complication rates. At the same time, due to its systemic pharmacological mechanisms, pharmacological ADT carries a greater risk of metabolic side effects, such as weight gain and insulin resistance. Conclusions Both subcapsular orchiectomy and pharmacological ADT are viable options for prostate cancer treatment. However, their differing safety and pharmacological profiles highlight the need for personalised treatment strategies based on individual patient factors and preferences. PROSPERO registration CRD42025634678 (17/01/2025).

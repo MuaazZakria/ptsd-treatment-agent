@@ -1,0 +1,27 @@
+The Use of Cannabinoids in the Treatment of Peripheral Neuropathy and Neuropathic Pain: A Systematic Review.
+
+Authors: Janice Choi, Gabrielle Li, Kristen L. Stephens, Michael P. Timko, Brent R. DeGeorge
+Journal: Journal of Hand Surgery-American Volume
+Date: 2024
+DOI: 10.1016/j.jhsa.2024.09.015
+Citations: 5
+URL: https://www.semanticscholar.org/paper/f0ca2453c8929e1478cdb152e96c732f03f6deb1
+
+ABSTRACT: PURPOSE
+Peripheral neuropathies are commonly occurring conditions that are chronic and debilitating for patients. Established nonsurgical treatments have yielded mixed and patient-dependent results. Although cannabinoids have demonstrated efficacy as a treatment for central neuropathic pain, the therapeutic potential of cannabis-based medications for the management of peripheral neuropathic pain caused by nerve injury, trauma, and other noncompressive etiologies has yet to be definitively established. This study aims to determine whether cannabinoids are a potentially effective treatment for pain and symptoms associated with peripheral neuropathy.
+
+
+METHODS
+A systematic search was conducted by two independent reviewers across PubMed, Cochrane, Ovid Medline, and CINAHL to identify studies in accordance with the predetermined inclusion/exclusion criteria. Information regarding study design, medication, dosage, effect on neuropathic pain, and other related outcomes was extracted. Meta-analysis of pain scores was performed for seven studies, and descriptive statistics were used to summarize other study findings as appropriate.
+
+
+RESULTS
+Of the 927 studies identified, 14 randomized controlled trials were included. Thirteen of 14 studies (79%) observed a statistically significant decrease in neuropathic pain score following treatment with a cannabinoid. Meta-analysis yielded a mean difference of -0.67 [-0.89, -0.45]) on a 0-10 scale compared with placebo. Improvements in secondary outcomes such as sleep, sensory symptoms, and quality of life were observed.
+
+
+CONCLUSIONS
+Our analysis of the literature shows that cannabis-based medicines may be effective in treating the pain and symptoms of peripheral neuropathy. These findings suggest the applicability of cannabis-based medicines for peripheral neuropathy.
+
+
+TYPE OF STUDY/LEVEL OF EVIDENCE
+Therapeutic IV.

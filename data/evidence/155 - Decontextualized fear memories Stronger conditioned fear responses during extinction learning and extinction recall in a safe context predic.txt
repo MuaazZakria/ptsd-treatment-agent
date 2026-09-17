@@ -1,0 +1,23 @@
+Decontextualized fear memories? Stronger conditioned fear responses during extinction learning and extinction recall in a safe context predict the development of long-term analog intrusions.
+
+Authors: M. Neudert, Axel Schäfer, Raphaela I. Zehtner, S. Fricke, Rosa J. Seinsche, Rudolf Stark, A. Hermann
+Journal: Psychological Medicine
+Date: 2023
+DOI: 10.1017/S0033291723001125
+Citations: 1
+URL: https://doi.org/10.1017/s0033291723001125
+
+ABSTRACT: BACKGROUND
+Difficulties in the context-dependent modulation of conditioned fear are known for posttraumatic stress disorder and may explain the occurrence of intrusive memories in safe contexts. The current study therefore investigated if reduced context-dependent modulation of conditioned fear and its underlying neural circuitry constitute risk factors for the development of analog intrusions in response to an experimental trauma.
+
+
+METHODS
+Eighty-five healthy women participated in the trauma film paradigm to investigate the development of analog intrusions as well as explicit memory for an experimental trauma after one week and three months, respectively. Before, participants underwent a context-dependent fear conditioning paradigm during functional magnetic resonance imaging with fear acquisition in context A and extinction training in context B on a first day, as well as extinction recall in context B and fear renewal in a novel context C one day later. Skin conductance responses (SCRs) and blood oxygen level dependent responses were main outcome measures.
+
+
+RESULTS
+In addition to stronger fear acquisition in context A, stronger conditioned fear responses in the safe context B, as indicated by stronger conditioned SCRs or stronger activation of fear expressing regions during extinction learning and recall, predicted the development of long-term analog intrusions.
+
+
+CONCLUSIONS
+Stronger fear responses in safe and danger contexts were risk factors for the development of long-term analog intrusions and point to decontextualized fear memories and difficulties in the context-dependent modulation of conditioned fear. Altered fear conditioning processes and reduced storage of contextual information may cause the occurrence of fear independent of context.

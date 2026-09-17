@@ -1,0 +1,10 @@
+Identifying predictors of long-term treatment outcomes using narratives from written exposure therapy and cognitive processing therapy for PTSD.
+
+Authors: Danielle R. Shayani, Elizabeth Alpert, Jacqueline Barnes, Denise M. Sloan, Adele M. Hayes
+Journal: Psychological Trauma Theory Research Practice and Policy
+Date: 2024
+DOI: 10.1037/tra0001813
+Citations: 3
+URL: https://doi.org/10.1037/tra0001813
+
+ABSTRACT: OBJECTIVE: Cognitive processing therapy (CPT), a 12-session, gold-standard treatment for posttraumatic stress disorder (PTSD), and written exposure therapy (WET), a brief, five-session treatment, have similar treatment efficacy. The aim of the present study was to identify predictors of long-term treatment outcomes of WET and CPT using clients' written narratives. METHOD: = 53). RESULTS: In WET, higher average levels of accommodated (balanced, healthy) beliefs predicted lower PTSD symptoms at the 60-week endpoint, as well as a decrease in symptoms over the follow-up symptom slope. In CPT, higher average negative emotions and positive view of self predicted better 60-week PTSD symptom outcomes, as did lower hopelessness, which also predicted a decrease in PTSD symptoms over the follow-up period. CONCLUSIONS: Even without direct cognitive change techniques, adaptive processing of traumatic experiences occurred in WET and predicted PTSD long-term symptom improvement. Both emotional engagement and cognitive change might help to sustain treatment gains in CPT. (PsycInfo Database Record (c) 2025 APA, all rights reserved).

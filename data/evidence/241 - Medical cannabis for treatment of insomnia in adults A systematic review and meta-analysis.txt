@@ -1,0 +1,27 @@
+Medical cannabis for treatment of insomnia in adults: A systematic review and meta-analysis.
+
+Authors: Katrina Begazo, K. Laing, Angela Mineo, Andrea Efre, A. Hanson, Janet Chan, Kenneth Wofford
+Journal: Journal of the American Association of Nurse Practitioners
+Date: 2026
+DOI: 10.1097/jxx.0000000000001289
+Citations: 0
+URL: https://www.semanticscholar.org/paper/0dd527f30a7c73441ad11e7e7cf8d279e543c85e
+
+ABSTRACT: BACKGROUND
+Insomnia affects over one third of adults and is associated with worse health outcomes and greater health care costs. Traditional pharmacologic treatments for insomnia have side effects and limited long-term efficacy. Patients may self-medicate with alternative therapies including medical cannabis, but there are few resources to guide clinicians in evaluating the potential impact of such self-care.
+
+
+OBJECTIVES
+A systematic review and meta-analysis were conducted to evaluate the effectiveness, safety, dosing strategies, administration routes, and monitoring practices associated with medical cannabis use in adults with insomnia.
+
+
+DATA SOURCES
+Comprehensive searches were conducted in PubMed, Embase, CINAHL Ultimate, and PsycINFO.
+
+
+CONCLUSIONS
+Cannabinoid formulations included cannabidiol (CBD), cannabinol (CBN), delta-9-tetrahydrocannabinol (THC), alone or in combination, administered by oral capsules, oils, or sublingual solutions. Monitoring practices varied but frequently included sleep diaries, actigraphy, and validated scales such as the Insomnia Severity Index and PROMIS Sleep Disturbance. Medical cannabis may decrease sleep disturbance and daytime sleepiness while increasing total sleep time, with a favorable safety profile and minor adverse effects when dosed and monitored appropriately.
+
+
+IMPLICATIONS FOR PRACTICE
+CBD doses of 50-300 mg and CBN doses of 20-100 mg were found to be safe and effective for improving sleep. Doses of CBD <50 mg were only effective with the addition of CBN. Formulations with THC did not show significant improvement in sleep and had higher reports of adverse effects. Clinicians should advise patients self-treating with cannabis to avoid THC and start with a low dose of CBN or a combination of CBN/CBD.

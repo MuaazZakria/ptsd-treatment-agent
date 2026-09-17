@@ -1,0 +1,10 @@
+Memory Reconsolidation and Fear Extinction as Treatment of Trauma and PTSD: A Review
+
+Authors: Gavin Du
+Journal: Scholarly Review Journal
+Date: 2026
+DOI: 10.70121/001c.154950
+Citations: 0
+URL: https://www.semanticscholar.org/paper/376377e05dcb5246b7e3eab59a2d268186ed817f
+
+ABSTRACT: Intrusive and persistent fear memories are a defining feature of post-traumatic stress disorder (PTSD). Two processes have gained attention as alternatives to traditional therapies: memory reconsolidation, in which a recalled memory enters a labile state and can be modified, and fear extinction, in which new safety learning suppresses the original trace. This review examines eleven recent studies addressing both mechanisms and their clinical applications. Reconsolidation depends on protein synthesis, prediction error, and hippocampal-prefrontal coordination, and can be disrupted through pharmacological agents such as propranolol, rapamycin, and NMDA modulators, as well as neuromodulation. Extinction instead relies on building safety associations and is influenced by adrenergic state, sleep quality, and the salience of conditioned cues. Clinically, reconsolidation-based methods, including Reconsolidation of Traumatic Memories therapy and propranolol reactivation, show promise in weakening traumatic recall, while extinction-based approaches remain central to exposure therapies but often lead to relapse because patients must repeatedly face trauma. Together, the evidence suggests reconsolidation may allow more lasting change, whereas extinction provides reliable but fragile benefits. Future research should clarify boundary conditions and test integrated approaches to develop more durable, patient-centered PTSD treatments.

@@ -1,0 +1,23 @@
+Effects of regional citrate anticoagulation on clinical outcome and complications in continuous renal replacement therapy for acute kidney injury.
+
+Authors: Li Zhang, Run Liu
+Journal: American journal of translational research
+Date: 2025
+DOI: 10.62347/mvge5925
+Citations: 0
+URL: https://www.semanticscholar.org/paper/882d0ee8fa71eab8bfa21e8ca2beb82679c485ff
+
+ABSTRACT: OBJECTIVE
+To investigate the effect of regional citrate anticoagulation (RCA) on clinical outcome, renal function, and bleeding complications in patients with acute kidney injury (AKI) undergoing continuous renal replacement therapy (CRRT).
+
+
+METHODS
+This retrospective study reviewed medical records of 180 patients treated at the Second Affiliated Hospital of Hainan Medical University from January 2020 to January 2023. Patients were divided into two groups based on anticoagulation strategy: 85 patients who received systemic heparin anticoagulation (control group, CG) and 95 patients who received RCA (research group, RG). The clinical efficacy, adverse reactions, and incidence of bleeding complications were compared between the groups. Changes in renal function [blood urea nitrogen (BUN) and serum creatinine (Scr)] and coagulation values [prothrombin time (PT), activated partial thromboplastin time (APTT), and platelet count (PLT)] before and after treatment were also analyzed.
+
+
+RESULTS
+The total effective rate was significantly higher in the RG compared to the CG (P<0.05). The incidence of adverse reactions was 12.94% in the CG and 8.42% in the RG, with no statistically significant difference (P>0.05). However, the incidence of bleeding complications was significantly lower in the RG (P<0.05). After treatment, both groups showed significant reductions in BUN and Scr, with the RG exhibiting lower levels than the CG (both P<0.05). In both groups, PT and APTT increased while PLT decreased, but these values were more favorable in the RG (all P<0.05). Logistic regression analysis identified age, AKI stage, and treatment method as independent risk factors influencing treatment efficacy (all P<0.05). Additionally, post-treatment levels of hypersensitive C-reactive protein (hs-CRP) and interleukin-4 (IL-4) decreased in both groups, with the RG showing significantly lower levels than the CG (all P<0.05).
+
+
+CONCLUSION
+RCA is effective for AKI patients undergoing CRRT, improving renal and coagulation function, reducing the risk of adverse reactions and bleeding, and demonstrating a favorable safety profile.

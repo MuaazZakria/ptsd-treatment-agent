@@ -1,0 +1,10 @@
+Trauma-focused cognitive-behavioral therapy for long-term posttraumatic stress disorder, major depressive disorder and anxiety disorders in victims of terrorism: A randomized clinical trial
+
+Authors: Clara Gesteira, M. P. García-Vera, Jesús Sanz, James M. Shultz
+Journal: Psychotherapy Research
+Date: 2025
+DOI: 10.1080/10503307.2025.2467380
+Citations: 3
+URL: https://www.semanticscholar.org/paper/b0bc26ffcf573e5a9bc9d7fd9e82a0c3fb51bf4c
+
+ABSTRACT: Abstract Objective: A parallel randomized clinical trial evaluated the efficacy of Trauma-Focused Cognitive-Behavioral Therapy (TF-CBT) for victims of terrorist attacks with long-term psychopathology. Method: 120 adult Spanish victims, who met the criteria for current posttraumatic stress disorder (PTSD), major depressive disorder (MDD), and/or anxiety disorders related to exposure to terrorist attacks that occurred 18 years ago, on average, were randomly assigned to 16 weekly sessions of TF-CBT (n = 60) or waiting list control conditions (n = 60). Results: Participants who completed TF-CBT (n = 25) experienced significant pre-post decreases in diagnostic rates and in posttraumatic stress, depression, and anxiety symptoms. Pre/post effect sizes for the TF-CBT-treated participants were large (gPCL-S = 1.25; gBDI-II = 1.03; gBAI = 1.16), and between-groups effect sizes were medium-large (gPCL-S =  0.94, gBDI-II = 0.72, gBAI = 0.95). Most TF-CBT completers (78.3% to 91.7%) achieved sub-syndromal symptom levels by post-treatment. The benefits persisted to the 6-month follow-up (n = 22). Modified intention-to-treat analyses (n = 35 vs. n = 50) confirmed the significance of the findings for PTSD and were significant but less robust for MDD and anxiety disorders. Conclusion: TF-CBT appears to be efficacious when applied to victims of terrorism with long-term psychopathology. Clinical or methodological significance of this article TF-CBT was efficacious when applied to victims of terrorism with long-term PTSD. Results were significant but less robust for long-term MDD and anxiety disorders.

@@ -1,0 +1,10 @@
+Novel Pharmacologic and Other Somatic Treatment Approaches for Posttraumatic Stress Disorder in Adults: State of the Evidence.
+
+Authors: Lauren M Sippel, Jessica L. Hamblen, Benjamin Kelmendi, Jonathan E Alpert, Linda L. Carpenter, Adrienne Grzenda, Nina V Kraguljac, William M. McDonald, Carolyn I Rodriguez, A. Widge, C. B. Nemeroff, Paula P. Schnurr, Paul E. Holtzheimer
+Journal: American Journal of Psychiatry
+Date: 2024
+DOI: 10.1176/appi.ajp.20230950
+Citations: 10
+URL: https://www.semanticscholar.org/paper/fcafbf9b2817abf1111b9b5a0006e3bf07e7acad
+
+ABSTRACT: Posttraumatic stress disorder (PTSD) is a highly prevalent psychiatric disorder that can become chronic and debilitating when left untreated. The most commonly recommended first-line treatments for PTSD among adults are individual trauma-focused psychotherapies. Other evidence-based treatments include specific antidepressant medications and non-trauma-focused psychotherapies. Despite the effectiveness of these available treatments, many patients' symptoms do not remit. This has led to the search for novel treatments for PTSD. In this review, the authors critically evaluate the data supporting several emerging pharmacological and other somatic interventions in the categories of medication-assisted psychotherapy, novel medication monotherapy strategies, and neuromodulation, selected because of the salience of their mechanisms of action to the pathophysiology of PTSD (e.g., MDMA-assisted psychotherapy, ketamine, cannabidiol, transcranial magnetic stimulation). The authors also evaluate the evidence for treatments that are the focus of increasing scientific or public interest (i.e., hyperbaric oxygen therapy, stellate ganglion block, neurofeedback). To date, the evidence supporting most novel pharmacological and somatic treatments for PTSD is preliminary and highly variable; however, the data for several specific treatments, such as transcranial magnetic stimulation, are encouraging.

@@ -1,0 +1,10 @@
+Disinhibition of the Ventral Tegmental Area After Trauma Restores REM Sleep Disturbances and Reduces Long‐Term Behavioral Indices of Fear Memory
+
+Authors: I. Buller-Peralta, Javier Díaz, Valeria Gonzalez, A. Bassi, A. Ocampo-Garcés, J. Valdés
+Journal: European Journal of Neuroscience
+Date: 2025
+DOI: 10.1111/ejn.70189
+Citations: 1
+URL: https://www.semanticscholar.org/paper/e2e94fe26590d0ce929effdce5ab996481d96f8f
+
+ABSTRACT: Posttraumatic stress disorder (PTSD) is a pathological condition mainly characterized by the inability to extinct fear responses associated with a traumatic event and profound alteration in REM sleep. A decrease in the activity of dopaminergic neurons of the ventral tegmental area (VTA) after trauma has emerged as a potential neurophysiological substrate for PTSD development through reciprocal interactions between fear extinction and REM sleep. We disinhibited the neuronal activity of the VTA by blocking GABA transmission immediately after a foot shock trauma. Rats were treated during a six‐hour sleep recording with bilateral microinjections of picrotoxin or vehicle. A group of picrotoxin and REM sleep deprivation was included to test the role of REM sleep. Conditioned fear was tested 24 h following a 5‐day fear extinction protocol, after which extinction learning was evaluated before another 6 h of sleep recording. Animals treated with picrotoxin could extinguish fear and did not show REM sleep disturbances compared to vehicle‐treated animals. This improvement was REM sleep–dependent, as deprived rats evidenced similar REM sleep decrease and memory fear extinction impairments compared to the vehicle group. The effect on REM sleep was achieved by preserving the number of bouts but not increasing their duration, suggesting a protective effect over the ability to transition towards REM. Our results suggest that the disinhibition of dopaminergic neurons during a critical window after trauma could reduce the REM sleep and memory fear extinction disturbances induced by trauma, opening new avenues for therapeutic interventions.

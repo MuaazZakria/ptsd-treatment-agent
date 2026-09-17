@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://iaso-acg6gsa4bngpafcp.northeurope-01.azurewebsites.net/api/:path*"
+      "destination": "https://REPLACE-WITH-YOUR-BACKEND-URL/api/:path*"
     }
   ]
 }

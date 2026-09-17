@@ -1,0 +1,393 @@
+Long term efficacy and safety profile of dexamethasone intravitreal implant in retinal vein occlusions: a systematic review
+
+Authors: Adriano Carnevali, D. Bacherini, C. Metrangolo, F. Chiosi, Pasquale Viggiano, Carlo Astarita, Valentina Gallinaro, V. M. Bonfiglio
+Journal: Frontiers in Medicine
+Date: 2024
+DOI: 10.3389/fmed.2024.1454591
+Citations: 8
+URL: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1454591/pdf
+
+ABSTRACT: Background/objective Retinal vein occlusion (RVO) is a common, sight-threatening vascular disorder affecting individuals of all ages, with incidence increasing with age. Due to its complex, multifactorial nature, treating RVO remains a clinical challenge. Currently, treatment strategies include laser photocoagulation (especially for branch RVO), anti-VEGF therapies, and intravitreal corticosteroids. This systematic review (without meta-analysis) aimed to update the evidence on the efficacy and safety of the sustained-release intravitreal dexamethasone implant (DEX-i) in managing macular edema (ME) secondary to central and branch RVO. Methods A systematic review was conducted to assess current literature on DEX-i for ME secondary to RVO. Relevant studies were analyzed for outcomes related to visual acuity, retinal thickness, and the safety profile of DEX-i in RVO treatment. Results Evidence indicates that DEX-i substantially improves best-corrected visual acuity (BCVA) and reduces central retinal thickness (CRT) in ME associated with both branch and central RVO, demonstrating rapid and sustained effects. Common adverse events associated with DEX-i included manageable complications, such as medically controlled intraocular pressure elevation and progression of cataracts. Conclusion DEX-i offers effective and sustained improvements in both visual and anatomical outcomes for patients with ME secondary to RVO. Individualized treatment selection is essential to optimize patient outcomes. Future directions include identifying predictive biomarkers and adopting patient-centered approaches based on individual clinical characteristics, which may enhance treatment success in RVO.
+
+FULL TEXT:
+Retinal vein occlusion (RVO) is sight threatening vascular condition which can affect people at any age with an incidence that increases with the age (1). RVO has been traditionally subdivided into 2 main types: (1) central (CRVO), (2) branch (BRVO), and hemiretinal vein occlusion (HRVO). Although the exact cause of Central RVO (CRVO) is still unknown; the more likely hypothesis seems to be due to a consequence of a block of the central retinal vein at or proximal to the lamina cribrosa of the optic nerve (2, 3). Whereas, Branch RVO (BRVO) typically arises from compression of a tributary vein at an arteriovenous intersection (2, 3). In addition to neovascularization and neovascular glaucoma, retinal hemorrhage and macular edema (ME) may complicate either form of RVO, resulting in partial or complete loss of vision (2, 3).
+
+It has been suggested that RVO represents the second most common retinal vascular disorder following diabetic retinopathy (4, 5). However, as compared to diabetic retinopathy, there has been relatively less interest in investigating the epidemiology of retinal vein occlusion (RVO), may be due to its lower incidence rates.
+
+To the best of our knowledge, the first attempt to estimate the worldwide prevalence of RVO was the “Global RVO Study 2010,” published in 2010 (5). Such study estimated that there were approximately 16.4 million people with RVO (2.5 million with CRVO and 13.9 million with BRVO) (5). In 2015, the global prevalence of any RVO, BRVO and CRVO in people aged 30–89 years was 0.77, 0.64, and 0.13%, which is equivalent to an overall of 28.06 million, 23.38 million and 4.67 million affected people, respectively (6). The EURETINA White book reported that over 1.1 million individuals aged 55 and older in the European Union were affected by RVO. Of these cases, 15–25% were attributed to CRVO, while 75–80% were due to BRVO. This reflects a prevalence of RVO in either eye of approximately 0.7%. However, the available data were insufficient to provide prevalence estimates for individual countries (7).
+
+Due to the global aging population and the subsequent increasing burden of cardiovascular diseases, it is expected that RVO might place an increasing burden on society (6, 7).
+
+The onset of RVO has been associated with different risk factors, including advanced age, systemic hypertension, diabetes mellitus, obesity, hyperlipidemia, different cardio-vascular disorders (i.e., atherosclerosis, ischemic heart disease, etc.), smoking habit, hyperhomocysteinemia, coronavirus disease (COVID)-2019 infection, and glaucoma (3, 8–13).
+
+Despite the close relationship between these risk factors and the onset of RVO, the pathogenesis of RVO has not been completely understood yet. As afore mentioned, ME is a common and serious complication of RVO (2, 3). Two of the most important pathogenic mechanisms of ME are the increased release of vascular endothelial growth factor (VEGF) and the production of pro-inflammatory cytokines (11). Moreover, current evidence suggests that the presence of different cytokines and chemokines in the vitreous are correlated with the occurrence of RVO, particularly the interleukin family, matrix metalloproteinases (MMP), lysophosphatidic acid-autotaxin (LPA-ATX), and platelet-derived growth factor (PDGF) (11).
+
+Due mainly to multifactorial nature, treatment of RVO is still considered as a clinical challenge. Different strategies are currently used for treating RVO, including laser photocoagulation (for BRVO or as rescue therapy), VEGF inhibitors (anti-VEGF), and intravitreal corticosteroids (14). However, since there is currently no therapy which can solve the primary cause of RVO, all the therapeutic strategies are directed to improve the RVO complications.
+
+While macular edema secondary to RVO (ME-RVO) is a multifactorial process driven by complex mechanisms, it is primarily attributed to an imbalance between fluid entry, fluid exit, and retinal vascular permeability (15).
+
+VEGF has been identified as an important factor in the development of ME-RVO. Ischemic retina releases VEGF, which underlies neovascular complications, but also causes excessive vascular permeability (16, 17). The VEGF family comprises several isoforms, including VEGF-A, -B, -C, -D, -E, and placental growth factor (PGF). Notably, the overexpression of VEGF-A and PGF has been linked to an increase in vascular permeability (15, 16).
+
+There is evidence indicating elevated levels of VEGF-A and PGF in patients with ME-RVO (15).
+
+Increasing evidence implicates inflammation as a critical factor to the development of a wide array of retinal vascular diseases, including RVO (18). Additionally, inflammatory process may underlie many of the functional retinal vasculature alterations observed in eyes with ME-RVO (18). During inflammation a variety of soluble factors are secreted into the vitreous cavity and their concentrations increases in eye with ME-RVO, either secondary to BRVO (ME-BRVO) or to CRVO (ME-CRVO) (19–21) and may affect visual prognosis (18).
+
+These inflammatory cytokines may be responsible of the transition from an acute to chronic inflammation, which causes increase in vascular permeability and the development of ocular neovascularization (18–21). In other words, in eyes with RVO, ME develops because of reduced venous drainage and increased capillary leakage/permeability, which is increased by a variety of pro-angiogenic and inflammatory mediators (Figure 1).
+
+Pathophysiology of macular edema secondary to retinal vein occlusions. Adapted from Noma et al. (20) and Noma et al. (21). RVO, retinal vein occlusion; PGF1, placental growth factor; VEGF, vascular endothelial growth factor; NF-êB, nuclear factor kappa light chain enhancer of activated B cells; BRB, blood-retinal barrier; VEGF R1, vascular endothelial growth factor receptor 1; VEGF R2, Vascular endothelial growth factor receptor 2.
+
+Given that the two primary mechanisms underlying ME secondary to RVO (ME-RVO) involve increased VEGF release and the production of pro-inflammatory cytokines, the main treatment options for ME-RVO include intravitreal injections of anti-VEGF agents and sustained-release intravitreal corticosteroid implants (14, 22).
+
+Moreover, the relevance of the inflammatory pathway on the onset of ME-RVO has been clearly suggested by the currently available scientific evidence that shows the effectiveness of intravitreal steroids treatments in patients with RVO (22–25).
+
+The current systematic review aimed to provide an updated summary of the effectiveness and safety of the sustained release intravitreal dexamethasone implant (DEX-i) for the treatment of ME secondary to either CRVO or BRVO.
+
+GENEVA study was a RCT that evaluated the efficacy and safety of DEX-i in patients with ME-RVO (either BRVO or C RVO) (23, 25). The results of the GENEVA study showed that, as compared to the control group, the eyes treated with DEX-i achieve a BCVA improvement ≥ 15 letters in less time (p < 0.001); a greater proportion of eyes achieved a BCVA improvement ≥ 15 letters at days 30 to 90 (P < 0.001); while the proportion of eyes with a ≥ 15-letter loss in BCVA was significantly lower at all follow-up visits (P ≤ 0.036). In addition, CRT was significantly reduced at all the point-measured in the eyes treated with DEX-i (23, 25).
+
+PubMed, Medline, Embase, and Google Scholar databases were examined to identify randomized controlled trials (RCT) and real-world evidence (RWE) studies that assessed the central retinal thickness (CRT); and/or central subfoveal thickness (CSF); and/or central macular thickness (CMT); and/or best corrected visual acuity (BCVA) from January 2018 to September 2023.
+
+The search strategy for the outcome was performed for mesh terms “Retinal vein occlusion” AND “Macular edema” AND “Dexamethasone intravitreal implant” OR “Ozurdex” OR “Vascular endothelial growth factor.” In addition, as free search in title and abstract using a series of key words have been included, such as retinal vein occlusion, branch retinal vein occlusion, central retinal vein occlusion, ischemic retinal vein occlusion, nonischemic retinal vein occlusion, hemiretinal vein occlusion, retinal vein thrombosis, and retinal venous thrombosis AND macular edema AND treatment.
+
+The current study included RCT and retrospective and prospective RWE studies conducted on patients with ME-RVO who underwent treatment with DEX-i 0.7 mg or anti-VEGF and for which the final CRT or change in CRT and/or final BCVA or change in BCVA from baseline were reported. Letters and case series with less than 10 subjects were excluded.
+
+Studies that did not include CRT/BCVA outcomes following DEX-i; studies published in other language different from English, French, Portuguese, Italian, or Spanish (Those studies written in other languages, but with an abstract available in English with sufficient information, were also included); and conditions other than ME-RVO were excluded.
+
+We reviewed references by evaluating their titles and abstracts, and selected studies that were relevant for further analysis. We manually checked the reference lists of relevant studies, systematic reviews, and meta-analyses to find any additional publications that could be useful for our analysis.
+
+The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA1) statement was developed to facilitate improved reporting of systematic review (26, 27). However, it is not free of limitations, since it provides limited guidance on reporting certain aspects of the review, such as the methods for presentation and synthesis (26–29). In addition, the high level of heterogeneity among the different studies makes difficult, if not impossible, to combine the data (27). Moreover, narrative reviews have serious shortcomings, including lack of transparency, methods deficiencies, or inadequate reporting of the review limitations (30, 31).
+
+Synthesis Without Meta-analysis (SWiM) has emerged as systematic review to address questions to which meta-analysis may not be able to provide an adequate answer (29). Indeed, approximately 1/3 of health-related systematic reviews of interventions do not include meta-analysis (29).
+
+This systematic review without meta-analysis was carried out following the guidelines outlined in the PRISMA statement (32) (See Supplementary Table 1).
+
+The authors independently generated the queries for the literature search and selected the articles fulfilling the criteria established for each subject and solved any disagreement through discussion and consensus. To determine the eligibility, searched papers, including title, abstract, and full text were evaluated.
+
+The data that were extracted included information about the study (first author, publication time, length of the follow-up, RVO subtype, and study type); therapy information; and efficacy parameters (retinal thickness and/or BCVA).
+
+Other research data, including number of intravitreal injections and/or incidence of adverse events were also assessed.
+
+The flow chart of the selection process is shown in Figure 2. A total of 173 articles were identified through database searching. After removing duplicates, 167 articles were evaluated by their titles and abstracts. Out of these, 78 studies met the criteria for a full-text review. Among the remaining 78 papers that underwent a full review, 28 were excluded due to incomplete data, assessment of combined therapy, and/or different outcomes. Finally, a total of 50 papers, 5 RCT and 45 RWE studies, were eligible for the qualitative analysis. Of these 50 studies, Yilmaz et al. (33) evaluated the off-label use of DEX-i and did not provide efficacy data; therefore, this study was eliminated (Figure 2).
+
+PRISMA 2009 flow diagram. DEX-i, dexamethasone intravitreal implant; RCTs, randomized controlled trials; RWE, real-world evidence.
+
+We have evaluated the RCT and RWE studies separately, in order to present the data as accurately as possible.
+
+Five RCTs met the inclusion/exclusion criteria and were included in the study (34–38). Among them, three studies (34, 35, 38) reported data at month-6 and two (36, 37) reported data at month-12.
+
+All the RCTs demonstrated significant CRT reduction and BCVA improvement after DEX-i treatment, both in eyes with BRVO and in those with CRVO (34–38).
+
+The Table 1 summarizes the main anatomic and visual outcomes of DEX-I according to the RCTs included in the study.
+
+An overview of the main results from randomized clinical trials with the intravitreal dexamethasone implant (DEX-i) included in the current study.
+
+*Least-squares mean difference ± standard error.
+
+†It does not provide data about standard error.
+
+Patients received 1.00 ± 0.00 DEX-i during the COMRADE-B and COMRADE-C core studies (References 34,38). LOFU, length of follow-up; BCVA, best corrected visual acuity; CRT, central retinal thickness; BRVO, branch retinal vein occlusion; CRVO, central retinal vein occlusion; DEX-i, dexamethasone intravitreal implant; ETDRS, Early Treatment Diabetic Retinopathy Study; NA, not available.
+
+Changes in retinal thickness has been considered as an anatomical outcome to evaluate the efficacy of ME treatment.
+
+Five studies evaluated the anatomic and visual outcomes in eyes with BRVO (34–38).
+
+Li et al. (34) specifically examined the mean central retinal thickness change at month 2. This study identified a substantial CRT change of −323 ± 189 μm in eyes affected by macular edema secondary to BRVO (p < 0.001) (34).
+
+Among the RCTs that reported anatomic outcomes at the endpoint, the mean CRT reduction ranged between -112.3 ± 172.1 μm (COMRADE-B, Reference 32) and –211.5 ± 199.3 μm (COMRADE Extension, Reference 36).
+
+According to the results of these RCTs, CRT was reduced significantly after DEX-i administration.
+
+Two RCTs (34, 37) investigated the impact of intravitreal dexamethasone implant in eyes affected by macular edema secondary to CRVO. According to the findings of these RCTs, central retinal thickness (CRT) showed a significant reduction after DEX-i administration, with changes reported as −487 ± 203 μm (28) and by -445.4 ± 249.8 μm (37).
+
+Although COMRADE C is outside the inclusion criteria window of this publication, we briefly discuss its main findings. This paper compared the efficacy and safety of DEX-i and intravitreal injections of ranibizumab in patients with ME-CRVO (39). According to the COMRADE C results, one DEX-i significantly increased mean BCVA at months 1 and 2, with no significant differences versus ranibizumab. Although at month-6 one DEX-i increased mean BCVA by 2.96 letters, this rise was less than that observed with ranibizumab. This seems to be due to a single injection of DEX-i, while eyes treated with ranibizumab continued to receive repeated intravitreal injections (39).
+
+Improvements in BCVA have been frequently used to evaluate treatment efficacy.
+
+In a similar way to CRT, Li et al. (34) reported data at month-2, reporting a mean BCVA improvement of +11.4 ± 9.6 ETDRS letters after DEX-i administration. Additionally, these authors reported that 34.9% of eyes achieved ≥ 15-letter BCVA improvement from baseline (34).
+
+The COMO study reported the changes of BCVA as least-squares mean difference ± standard error instead of as mean ± standard deviation (36). They found a BCVA gain of +7.4 ± 1.0 letters at month-12 (36).
+
+At the study endpoint, the mean BCVA improvement ranged from +9.2 ± 12.5 letters of the COMRADE-B (35) and +12.3 ± 13.4 letters of the COMRADE Extension (37).
+
+Mean BCVA was significantly improved by +9.8 ± 11.0 letters (34) and +13.5 ± 21.3 letters (37) after DEX-i injection.
+
+Between January 2018 and September 2023, we have identified 44 RWE studies that evaluated the visual and/or anatomic and/or safety outcomes in patients with either BRVO and/or CRVO (40–83) (Table 2). Among them, two studies (56, 83) assessed only safety outcomes.
+
+An overview of the main results from the real-world studies with the intravitreal dexamethasone implant (DEX-i) included in the current study.
+
+BCVA improvements are shown in negative values with LogMAR and in positive values in ETDRS letters.
+
+aCRT and BCVA data were calculated from the study.
+
+bThe study provided absolute values instead of changes from baseline.
+
+cMean difference (95% confidence interval) between baseline and follow-up on log scale: 0.21 (0.08 to 0.34); p = 0.001 (BRVO) and 0.23 (0.06 to 0.40); p = 0.008 (CRVO).
+
+dMean follow-up: 65.5 months; range: 60.7–68.3 months.
+
+eUp to 10 years of follow-up. Efficacy data refers to “last visit”
+
+fMean follow-up was 45 ± 25 months (range 12–84 months).
+
+gMean time of follow-up was 24.7 ± 18.6 and 25.4 ± 19.7 months in the BRVO and CRVO groups, respectively.
+
+hThe study provided information only about adverse events.
+
+iThirteen eyes received one DEX-i and 16 eyes received multiple DEX-i.
+
+jMedian (interquartile range) baseline BCVA = 1.1 (0.52–3.10) logMAR. Median (interquartile range) baseline CRT = 515.00 (318–770) μm.
+
+2The study did not provide efficacy data.
+
+4CRT and BCVA are expressed as mean (95% confidence interval).
+
+**Eyes ineligible for pRCTs. R, retrospective; P, prospective; CRT, central retinal thickness; BCVA, best corrected visual acuity; RVO, retinal vein occlusion; BRVO, branch retinal vein occlusion; CRVO, central retinal vein occlusion; HRVO, Hemi-retinal vein occlusion; MVO, macular vein occlusion; DEX-i, dexamethasone intravitreal implant; ETDRS, Early Treatment Diabetic Retinopathy Study; NP, not provided; pRCTs, pivotal randomized control trials.
+
+In addition, two studies (44, 75) included patients with Hemi-retinal vein occlusion (9 and 2 eyes, respectively).
+
+Although most studies were conducted on previously treated patients, 8 (49, 50, 63, 66, 69, 71, 72, 74) RWE studies assessed treatment naïve eyes, which will be analyzed individually in the next section.
+
+A Registry database, which included information from 16 National Health Service hospitals, assessed the efficacy and safety of DEX-i in 688 eyes with CRVO and 862 eyes with BRVO (79). Of the total sample, 1,250 eyes (80.6%) were naive (although the paper did not provide detailed information on that group). In the overall study sample, mean VA was significantly increased by 0.23 ± 0.38 (p < 0.001). In particular, 1,271 eyes (82%) received ≤ 2 DEX-i throughout the 2 years of study follow-up. The median time between the first and the second DEX-i was 108 days (79).
+
+According to the results of a systematic review and meta-analysis that included 12 RWEs (84), CRT was significantly reduced after DEX-i administration in eyes with BRVO. Additionally, BCVA tended to be improved following DEX-i treatment, although not all the studies found a significant visual improvement after treatment. This problem seems to be due to a not proper injection time of DEX-i, since in some studies retreatment with DEX-i was carried out every 6 months, and also because some studies did not report the retreatment periods. Another possible explanation was the presence of cataract in some patients which was not performed throughout the study (84). Regarding the eyes with CRVO, this systematic review reported substantial CRT reduction (ranging between −137.0 and −256 μm) and visual acuity improvement after DEX-i injection (84).
+
+In eyes with ME-RVO, both BRVO and CRVO, starting an effective treatment at early stages has been associated with better visual outcome and fewer long-term complications (14, 22, 85–87).
+
+Different RWE studies have evaluated the efficacy and safety of DEX-i in treatment naïve eyes with ME-RVO, either BRVO or CRVO (49, 50, 63, 66, 69, 71, 72, 74).
+
+Yuksel et al. (43), retrospectively assessed the efficacy and safety of DEX-i in 15 eyes with ME secondary to BRVO, of which, 13 eyes were treatment-naïve. This study has not provided detailed clinical outcomes of treatment-naïve eyes, so it cannot be analyzed. Nevertheless, they provided information about the two eyes that had received previous treatment, one patient gained 10 letters and -30 μm regression on optical coherence tomography; while in the other one, ME decreased by -188 μm but vision did not improve.
+
+Kim et al. (72), found that within the subgroups of patients diagnosed with BRVO or CRVO, those who were treatment-naïve at baseline achieved greater BCVA improvement than those previously-treated. Indeed, peak BCVA gain from baseline among eyes with BRVO was +14.4 versus +6.6 ETDRS in the treatment-naïve and non-treatment-naïve subgroups, respectively; Whereas, for the eyes affected by CRVO, BCVA improvement from baseline were +20.9 and +8.5 ETDRS letters in the treatment-naïve and non-treatment-naïve subgroups, respectively (72).
+
+Castro-Navarro et al. (74) analyzed 31 eyes with ME-RVO, who were treatment-naïve at baseline. They observed that the BCVA improvement from baseline was significantly greater in the treatment-naïve eyes than in those previously treated (mean difference: +18.0 letters; 95% CI: +4.0 to +35.0; p = 0.0129). In addition, CRT reduction was also greater in the treatment-naïve subgroup, although such a difference was not statistically significant (mean difference: 41.5 μm; 95% CI: -120.0 μm to 197.0 μm; p = 0.6251) (74).
+
+Gale et al. (88) performed a retrospective chart review that included data from 5,661 treatment-naive patients (collected in 27 National Health Service Trust hospitals between February 2002 and September 2017) with a single mode of treatment (i.e., a single type of treatment throughout follow-up) for ME secondary to BRVO. They included data from 676 eyes treated with DEX-i (88). Mean visual acuity was 53.1, 59.7, 57.6, 56.1, 59.3, and 62.9 ETDRS letters at baseline, and 6, 12, 18, 24, and 36 months, respectively. The mean number of DEX-i injected was 1.3, 1.5, 1.7, 1.7, and 1.7 at 6, 12, 18, 24, and 36 months, respectively. This study did not provide any anatomic outcomes (88).
+
+Table 3 shows the main results of the 8 studies that have evaluated the effectiveness of DEX-i in treatment-naïve eyes with ME-RVO.
+
+An overview of the main results from the Real-world studies with the intravitreal dexamethasone implant (DEX-i) in treatment-naïve eyes with macular edema secondary to retinal vein occlusion (ME-RVO).
+
+BCVA improvements are shown in negative values with LogMAR and in positive values in ETDRS letters.
+
+aCRT and BCVA data were calculated from the study.
+
+bThe study provided absolute values instead of changes from baseline.
+
+gThirteen eyes received one DEX-i and 16 eyes received multiple DEX-i.
+
+2CRT and BCVA are expressed as mean (95% confidence interval).
+
+Different OCT biomarkers have been identified in patients with RVO. They included CRT and choroidal thickness; external limiting membrane (ELM) and ellipsoid zone (EZ) integrity; disorganization of retinal inner layers (DRIL); presence of subretinal fluid (SRF); and hyperreflective foci (HRF) (69, 74, 89–91). Moreover, in treatment-naïve eyes with ME secondary to BRVO and presence of SRF, there was a significant correlation between baseline EZ status and 12-months BCVA (91).
+
+In addition, several signs of ischemia (i.e., prominent middle limiting membrane, paracentral acute middle maculopathy, and hyperreflectivity of inner retinal layers) have been identified as predictors of poor efficacy outcomes in eyes with RVO (89, 90, 92–97).
+
+Few studies have evaluated the predictors of DEX-i outcomes in eyes with ME-RVO.
+
+Arrigo et al. (67) found that older age, presence of diabetes mellitus, and greater baseline CRT were associated with a higher risk for repeat DEX-i injection. Moreover, regarding CRT, the median time to the second DEX-i in eyes with baseline CRT > 375 μm was significantly shorter (4.06 months) than in those eyes with baseline CRT < 375 μm (more than 50 months), p = 0.022 (69).
+
+Additionally, in a retrospective study counting only 35 eyes with ME-RVO, Ding et al. (98) compared the effect of anti-VEGF and DEX-i. It has been shown a greater improvement of serous retinal detachment (SND) and a greater reduction in the number of HRF after DEX-i, however due to the small sample of the study and the methodology further evidence are required to draw conclusion. These findings may suggest that, as compared to anti-VEGF, anti-inflammatory therapy has a greater capacity to resolve serous retinal detachment and HRF in patients with ME-RVO.
+
+Castro-Navarro et al. (74) assessed, in a retrospective study, potential OCT biomarkers associated with DEX-i visual and anatomic outcomes in eyes with ME-RVO (both BRVO and CRVO). According to the results of this study, in the univariate analysis the presence of 10–20 HRF at baseline (p = 0.0361) and the change in septum status (present at baseline versus absent at month-6) (p = 0.0014) were predictors of anatomic success; while baseline disrupted ELM and baseline BCVA (p = 0.0007) were predictors of achieving a BCVA ≥ 15 letters at month 6. Furthermore, the baseline BCVA was significantly associated with functional success in the multivariate analysis (p = 0.0057) (74).
+
+Shi et al. (99) found that baseline LogMAR BCVA was positively correlated with SRF and macular thickness, while the number of HRF at baseline was negatively correlated with foveal thickness.
+
+In summary, based on current evidence, different OCT and OCT-angiography (OCTA) biomarkers have been associated with both visual and anatomic outcomes in eyes with RVO. A better understanding of these biomarkers will help to provide an accurate prognosis and an individualized treatment selection in eyes with ME-RVO.
+
+Table 4 shows the main OCT biomarkers identified in patients with RVO.
+
+Key optical coherence tomography (OCT) and optical coherence tomography angiography (OCTA) biomarkers in retinal vein occlusion (RVO).
+
+IRC, intraretinal cysts; CST, intraretinal cysts; DRIL, disorganization of retinal inner layers; ELM, external limiting membrane; EZ, ellipsoid zone; HRF, hyperreflective foci; SRF, subretinal fluid; ME, macular edema; FAZ, foveal avascular zone; CV, collateral vessels; VA, visual acuity; CFD, choriocapillaris flow density; ME-RVO, macular edema secondary to retinal vein occlusion CVI, choroidal vascularity index. The information to build this table has been extracted from references (9, 14, 69, 74, 89–99, 126).
+
+In addition, the Figure 3 shows different OCT biomarkers of an eye diagnosed with CRVO.
+
+Optical coherence tomography (OCT) scan of patient with central retinal vein occlusion (CRVO). It is possible to observe some of the main morphological biomarkers: intraretinal cysts (red asterisks), subretinal fluid (yellow asterisk), some hyperreflective foci (white arrows), and disorganization of the retinal inner layers (blue box).
+
+DEX-i is a relatively safe procedure, although it is not free of adverse events (AEs). The AEs associated with DEX-i do not differ from those observed with other corticosteroids, including the onset or progression of cataract and the rise of intraocular pressure (IOP), which can be effectively managed with pharmacological or surgical intervention. Other Intravitreal injection related AEs less frequently reported are retinal detachment, vitreous hemorrhage, and endophthalmitis (25, 100, 101).
+
+The development of a new cataract or worsening of a preexisting cataract is a relatively common complication associated with DEX-i injection (25, 100, 101).
+
+According to the information reported by the 5 RCTs included in the current study, cataract-related adverse events (CatRAEs) ranged between 0.9% (31) and 11.3% (37).
+
+Among all the RWE studies evaluated, CatRAEs ranged between 0% (50, 72) in 6-months follow-up studies and 70.4% in a 36-months follow-up study (50).
+
+As can be seen in Table 5 and as has been reported in the literature (25, 100, 101), the rate of CatRAEs depends, critically, on the duration of study follow-up. Indeed, it has been previously reported that the risk of cataract is higher in eyes receiving multiple DEX-i injections (101).
+
+Rate of patients treated with intravitreal dexamethasone implant (DEX-i) who reported any adverse event, cataract related adverse events, or an increase in intraocular pressure (IOP) during the study.
+
+*IOP increased was defined as either an elevation in IOP compared to baseline or an IOP > of a specific value or need to receive ocular hypotensive treatment.
+
+†Percentages calculated from the total of 470 eyes. total of 470 eyes.
+
+Percentage calculated from 253 phakic eyes.
+
+cOver 75% of patients at all observation time points did not require any IOP-lowering therapy during the entire follow-up period. AEs, adverse events; BRVO, branch retinal vein occlusion; CRVO, central retinal vein occlusion; CatRAE, cataract-related adverse events; IOP, intraocular pressure; NP, not provided; NA, not available.
+
+The results of a multicenter study that evaluated data of 6,015 DEX-i injections in 2,736 eyes found that, among the phakic eyes, 576 (32.5%) eyes developed cataract requiring surgical intervention; whereas, 259 (14.6%) developed cataract that did not impact on VA and, therefore, did not require surgery (100).
+
+According to the results of the United Kingdom Database Study (77), 8.3% (100/1,202) of the phakic eyes underwent cataract surgery in a median follow-up period of 16 months. At month-12, the accumulative probability of cataract surgery was 4%; while at month-24 such probability increased to 15% (79).
+
+According to the current evidence, phakic patients should expect cataract progression with the need of cataract surgery within roughly 1 year after DEX-i injection (25, 34–38, 40–83, 100, 101).
+
+Elevation of intraocular pressure is probably the most frequently reported adverse event associated with the use of DEX-i (25, 34–83, 100–102).
+
+However, it is extremely complex to establish comparisons between the different studies, since the definition of “Increased/elevated IOP” varies greatly between them (Table 5).
+
+While some studies have reported adverse events related to increased IOP as a function of ocular hypotensive treatments administered during study follow-up, other papers reported IOP elevation > a specific value, and other ones defined “Increased IOP” as an IOP > 21 mmHg or > 25 mmHg (34–83).
+
+Moreover, according to data from a study that included a total of 6,015 injections in 2,736 eyes of 1,441 patients only 0.5% of eyes who experienced IOP increased required glaucoma surgery (100).
+
+The SAFODEX study evaluated the incidence of IOP related events in 421 eyes receiving one or more DEX-i (103). Among 1,000 DEX-i injected, the rise of IOP (defines as either at least 25 mmHg or an IOP elevation ≥ 10 mmHg from baseline) was recorded for 28.5% of injected eyes over a mean follow-up period of 16.8 months (range: 3–55 months). Ocular hypotensive drops were administered to 31% of eyes; while only three eyes, with preexisting glaucoma, required filtering surgery for managing IOP elevation (103). Factors significantly associated with a higher risk of IOP elevation were younger age, male sex, type 1 diabetes, preexisting glaucoma treated with 2 or 3 ocular hypotensive drops, and a history of RVO (103).
+
+More recently, the SAFODEX-2 Study (104), evaluated the long-term incidence of IOP related events in 494 eyes treated with DEX-i. In particular, of 1,371 DEX-i injected eyes, 32.6% of injected eyes showed a rise of IOP (defined as reference 106), with a median follow-up of 29 months (range: 3 to 62.5 months) (104). Topical hypotensive therapy controlled successfully 97% of IOP elevations. Interestingly, there was not an accumulative effect after repeated DEX-i injection (i.e., incidence of a rise of IOP did not change regardless the number of DEX-i injected).
+
+In addition, the International Ozurdex Study Group reported an incidence rate of IOP elevation (IOP > 25 mmHg) of 26.5% (727/2,736 eyes). The increase in IOP was successfully controlled with ocular hypotensive therapy in more than 90% of eyes, while only 0.5% of eyes required filtering surgery (100).
+
+In summary, IOP elevation was more frequent in patients with a previous history of ocular hypertension/glaucoma and, in most cases, was successfully managed with ocular hypotensive therapy. Patients with preexisting ocular hypertension or glaucoma have to be always informed of this possible risk and should be followed with regular checks, to recognize these complications as soon as possible and to treat them appropriately (56, 83, 100, 102–104).
+
+One of the most serious complications secondary to ischemic CRVO is neovascular glaucoma (105) and it is related to the increase of VEGF and inflammation (11).
+
+The imbalance between anti-angiogenic and VEGF factors is one of the causes of the new-vessels formation (106). In addition, different inflammatory molecules, including interleukin (IL)-6, IL-8, platelet-derived growth factor, and interferon-α (among others), have been involved in the onset of neovascular glaucoma (107).
+
+To our knowledge, there is no evidence indicating that DEX-i increases the risk of neovascular glaucoma onset.
+
+There is evidence that anti-VEGF agents can delay the onset of neovascular glaucoma, but not prevent it (11). Furthermore, evidence regarding the long-term effectiveness of anti-VEGF medications is uncertain (108). This means that acting simultaneously on VEGF and inflammation, as DEX-i acts (109), may be more effective when treating macular edema consequent to RVO without an increased risk of developing neovascular glaucoma.
+
+Hayreh’s natural history studies reported that 12–33% of not ischemic CRVO become ischemic within 4 years (110). Nevertheless, GENEVA study found a significant reduction in retinal neovascularization from 2.6 to 0.7% at 6 months (23), suggesting that DEX-i might reduce the development of ischemic complications (23, 25).
+
+The long-term safety profile of DEX-i was assessed in a prospective and multicenter post marketing study, which involved 102 centers in France, Germany, Spain, and United Kingdom, that included patients with RVO (73.1% of them with a follow-up of 24-months) (56). The incidence rate of “adverse events of special interest” (other than cataract-related AE or increased IOP) was vitreous hemorrhage (3.7%); glaucoma (1.5%); retinal detachment (0.6%); vitreous detachment (0.6%); infectious endophthalmitis (0.1%); implant misplacement (0.1%); and implant dislocation (0.1%) (56).
+
+In a retrospective study that evaluated the safety profile of 925 injections of DEX-i (for various retinal diseases, such as diabetic macular edema, RVO, postoperative cystoid macular edema, etc.), 1 (0.3%) patient required glaucoma surgery for controlling IOP; 3 (0.8%) patients had an anterior chamber dislocation of the implant; and 1 (0.3%) had a sterile endophthalmitis that required pars-plana vitrectomy (83).
+
+Finally, in a multicenter and retrospective study that included 6,015 injections in 2,736 eyes of 1,441 patients, who underwent treatment with DEX-i for treating different retinal diseases (including RVO, diabetic macular edema, post-surgical cystoid macular edema, and uveitis) the incidence of ocular AEs was endophthalmitis (0.07%), retinal detachment (0.03%), vitreous hemorrhage (0.03%) (100).
+
+In summary, according to the results of these studies, the incidence rate of these AEs was low.
+
+Pathophysiological factors, such as overexpression of different cytokines, VEGF, hypoxia, and inflammation have been associated with ME-RVO (11, 20, 111).
+
+There is broad evidence supporting that both anti-VEGF and DEX-i target these factors and, therefore, are the treatment of choice of ME-RVO (14, 22, 86, 87).
+
+Despite these treatment options have provided good visual and anatomic outcomes, in many cases, they were time-limited and the anatomic analysis were focused on structural changes of ME-RVO (14, 22, 86, 87).
+
+In addition, the sole resolution of ME-RVO may not be sufficient for achieving good visual outcome, since macular capillary network and the perifoveal capillary arcade alterations have been associated with impaired visual outcomes (112–114).
+
+OCT-angiography has gained relevance as the microvascular abnormalities, especially vessel density in the deep retinal vascular plexus, the foveal avascular zone, and of areas with no capillary perfusion, have been associated with clinical outcomes in eyes with RVO (90, 92–97, 113, 114).
+
+According to the results of a five-year, retrospective, and real-world study DEX-i achieved better retinal perfusion than anti-VEGF in eyes with ME-RVO (76).
+
+Indeed, eyes treated with DEX-i had smaller foveal avascular zone (FAZ) areas and greater FAZ circularity index (i.e., better regularity of the FAZ region in the DEX-i treated eyes) and a significantly greater perfusion density (p = 0.001) in both superficial and deep capillary plexuses when compared to eyes treated with anti-VEGF (76). Moreover, the ratio of perfusion density was greater in the eyes treated with DEX-i than in those treated with anti-VEGF which suggested that DEX-i provided a higher degree of perfusion advantage in the deep capillary plexus (76).
+
+This finding may be explained by the quick resolution of ME by DEX-i (115). Collateral circulation and residual capillary reperfusion can improve ischemia associated with ME-RVO (116, 117). It might be hypothesized that the faster ME-RVO resolved, the better retinal perfusion and clinical outcomes were showed (76).
+
+OCTA has shown to be a useful tool for accurately assess the dynamics of macular and retinal microvasculature, which may help to choose the most appropriate treatment for these patients.
+
+In summary, better vascular perfusion and a smaller FAZ area in both the superficial and deep capillary plexuses were significantly associated with better VA after treatment of ME-BRVO. Therefore, preserving retinal perfusion, especially in the deep capillary plexus, seems to be crucial for better VA in eyes with ME-BRVO (113). Since DEX-i improves vascular perfusion, particularly in the deep capillary plexus, it might be the treatment of choice in patients with retinal ischemia (76, 98, 113).
+
+In this context, the analysis carried out by Gok et al. (118) on retrobulbar hemodynamics provided also insight into the effect of single DEX-i on ocular blood flow velocities in patients with RVO. The results of this study showed no significant effect on the ocular blood flow velocities and changes registered were in acceptable limits. Though they demonstrated the reversibility effect of DEX-i on ocular microcirculation, attributing these effects to DEX-i properties on stabilizing the vascular wall and decreasing the leakage inhibiting the VEGF and inflammation-mediated vasodilatory effects (118).
+
+In 2019, the “Guidelines for the Management of Retinal Vein Occlusion by the European Society of Retina Specialists (EURETINA)” were published (14). They suggested a series of updated recommendations about the clinical management of RVO, based on scientific evidence and the opinion/experience of renowned experts in this field.
+
+Briefly, panretinal laser photocoagulation was considered the treatment of choice for neovascular complications associated with RVO, including retinal and disk neovascularization secondary to RVO as well as iris neovascularization (14).
+
+Anti-VEGF (ranibizumab 0.5 mg/aflibercept 2 mg) were considered as the first-line therapy, since both have been shown to provide anatomic and functional improvements in ME-RVO. However, both treatments require multiple injections and a monthly follow-up period for at least 1 year (14).
+
+Because inflammation is part of the pathophysiological process of ME-RVO, the use of DEX-i for its treatment is indicated. There are evidences suggesting that, in addition to inhibit the expression of proinflammatory and inflammatory molecules, corticosteroids also decrease the expression of VEGF gene and its metabolic pathways (11, 14, 21). However, despite the evidence supporting the good anatomic and visual outcomes of DEX-i, this Guidelines recommended its use as a second-choice treatment (14). DEX-i may be considered as a first line therapy for patients presenting a recent history of major cardiovascular events and in those who are not able to follow the monthly injections (and/or monitoring) regimen during the first 6 months of therapy (14).
+
+More updated guidelines have been released in 2022, “The Royal College of Ophthalmologists RVO Guidelines” (86, 87). Their main purpose was to provide evidence-based, clinical guidance for the appropriate management of different features of RVO, based on current scientific evidence and on consensus opinion of a representative expert panel with a special interest/expertise in this disease (86, 87).
+
+For both center-involving EM secondary to BRVO and secondary to CRVO, these Guidelines recommended to start intravitreal therapy with either intravitreal injections of anti-VEGF or DEX-i. The choice of treatment will be based on clinician and patient’s features, cardiovascular comorbidities, treatment frequency, risk of IOP rise and cataract formation (86, 87).
+
+In eyes with ischemic CRVO or those with disk or retinal neovascularization and/or iris neovascularization, panretinal photocoagulation would be indicated, either alone or in combination with intravitreal therapy (84, 85).
+
+The combined analysis of the Phase 3 controlled BALATON and COMINO trials demonstrated that both visual acuity and anatomical outcomes with faricimab were non-inferior to those observed with aflibercept. In terms of safety, the incidence of ocular adverse events was comparable between patients treated with faricimab and those receiving aflibercept (119).
+
+Recent scientific evidence has demonstrated the potential of combining DEX implant therapy with anti-VEGF treatment for managing ME-RVO, including cases of ME-CRVO (120) and ME-BRVO (121). Both studies reported that this combined approach led to sustained improvements in BCVA in RVO patients, while reducing the need for frequent re-injections and minimizing complications (120, 121).
+
+Since the publication of the EURETINA Guidelines (14), much evidence has been suggested regarding the use of DEX-i in patients with ME-RVO.
+
+This has led to a change in the current therapeutic algorithm, in which the first-line treatment must be decided based on multiple factors, such as the patient’s comorbidities, the ability of the clinician and patient to comply with the treatment regimen and/ or visits, the lens status (phakic versus pseudophakic), ophthalmological history (for example, ocular hypertension or glaucoma), etc (14, 86, 87).
+
+As far as we know, there is limited evidence supporting that in eyes who did not properly respond to an anti-VEGF agent, switching to another anti-VEGF agent may be effective (122).
+
+Georgalas et al. (59), in a 12-month prospective, nonrandomized, and interventional study evaluated the effect of DEX-i in eyes with persistent ME secondary to either BRVO or CRVO, who underwent treatment with at least anti-VEGF injections. According to the results of this study, therapeutic peak effect of DEX-i on BCVA was achieved at 4 months in BRVO (0.3 logMAR improvement from baseline) and at 2 months in CRVO (0.4 logMAR improvement) (59).
+
+The anatomic and visual outcomes of a single DEX-i, in eyes with ME-RVO who were resistant to at least three-monthly injections of ranibizumab, were assessed in a retrospective study (123). As compared to baseline, DEX-i significantly improved mean BCVA at month-2 (p = 0.03) and month-3 (p = 0.003) and significantly reduced CRT at months 2,3, and 6 (p = 0.00003, p = 0.00003, and p = 0.03, respectively) (123).
+
+In a retrospective case series, switching to DEX-i in eyes who did not properly respond to anti-VEGF therapy (defined as ≤ +5 ETDRS letter gain and ≤ 20% reduction in central subfield thickness following ≥ 6 consecutive anti-VEGF injections) resulted in significant visual acuity improvement (+6 letters, 95% CI +2.2 to +9.1 letters, p < 0.01) at 30 days (124).
+
+Additionally, a retrospective systematic review and metanalysis published in 2022, which included 99 eyes from 99 patients, evaluated the anatomic and visual outcomes of DEX-i in eyes with refractory ME-RVO previously treated with anti-VEGF (125). The pooled results demonstrated a significant mean BCVA improvement of -0.23 logMAR (p = 0.004) at month-2, -0.20 logMAR (p = 0.027) at month-3, and -0.09 logMAR (p = 0.021) at month-6 after DEX-i injection (118). Regarding baseline CRT, it was significantly reduced by 241.89 μm at month-2, 222.61 μm at month-3, and 90.49 μm (p < 0.001 each, respectively) (125).
+
+Finally, a recent review primarily analyzed the key pathophysiological and clinical factors that could favor transitioning from anti-VEGF therapy to intravitreal DEX-i in RVO (126). According to this paper, this switch is mainly determined by parameters such as BCVA and CRT, typically after a minimum of three anti-VEGF injections. However, the role of OCT biomarkers related to inflammation, which could help identify patients who may benefit more from DEX-i therapy, is often overlooked (126).Unfortunately, this review could not offer definitive guidance on the optimal timing for switching to DEX implant in RVO patients. The clinical data available is highly variable, and specific imaging biomarkers that could assist in making this therapeutic decision have yet to be identified (126).
+
+In summary, in eyes with ME-RVO who did not adequately respond to anti-VEGF therapy, switching to DEX-i provided better anatomic and visual outcomes (59, 123–126).
+
+Depending on the anatomical site of occurrence, RVO can be classified as BRVO, CRVO (it can be subdivided in ischemic and non-ischemic), and HRVO, which is an intermediary between CRVO and BRVO (9, 127).
+
+The pathogenesis of RVO has not been thoroughly understood, since many other diseases interact with it, including cardiovascular diseases, systemic diseases, and glaucoma (11, 14).
+
+Macular edema, the main responsible of vision loss associated with RVO (either BRVO or CRVO), is characterized by increased intraluminal pressure, vascular endothelial damage, and impaired blood–retina barrier (BRB) that results in leakage, and precipitation of lipoproteins (15). In addition, the release of proinflammatory and inflammatory mediators by the damaged tissue exacerbates the pathogenesis of ME (20, 21, 111).
+
+Different factors, including endothelial dysfunction, inflammation, increased hydrostatic venous pressure, and increased vascular permeability have been associated with the onset of ME-RVO (15, 18, 128, 129).
+
+Upregulation of VEGF and local inflammation within the eye have been identified as one of the leading mediators of RVO pathogenesis and symptoms (20, 21, 111).
+
+Retinal vein occlusion causes inflammation because of retinal ischemia and hemorrhage. Consequently, there is evidence that upregulation of inflammatory factors, including VEGF, VEGF receptor 2 (VEGFR-2), intercellular adhesion molecule 1 (ICAM-1), IL-6, and MCP-1, or downregulation of anti-inflammatory factors, such as pigment epithelium-derived factor (PEDF), and a subsequent increase in leukocyte-endothelial interactions contribute to breakdown of the BRB (15, 20, 21). Additionally, activation of VEGF receptors 1 and 2 increases vascular permeability and the expression of different inflammatory molecules (15, 20, 21). This results in leukocyte chemotaxis and adhesion to the vascular endothelium leading to increased ischemia and inflammation (15, 20, 21).
+
+There is growing evidence to support the relationship between the inflammatory response and RVO-ME (20, 21, 130, 131). Inflammatory markers present in the aqueous and vitreous, including VEGF, IL-6, IL-8, TNF-α, etc., are regarded as significant factors in the pathogenesis of ME-RVO (15, 131).
+
+Different RCTs have demonstrated the efficacy and safety on anti-VEGF in patients with ME-RVO (both BRVO and CRVO) (132–140). However, the use of anti-VEGF agents has been linked to the need for frequent injections. Although the precise number of injections required to initiate treatment remains unclear, studies suggest that six monthly injections yield better outcomes compared to four monthly injections (132–140).
+
+Gale et al. (88), in a real-world study evaluating data from 5,661 treatment-naive patients, found that those patients treated with anti-VEGF received, on average, 5.1 injections at 12-months (as compared to 1.5 DEX-i).
+
+Modi et al. (141) found that among 3,099 eyes with ME secondary to BRVO, 1,197 (38.6%) received ≤ 6 injections (mean injections: 4.6, range: 2–6) and 1,902 (61.4%) received ≥ 7 injections through 1 year (mean injections: 8.8, range: 7–13). Moreover, they reported that mean VA improvement from baseline was significantly lower in the eyes receiving ≤ 6-injections than in those treated with ≥ 7-injections at year 1 (10.4 vs. 13.9; p < 0.001) (141).
+
+Finally, the results of a meta-analysis found that at 12 months, the mean number of anti-VEGF injections was 8.1 (95% CI: 7.4–8.7) (142).
+
+Despite the transformative impact of anti-VEGF agents on the clinical management of ME-RVO, challenges persist (142). The need for several injections leads to a significant treatment burden for patients and financial cost for the healthcare system (143, 144).
+
+Additionally, although anti-VEGF have demonstrated to be effective for treating ME-RVO, visual acuity subsequently decreases after initial improvements (132–140). Moreover, this loss of peak vision occurred in almost all patients, it is greater in patients with poor visual outcome, but also occurring in patients with good visual outcome (145).
+
+Therefore, other intravitreal treatments, such as DEX-i, have emerged to minimize injection frequency while maintaining good outcomes (23, 25, 34–83, 144, 146, 147).
+
+The scientific analyzed evidence (see Tables 1, [T2]2) has demonstrated that DEX-i significantly improved visual function and retinal macular anatomical morphology in eyes with ME-RVO.
+
+Furthermore, the results of a meta-analysis that included a total of 1,248 patients with ME-RVO showed that DEX-i was more effective than anti-VEGF in terms of BCVA improvement and CRT reduction but slightly less safe than anti-VEGF therapy (147).
+
+The clinical outcomes of DEX-i have been noted as early as day 7, achieving its peak of action at day 60. The mean duration of its anatomic and visual outcomes was approximately 4 months (23, 25, 34–83, 146–148).
+
+The longer duration of its effects is associated with a fewer number of injections and medical visits, which significantly reduces the economic burden (14, 86–88, 144).
+
+In this regard treating patients who are naïve to previous therapies may offer an opportunity to achieve a more durable treatment response. These patients may have a less complicated disease history, allowing for better predictability of the treatment’s long-term efficacy. In naïve patients, there might be an opportunity to establish an effective treatment plan from the outset, potentially reducing the need for frequent injections over time (49, 50, 63, 66, 69, 71, 72, 74).
+
+Therefore, the potential benefits of an early switching to DEX-i treatment or initiating treatment in naïve patients align with efforts to optimize visual outcomes, provide long-lasting durability, and reduce the burden of injections in this patient population (49, 50, 63, 66, 69, 71, 72, 74).
+
+It is essential to note that while these potential advantages are promising, individual patient responses can vary, and the decision to switch to or initiate DEX-i treatment should be based on a thorough assessment of the patient’s specific clinical characteristics and needs.
+
+Nowadays side effects related to DEX-i are well known and large experience as thought physician how to manage it. In those cases, who experience an IOP increase, topical ocular hypotensive treatment is enough in most patients (15, 25, 34–83, 88, 100–102). Regarding cataract related AEs, they are mainly related to the number of injections. According to the results of the GENEVA trial, there was no difference compared to sham / also in the UK database 4% of cataract was developed after 1 year (15, 25, 34–83, 88, 100–102).
+
+In addition to the elevation of IOP and the risk of cataract development/progression, other AEs related to the use of DEX-i have been identified, although their incidence rate is very low (15, 25, 34–83, 88, 100–102).
+
+DEX-i is generally injected after 4 months in a pro-re-nata (PRN) regimen (86, 87). According to The Royal College of Ophthalmologists RVO Guidelines (86, 87), both anti-VEGF and DEX-i may be considered as treatment of choice for patients with ME secondary to either CRVO or BRVO, depending on clinician and patient preferences, and considering frequency of treatment/visits, risk of IOP elevation, and lens status.
+
+Additionally, considering that poor vascular perfusion was associated with worse visual outcomes (113), understanding whether intravitreal agents can improve retinal perfusion, particularly in the deep capillary plexus, may help to determine whether these agents may of benefit as first line treatments. It has been suggested that, compared with anti-VEGF, DEX-i can improve retinal perfusion, especially in the deep capillary plexus, with a longer-lasting effect over time in patients with retinal vein occlusion macular edema (76), however further confirmatory trials are needed.
+
+Based on the current evidence, DEX-i significantly improved BCVA and reduced CRT in eyes with ME-RVO (both BRVO and CRVO) quickly and for a long period.
+
+The main adverse events associated with the use of DEX-i are IOP elevation (medically controlled in most cases) and cataract development/progression, that remain manageable complications.
+
+Selecting the correct treatment for the right patient with ME-RVO is the key to achieve good visual and anatomical outcomes. In pursuit of this goal, the identification of biomarkers capable of accurately predicting the prognosis of the disease and the adoption of a patient-centered approach, guided by their clinical characteristics, are crucial.
+
+Medical writing and Editorial assistant services had been provided by Antonio Martínez (MD).
+
+The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This project and the medical writer for this manuscript were funded by AbbVie.
+
+Data sharing was not applicable to this article as no datasets were generated or analyzed during the current study.
+
+AC: Conceptualization, Methodology, Software, Validation, Writing – original draft. DB: Conceptualization, Investigation, Methodology, Supervision, Validation, Writing – review & editing, Visualization. CM: Data curation, Investigation, Methodology, Software, Validation, Writing – original draft. FC: Methodology, Project administration, Resources, Visualization, Writing – original draft. PV: Data curation, Investigation, Methodology, Software, Validation, Writing – original draft. CA: Funding acquisition, Investigation, Project administration, Resources, Visualization, Writing – original draft. VG: Data curation, Methodology, Software, Supervision, Writing – review & editing. VB: Conceptualization, Investigation, Supervision, Validation, Writing – review & editing.
+
+This study received funding from AbbVie. The funder had the following involvement in the study: participation in the design of the manuscript and review of the data. CA and VG were AbbVie employees and may own AbbVie stocks/options. CM was consultant for Novartis, Bayer, and Omega Pharma. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmed.2024.1454591/full#supplementary-material
+
+Data sharing was not applicable to this article as no datasets were generated or analyzed during the current study.

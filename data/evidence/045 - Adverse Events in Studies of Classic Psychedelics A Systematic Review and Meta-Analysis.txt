@@ -1,0 +1,39 @@
+Adverse Events in Studies of Classic Psychedelics: A Systematic Review and Meta-Analysis.
+
+Authors: Jared T Hinkle, M. Graziosi, Sandeep M Nayak, D. Yaden
+Journal: JAMA psychiatry
+Date: 2024
+DOI: 10.1001/jamapsychiatry.2024.2546
+Citations: 128
+URL: https://www.semanticscholar.org/paper/da62fa5fbfb00e2e5f2de77a9396011094c01e9f
+
+ABSTRACT: Importance
+A clear and comprehensive understanding of risks associated with psychedelic-assisted therapy is necessary as investigators extend its application to new populations and indications.
+
+
+Objective
+To assess adverse events (AEs) associated with classic psychedelics, particularly serious AEs (SAEs) and nonserious AEs (NSAEs) requiring medical or psychiatric evaluation.
+
+
+Data Sources
+The search for potentially eligible studies was conducted in the Scopus, MEDLINE, PsycINFO, and Web of Science databases from inception through February 8, 2024.
+
+
+Study Selection
+Two independent reviewers screened articles of classic psychedelics (lysergic acid diethylamide [LSD], psilocybin, dimethyltryptamine [DMT], and 5-methoxy-N,N-dimethyltryptamine [5-MeO-DMT]) involving administration in clinical or research contexts.
+
+
+Data Extraction and Synthesis
+AE data were extracted and synthesized by 2 reviewers and were used for random-effects meta-analysis of AE frequency and heterogeneity. Risk of bias assessment focused on AE ascertainment (eg, systematic assessment and quality of follow-up).
+
+
+Main Outcomes and Measures
+A hybrid approach was used for capture of all reported AEs following high-dose classic psychedelic exposure and confirmatory capture of AEs of special interest, including suicidality, psychotic disorder, manic symptoms, cardiovascular events, and hallucinogen persisting perception disorder. AEs were stratified by timescale and study population type. Forest plots of common AEs were generated, and the proportions of participants affected by SAEs or NSAEs requiring medical intervention were summarized descriptively.
+
+
+Results
+A total of 214 unique studies were included, of which 114 (53.3%) reported analyzable AE data for 3504 total participants. SAEs were reported for no healthy participants and for approximately 4% of participants with preexisting neuropsychiatric disorders; among these SAEs were worsening depression, suicidal behavior, psychosis, and convulsive episodes. NSAEs requiring medical intervention (eg, paranoia, headache) were similarly rare. In contemporary research settings, there were no reports of deaths by suicide, persistent psychotic disorders, or hallucinogen persisting perception disorders following administration of high-dose classic psychedelics. However, there was significant heterogeneity in the quality of AE monitoring and reporting. Of 68 analyzed studies published since 2005, only 16 (23.5%) described systematic approaches to AE assessment, and 20 studies (29.4%) reported all AEs, as opposed to only adverse drug reactions. Meta-analyses of prevalence for common AEs (eg, headache, anxiety, nausea, fatigue, and dizziness) yielded comparable results for psilocybin and LSD.
+
+
+Conclusions and Relevance
+In this systematic review and meta-analysis, classic psychedelics were generally well tolerated in clinical or research settings according to the existing literature, although SAEs did occur. These results provide estimates of common AE frequencies and indicate that certain catastrophic events reported in recreational or nonclinical contexts have yet to be reported in contemporary trial participants. Careful, ongoing, and improved pharmacovigilance is required to understand the risk and benefit profiles of these substances and to communicate such risks to prospective study participants and the public.

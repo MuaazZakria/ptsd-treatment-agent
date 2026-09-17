@@ -1,0 +1,10 @@
+Use of Ketamine as an Anesthetic, Antidepressant, and Treatment for Irritability Associated with ASD
+
+Authors: Sarahsihu Kim, Jiwoo Won, Dayeon Lee
+Journal: Technium BioChemMed
+Date: 2025
+DOI: 10.47577/biochemmed.v13i.13203
+Citations: 0
+URL: https://doi.org/10.47577/biochemmed.v13i.13203
+
+ABSTRACT: This essay explores how ketamine operates as an anesthetic and as an antidepressant through separate but linked mechanisms. Drug repurposing is the application of a drug for a new medical use different from its original purpose, as indicated by the FDA. By comparison of peer-reviewed research on PubMed, NCBI, and clinical trials of ketamine's pharmacology, we find that the mechanism of its use in depression and irritability with Autism Spectrum Disorder (ASD) is derived from blocking the NMDA receptor. As an anesthetic, ketamine rapidly binds to the NMDA receptor and blocks signals that cause excitement and induces dissociation. As an antidepressant, ketamine slowly blocks NMDA receptors. This has the effect of creating the mTOR pathway, which causes synaptogenesis and neural regeneration. In either case, ketamine is beneficial, but must be watched as it has some side effects and is addictive. Future research is extremely vital in determining long-term side effects and realizing its full medical potential.

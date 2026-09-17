@@ -1,0 +1,10 @@
+Psychedelic medicine: mechanisms, evidence, and translation to practice
+
+Authors: Edward Jacobs, Zarmeen Zahid, Jared T. Hinkle, Sandeep M. Nayak, David B Yaden
+Journal: BMJ
+Date: 2026
+DOI: 10.1136/bmj-2024-081723
+Citations: 3
+URL: https://www.bmj.com/content/bmj/392/bmj-2024-081723.full.pdf
+
+ABSTRACT: Over the past 15 years, psychedelic treatments have garnered substantial clinical interest, with psilocybin and 3,4-methylenedioxymethamphetamine (MDMA) advancing to phase 3 trials for various psychiatric conditions. This state-of-the-art review examines the evidence for these treatments and their proposed mechanisms of action, and identifies key challenges in clinical translation. Psychedelic treatments combine limited drug administration with psychotherapy or psychological support, potentially working through various biological and psychological pathways, including effects on neural circuitry, emotional processing, and psychological flexibility, though the precise mechanisms are not completely understood. The strongest evidence supports psilocybin for treatment resistant depression and MDMA for post-traumatic stress disorder, with emerging data in substance use disorders and psychological distress in life threatening illness. Although psychedelics are well tolerated under controlled conditions, methodological limitations complicate interpretation of the evidence, including functional unblinding, variable psychotherapeutic protocols, and homogeneous trial populations. Current treatment models require extensive therapeutic support in specialized settings, posing challenges with scalability. While innovative approaches like group administration may improve accessibility, their comparative effectiveness remains to be established. Future priorities for the research field include standardizing adverse event assessment, developing evidence based implementation guidelines, and showing durable benefit in diverse patient populations. Whether psychedelic treatments can fulfil their therapeutic promise while meeting regulatory requirements and healthcare system constraints remains a defining question for the field.

@@ -1,0 +1,23 @@
+Cognitive restructuring before exposure therapy or behavioral experiments? How the timing of expectancy violation and magnitude of expectancy change influence exposure therapy outcomes.
+
+Authors: C. Johnco, M. Norberg, Viviana M. Wuthrich, R. Rapee
+Journal: Journal of Consulting and Clinical Psychology
+Date: 2025
+DOI: 10.1037/ccp0000953
+Citations: 3
+URL: https://doi.org/10.1037/ccp0000953
+
+ABSTRACT: OBJECTIVE
+Inhibitory learning models emphasize the central role of threat expectancy violation during exposure therapy. However, exposure is often implemented alongside cognitive restructuring, which reduces threat expectancies before exposure, reducing the potential for expectancy violation. This study examined whether the timing of expectancy violation (before/during exposure) and magnitude of expectancy change impact the efficacy of exposure therapy.
+
+
+METHOD
+A total of 249 adults (range 18-59 years old, M = 21.19, SD = 6.89) with elevated public speaking anxiety completed an intensive exposure session. Participants were randomly allocated to receive exposure based on (a) behavioral experiments (BE; i.e., maximizing expectancy violation and emphasizing prediction error following exposure); (b) cognitive restructuring before exposure (CR + EXP; i.e., threat expectancies reduced before exposure, thus reducing expectancy violation during exposure tasks); or (c) exposure without explicit processing of threat expectancies or expectancy violation. Change in symptoms was assessed pre-post exposure session and at 1-week follow-up.
+
+
+RESULTS
+The BE and CR + EXP groups showed superior anxiety reduction (primary outcome) and threat expectancy change (secondary outcome) compared to exposure without explicit processing of threat expectancies or expectancy violation. There was a nonsignificant small effect size difference in anxiety reduction favoring BE over CR + EXP. There was greater expectancy change in the BE group compared to the CR + EXP group and shorter treatment duration. Greater threat expectancy change during exposure tasks was associated with greater anxiety reduction.
+
+
+CONCLUSIONS
+Threat expectancy change facilitates anxiety reduction during exposure therapy, and there may be modest advantages to challenging threat expectancies after exposure (BE) compared to before exposure (CR + EXP). (PsycInfo Database Record (c) 2025 APA, all rights reserved).

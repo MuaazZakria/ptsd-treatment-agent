@@ -1,0 +1,10 @@
+Advances in the Treatment of PTSD: A Review of Conventional and Emerging Therapies
+
+Authors: Guo Cheng
+Journal: Lecture Notes in Education Psychology and Public Media
+Date: 2025
+DOI: 10.54254/2753-7048/2025.ns27630
+Citations: 0
+URL: https://www.semanticscholar.org/paper/7b38ea2ce9c01148a1ef56bb712ec32a3397435c
+
+ABSTRACT: Post-Traumatic Stress Disorder (PTSD) is a mental disorder triggered by experiencing a major traumatic event, which may have long-term effects on a patient's emotions, cognition, and social functioning. In recent years, treatment methods for PTSD have continued to evolve. Traditional treatments primarily include pharmacological interventions such as selective serotonin reuptake inhibitors (SSRIs), as well as cognitive-behavioral psychotherapies like Prolonged Exposure (PE) and Eye Movement Desensitization and Reprocessing (EMDR). While these methods have shown some efficacy, they still face limitations such as limited therapeutic effects and high relapse rates. With the deepening of research, emerging methods such as ketamine and MDMA-assisted therapy have gradually gained attention and shown promising results in some clinical studies. Meanwhile, explorations at the neural mechanism level have provided new insights into the underlying principles of different treatment approaches. This paper comprehensively reviews the current mainstream treatments and research progress in PTSD, and provides an initial outlook on the future development direction of individualized and integrated treatments, aiming to provide references for subsequent research and clinical practice.

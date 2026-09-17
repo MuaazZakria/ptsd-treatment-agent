@@ -1,0 +1,10 @@
+Ketamine may exert rapid antidepressant effects through modulation of neuroplasticity, autophagy, and ferroptosis in the habenular nucleus.
+
+Authors: Mengke Zhang, Dongbin Lyu, Fan Wang, Shuxiang Shi, Meiti Wang, Weichieh Yang, Haijing Huang, Zheyi Wei, Shentse Chen, Yi Xu, W. Hong
+Journal: Neuroscience
+Date: 2022
+DOI: 10.1016/j.neuroscience.2022.10.015
+Citations: 32
+URL: https://www.semanticscholar.org/paper/290a84c628a9f9a6d0ce6b6c6c00243bda533da2
+
+ABSTRACT: Major depressive disorder is a burdensome condition with few treatment options, and traditional antidepressants are characterized by slow onset. Sub-anesthetic ketamine has rapid-onset effects for the treatment of major depressive disorder (MDD), the mechanisms of which remain elusive. In this study, we explored whether neuroplasticity, autophagy, and ferroptosis in the habenular nucleus are involved in the rapid antidepressant process of ketamine. The results showed that Chronic Restraint Stress (CRS) treated rats exhibited decreased neuroplasticity, inhibition of autophagy, and enhanced ferroptosis. Depression-like symptoms were significantly improved after ketamine treatment in CRS rats, with changes in physiological parameters. Ketamine-treated CRS rats showed a significant improvement in habenular nuclear neuroplasticity. Electron microscopy observed that ketamine triggered autophagy, with increased levels of autophagy-related proteins. Ferroptosis was inhibited by ketamine by electron microscopy, with increased FTH1 and GPX4 levels and decreased Tfr1 levels. In conclusion, our findings demonstrate that ketamine may exert rapid antidepressant effects by improving neuroplasticity, activating autophagy, and inhibiting ferroptosis in the nuclear complex.

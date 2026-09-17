@@ -1,0 +1,10 @@
+In it together? The case for endocannabinoid–noradrenergic interactions in fear extinction
+
+Authors: W. G. Warren, E. Papagianni, C. Stevenson, C. Stubbendorff
+Journal: European Journal of Neuroscience
+Date: 2021
+DOI: 10.1111/ejn.15200
+Citations: 14
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejn.15200
+
+ABSTRACT: Anxiety and trauma‐related disorders, such as post‐traumatic stress disorder (PTSD), are debilitating mental illnesses with great personal and socioeconomic costs. Examining memory formation and relevant behavioural responding associated with aversive stimuli may improve our understanding of the neurobiology underlying fear memory processing and PTSD treatment. The neurocircuitry underpinning learned fear and its inhibition through extinction is complex, involving synergistic interactions between different neurotransmitter systems in inter‐connected brain areas. Endocannabinoid and noradrenergic transmission have both been implicated separately in fear memory processing and PTSD, but potential interactions between these systems in relation to fear extinction have received little attention to date. Their receptors are expressed together in brain areas crucial for fear extinction, which is enhanced by both cannabinoid and noradrenergic receptor activation in these areas. Moreover, cannabinoid signalling modulates the activity of locus coeruleus noradrenaline (NA) neurons and the release of NA in the medial prefrontal cortex, a brain area that is crucial for fear extinction. Interestingly, endocannabinoid–noradrenergic system interactions have been shown to regulate the encoding and retrieval of fear memory. Thus, noradrenergic regulation of fear extinction may also be driven indirectly in part via cannabinoid receptor signalling. In this perspective paper, we collate the available relevant literature and propose a synergistic role for the endocannabinoid and noradrenergic systems in regulating fear extinction, the study of which may further our understanding of the neurobiological substrates of PTSD and its treatment.

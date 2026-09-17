@@ -1,0 +1,14 @@
+Psychedelic Therapies in the Management of Post-Traumatic Stress Disorder
+
+Authors: J. Bajer, Aleksandra Włodarczyk, Hubert Kulawinek, Julia Obersztyn, Krzysztof Kasparek, Marta Czech, Grzegorz Kasparek, A. Szczecińska, W. Glanert, Aleksandra Mliczek, Piotr Mrozek
+Journal: Journal of Education, Health and Sport
+Date: 2026
+DOI: 10.12775/jehs.2026.94.73071
+Citations: 0
+URL: https://apcz.umk.pl/JEHS/article/download/73071/47119
+
+ABSTRACT: Background. Post-Traumatic Stress Disorder (PTSD) is an important public health challenge typically treated with trauma-focused psychotherapy and Selective Serotonin Reuptake Inhibitors (SSRIs). However, high rates of residual symptoms associated with these standard treatments have led to a renewed interest in psychedelic-assisted therapies.
+Aim. This review attempts to examine emerging psychedelic therapies in the management of PTSD, with a primary focus on 3,4-methylenedioxymethamphetamine (MDMA), psilocybin, and ketamine.
+Material and methods. A literature search was carried out using PubMed, Google Scholar, and Scopus to identify relevant studies using keywords such as 'PTSD', 'MDMA', 'psychedelics', 'ketamine', 'psychedelic-assisted therapy', 'neuroplasticity', and 'fear extinction'.
+Results. Psychedelics induce neuroplasticity and augment fear extinction, primarily through the AMPAR-BDNF-TrkB-mTOR pathway and 5-HT2A receptors. MDMA-assisted therapy demonstrates high efficacy, with a trial showing that 67% of participants no longer met PTSD criteria at the study endpoint. Psilocybin effectively treats common comorbidities like anxiety and treatment-resistant depression. Ketamine offers rapid symptom alleviation, making it notably beneficial for treatment-resistant cases with a high risk of self-harm and suicide.
+Conclusions. Psychedelic therapies, particularly MDMA-assisted therapy, represent a potential breakthrough by targeting the underlying causes of PTSD rather than merely suppressing symptoms. In spite of current regulatory problems, they hold meaningful promise, pointing out the need for standardized treatment protocols to ensure safety and reproducibility in future research.

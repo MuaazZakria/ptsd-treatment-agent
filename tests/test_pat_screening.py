@@ -1,5 +1,5 @@
-from iaso_lite.patient import compact_patient_view
-from iaso_lite.synthesis import _patient_brief
+from ptsd_lite.patient import compact_patient_view
+from ptsd_lite.synthesis import _patient_brief
 
 PATIENT = {
     "patient_id": "p1",

@@ -1,0 +1,10 @@
+Dose-dependent effect of acute THC on extinction memory recall and fear renewal: a randomized, double-blind, placebo-controlled study
+
+Authors: N. Zabik, Allesandra S. Iadipaolo, Craig Peters, Samantha L. Baglot, Matthew N. Hill, Christine A. Rabinak
+Journal: Psychopharmacology
+Date: 2024
+DOI: 10.1007/s00213-024-06702-w
+Citations: 8
+URL: https://www.semanticscholar.org/paper/f002ee00e8a2d8de284c8592663504de2eb15eea
+
+ABSTRACT: Prior work from our lab and others demonstrates that the endocannabinoid system is a promising avenue for improving fear memory deficits in posttraumatic stress disorder (PTSD). Specifically, 7.5 mg of delta-9-tetrahydrocannabinol (THC) decreases fear responding in healthy adults and increases prefrontal cortex activation during extinction learning and fear renewal in adults with PTSD. The present study will determine whether there is a dose-dependent effect of THC on short-term (24 h) and long-term (one week) fear learning and memory in adults with PTSD. Using a randomized, double-blind, placebo-controlled design, N = 36 adults with PTSD completed the study and were randomized to receive placebo (PBO, n = 11), 5 mg of THC (n = 11), or 10 mg of THC (n = 14) prior to fear extinction learning. Participants completed a Pavlovian conditioning paradigm with extinction recall and fear renewal occurring 24 h and one week later, where we measured concurrent functional imaging and behavioral responses. Twenty-four hours after drug administration, individuals with PTSD given 5 mg of THC exhibited greater anterior cingulate cortex and prefrontal cortex activation during early fear renewal. One week later, individuals given 10 mg of THC exhibited greater hippocampus activation during extinction recall and prefrontal cortex activation during fear renewal. These data suggest that dosing and timing are critical for facilitating fear memory processes in PTSD, and that low-dose oral THC prior to extinction learning can affect brain indices of fear learning and memory both acutely and one week after administration.

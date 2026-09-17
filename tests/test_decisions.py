@@ -1,7 +1,7 @@
 import pytest
 
-from iaso_lite import decisions
-from iaso_lite.config import get_settings
+from ptsd_lite import decisions
+from ptsd_lite.config import get_settings
 
 
 def test_record_decision_writes_snapshot_and_appends_log():

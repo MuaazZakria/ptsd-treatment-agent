@@ -1,0 +1,39 @@
+Psilocybin in alcohol use disorder and comorbid depressive symptoms: Results from a feasibility randomized clinical trial.
+
+Authors: A. Luquiens, Dahbia Belahda, Carine Graux, Noé Igounenc, Chris Serrand, P. Rochefort, Thibault Mura, Felix Sergent
+Journal: Addiction
+Date: 2025
+DOI: 10.1111/add.70152
+Citations: 17
+URL: https://www.semanticscholar.org/paper/c1e8ca095bae667823a59ffcb93b8a93884ede5b
+
+ABSTRACT: BACKGROUND AND AIMS
+Psilocybin has emerged as a potential treatment for alcohol use disorder (AUD), but early efficacy data are inconsistent. Depression following alcohol detoxification significantly increases the risk of relapse. This pilot study aimed to evaluate the feasibility, acceptability, and preliminary efficacy of psilocybin-assisted psychotherapy for patients with comorbid AUD and depression.
+
+
+DESIGN
+A prospective, single-center, double-blind, parallel (2:1), randomized controlled pilot study.
+
+
+SETTING
+The study was conducted in a French inpatient addiction treatment program offering intensive relapse prevention interventions.
+
+
+PARTICIPANTS
+Of 350 screened patients, 30 adults (mean age 49 ± 10 years; 43% female) with severe AUD (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition [DSM-5] criteria) and a Beck Depression Inventory-II (BDI-II) score ≥14 were included. Participants had completed detoxification between 14 and 60 days prior to inclusion.
+
+
+INTERVENTIONS
+Participants received either two oral sessions of 25 mg (n = 20) or 1 mg (n = 10) psilocybin-assisted psychotherapy spaced three weeks apart, as an add-on to standard care. Patients, investigators and outcome assessors were all blinded to patient group.
+
+
+MEASUREMENTS
+The primary outcome was feasibility, according to participation in both dosing sessions and recruitment/inclusion rates. Secondary outcomes included alcohol use (Alcohol Timeline Followback), time to relapse, craving (Craving Experience Questionnaire), depression (BDI-II), safety and blinding integrity.
+
+
+FINDINGS
+One participant in the 25 mg group could not receive the second dose due to myocardial infarction occurring three days earlier, unrelated to the treatment. Four participants in the control group refused the second session after guessing their group assignment (p-value = 0.019), with one participant self-administering 3,4-Methylenedioxymethamphetamine (MDMA). At 12 weeks, the 25 mg group showed significantly greater abstinent rate (11/20 (55%) vs 1/9 (11%) (one lost of follow up) (difference = -44%, [95% confidence interval [CI]: -82% to -5.9%]), p = 0.043), reductions in % drinking days -100 (-100 to -49) vs - 93 (-96 to 0), p = 0.038 and craving frequency -8 (-23 to -1) vs + 7 (-2 to 11), p = 0.045, respectively in the 25 vs 1 mg groups (median [25;75]). Relapse rates were 35% in the 25 mg group and 50% in the control group (HR = 0.52 [0.16 to1.65]). No efficacy differences were observed based on antidepressant use in terms of drinking and depression. Blinding was imperfect (correct guess by patients: 93.3%; investigators: 86.7%). Twenty-five adverse events were reported in 10 patients (50%) in the 25 mg group versus 6 patients (60%) in the control group.
+
+
+CONCLUSIONS
+Psilocybin-assisted psychotherapy appears feasible, acceptable, and safe in recently detoxified patients with comorbid alcohol use disorder and depression.

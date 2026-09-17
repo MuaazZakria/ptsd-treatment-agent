@@ -1,0 +1,10 @@
+Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.
+
+Authors: Monnica T Williams, Sonya C. Faber, Jordan Sloshower, Lianna Tullis-Robinson, Sergio R. Pérez Rosal
+Journal: Scientific Reports
+Date: 2026
+DOI: 10.1038/s41598-026-59333-w
+Citations: 0
+URL: https://www.nature.com/articles/s41598-026-59333-w_reference.pdf
+
+ABSTRACT: This preliminary study explored the effects of MDMA-assisted therapy on trauma symptoms related to discrimination, as measured by the Trauma Symptoms of Discrimination Scale (TSDS). A total of five diverse participants, who experienced multiple types of discrimination (e.g., gender, racial/ethnic, social class, age, sexual orientation), were assessed before and after treatment. A paired-samples t-test indicated a significant reduction in TSDS scores following therapy, with mean scores decreasing by 38% (t(4) = 2.85, p = .046). The effect size was large (Cohen's d = 1.28), though this estimate should be interpreted cautiously given the small sample size. All participants reported marked improvements in discrimination related trauma symptoms following MDMA-assisted therapy in this sample, and across different racial/ethnic identities and discrimination histories. These findings provide preliminary evidence that MDMA-assisted therapy may effectively alleviate discrimination-related trauma in marginalized populations. We discuss the importance of culturally-informed treatment approaches for psychedelic-assisted psychotherapy. These early results warrant further investigation in larger, more diverse cohorts.

@@ -1,0 +1,10 @@
+Emerging pharmacological strategies for the treatment of cannabis use disorder
+
+Authors: A. Bahji
+Journal: Expert Opinion on Pharmacotherapy
+Date: 2025
+DOI: 10.1080/14656566.2025.2558999
+Citations: 3
+URL: https://www.semanticscholar.org/paper/2908222859b5e5dc7ccaa4c75b24ebaa47a74af7
+
+ABSTRACT: ABSTRACT Introduction Cannabis use disorder (CUD) is a growing global health concern, with limited pharmacological treatments currently available despite increasing prevalence and legalization trends. Areas covered This review explores the landscape of pharmacotherapies for CUD, including both repurposed agents and emerging investigational compounds. We summarize findings from recent systematic reviews and meta-analyses, with attention to mechanisms of action and clinical relevance. Agents discussed include gabapentin, N-acetylcysteine, synthetic cannabinoids, fatty acid amide hydrolase (FAAH) inhibitors, orexin receptor antagonists, and psychedelics. A narrative approach was used, informed by targeted searches of PubMed, Google Scholar, and clinical trial registries from 2000 to 2025, focusing on human studies, randomized trials, and meta-analyses relevant to pharmacologic management of CUD. Expert opinion The pharmacologic treatment of CUD is in its early stages, with no approved agents and modest efficacy demonstrated to date. Novel compounds targeting endocannabinoid tone and motivational circuits show promise, but significant research is still needed. Future progress depends on better integration with behavioral care, trial stratification by clinical phenotype, and increased investment in translational research to move beyond withdrawal symptom management toward sustained recovery.

@@ -1,4 +1,4 @@
-# IASO Manus Console
+# PTSD Treatment Agent
 
 A clinician-facing PTSD treatment-evidence synthesis tool. Pick a synthetic
 patient, and the app retrieves relevant published evidence, hands it to a
@@ -33,9 +33,9 @@ draft + evidence passages + clinician decision panel (accept / amend / reject)
 Retrieval is local and fully deterministic — Manus only ever sees the
 passages this app retrieved, never the corpus or filesystem directly.
 
-Standalone project. **Not** part of `iaso-ptsd-agent/` — the deterministic
-pieces (safety gate, query builder, BM25 corpus, compact patient views) are
-self-contained ports in `iaso_lite/`, no shared dependency.
+Standalone project — the deterministic pieces (safety gate, query builder,
+BM25 corpus, compact patient views) are self-contained in `ptsd_lite/`, no
+external dependency.
 
 ## Requirements
 
@@ -46,7 +46,7 @@ self-contained ports in `iaso_lite/`, no shared dependency.
 ## Setup
 
 ```bash
-git clone <this repo> && cd iaso-manus
+git clone <this repo> && cd ptsd-treatment-agent
 
 # --- backend ---
 python3.11 -m venv .venv
@@ -60,11 +60,11 @@ Edit `.env`:
 | Variable | What it's for |
 |---|---|
 | `MANUS_API_KEY` | Your Manus API key. Leave blank to run offline (deterministic stub instead of a real synthesis). |
-| `IASO_EVIDENCE_DIR` | Folder of `.pdf`/`.txt` evidence documents for BM25 retrieval. |
-| `IASO_PATIENTS_FILE` | JSON file: an array of patient records (see **Data** below for the required shape). |
-| `IASO_ADMIN_PASSWORD` | Required to gate the app behind a login screen. Leave blank to run fully open (local/offline dev only — a startup warning is printed). |
-| `IASO_SESSION_SECRET` | Optional; pins the session-signing key so logins survive a restart. Leave blank to auto-generate one per process (safer default — every session invalidates on restart). |
-| `IASO_DECISIONS_DIR` | Where clinician decisions are logged (JSONL + per-decision JSON snapshots). |
+| `PTA_EVIDENCE_DIR` | Folder of `.pdf`/`.txt` evidence documents for BM25 retrieval. |
+| `PTA_PATIENTS_FILE` | JSON file: an array of patient records (see **Data** below for the required shape). |
+| `PTA_ADMIN_PASSWORD` | Required to gate the app behind a login screen. Leave blank to run fully open (local/offline dev only — a startup warning is printed). |
+| `PTA_SESSION_SECRET` | Optional; pins the session-signing key so logins survive a restart. Leave blank to auto-generate one per process (safer default — every session invalidates on restart). |
+| `PTA_DECISIONS_DIR` | Where clinician decisions are logged (JSONL + per-decision JSON snapshots). |
 
 See `.env.example` for the full list, including retrieval-tuning knobs
 (chunk size, top-k, BM25 threshold) that default to sane values and rarely
@@ -107,14 +107,14 @@ Use `http://localhost:5173` while developing the UI; rebuild with
 
 ### Offline mode
 
-No `MANUS_API_KEY` (or `IASO_MANUS_OFFLINE=1`): the synthesis step returns a
+No `MANUS_API_KEY` (or `PTA_MANUS_OFFLINE=1`): the synthesis step returns a
 clearly-marked `[OFFLINE STUB]` draft instead of calling Manus, so the whole
 pipeline and UI run end to end for development. All tests run this way —
 no API key is required to develop or test this project.
 
 ## Data
 
-**Patients** (`IASO_PATIENTS_FILE`) — a JSON array. Each record needs at
+**Patients** (`PTA_PATIENTS_FILE`) — a JSON array. Each record needs at
 minimum:
 ```json
 {
@@ -128,26 +128,26 @@ Optional fields the pipeline also uses when present: `comorbidities_at_onset`,
 (`pcl5_total_score`, `caps5_severity`, `trauma_profile`, `treatment_history`,
 `contraindications`) for richer, patient-specific drafting.
 
-**Evidence corpus** (`IASO_EVIDENCE_DIR`) — any folder of `.pdf` or `.txt`
+**Evidence corpus** (`PTA_EVIDENCE_DIR`) — any folder of `.pdf` or `.txt`
 files. Dropping a file in or removing one automatically invalidates the BM25
-disk cache (`IASO_CACHE_DIR`) on next load — no manual rebuild step. Evidence
+disk cache (`PTA_CACHE_DIR`) on next load — no manual rebuild step. Evidence
 quality matters a lot here: retrieval is only as good as what's in this
 folder relative to the kinds of treatment questions the query builder asks
-(see `iaso_lite/retrieval.py::build_fast_queries`).
+(see `ptsd_lite/retrieval.py::build_fast_queries`).
 
 ## Layout
 
 | path | what |
 |---|---|
 | `app.py` | FastAPI: auth, `/api/patients`, `/api/run` (SSE), `/api/decision`, `/api/decisions` |
-| `iaso_lite/config.py` | env-driven `Settings` |
-| `iaso_lite/patient.py` | patient loading, safety gate, compact views sent to the model |
-| `iaso_lite/corpus.py` / `retrieval.py` | PDF/txt → BM25 index; rule-based query builder |
-| `iaso_lite/manus_client.py` | Manus v2 client + task polling/streaming |
-| `iaso_lite/prompts.py` | the Manus prompt + structured-output schema |
-| `iaso_lite/synthesis.py` | `run_stream()` orchestrator, citation enforcement, offline stub |
-| `iaso_lite/auth.py` | stdlib-only HMAC session tokens (no external auth dependency) |
-| `iaso_lite/decisions.py` | append-only decision log + per-decision snapshots |
+| `ptsd_lite/config.py` | env-driven `Settings` |
+| `ptsd_lite/patient.py` | patient loading, safety gate, compact views sent to the model |
+| `ptsd_lite/corpus.py` / `retrieval.py` | PDF/txt → BM25 index; rule-based query builder |
+| `ptsd_lite/manus_client.py` | Manus v2 client + task polling/streaming |
+| `ptsd_lite/prompts.py` | the Manus prompt + structured-output schema |
+| `ptsd_lite/synthesis.py` | `run_stream()` orchestrator, citation enforcement, offline stub |
+| `ptsd_lite/auth.py` | stdlib-only HMAC session tokens (no external auth dependency) |
+| `ptsd_lite/decisions.py` | append-only decision log + per-decision snapshots |
 | `frontend/src/App.jsx` | shell: login gate, patient picker, run stream, decision panel |
 | `frontend/src/components/` | `Login`, `Draft`, `DecisionPanel`, `EvidencePassages`, `Stepper`, `Telemetry` |
 | `frontend/src/lib/manus.js` | REST calls + `useRunStream` SSE hook |
@@ -171,14 +171,14 @@ folder relative to the kinds of treatment questions the query builder asks
 ## Auth & decisions
 
 The whole app sits behind a single shared admin password
-(`IASO_ADMIN_PASSWORD`) — a stdlib-only HMAC-signed session cookie, no
+(`PTA_ADMIN_PASSWORD`) — a stdlib-only HMAC-signed session cookie, no
 external auth dependency. This is an access gate for a single-operator tool,
 not real multi-user identity management.
 
 Once a case reaches a draft, the clinician records **accept / accept with
 amendments / reject** (or, if the case never reached a draft,
 **acknowledge / escalate**) with their name and notes. Each decision is
-written to `IASO_DECISIONS_DIR` as an append-only JSONL log line plus a full
+written to `PTA_DECISIONS_DIR` as an append-only JSONL log line plus a full
 per-decision JSON snapshot (draft, citation audit, evidence ids at the time)
 — so the historical record doesn't change if the corpus is updated later.
 

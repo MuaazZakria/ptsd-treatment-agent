@@ -1,0 +1,10 @@
+Direct Inhibition of BK Channels by Cannabidiol, One of the Principal Therapeutic Cannabinoids Derived from Cannabis sativa.
+
+Authors: Juliana Monat, Lucía González Altieri, N. Enrique, Daniela Sedan, Darío Andrinolo, Verónica Milesi, P. Martín
+Journal: Journal of Natural Products
+Date: 2024
+DOI: 10.1021/acs.jnatprod.3c01274
+Citations: 8
+URL: https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.3c01274
+
+ABSTRACT: Cannabidiol (CBD), one of the main Cannabis sativa bioactive compounds, is utilized in the treatment of major epileptic syndromes. Its efficacy can be attributed to a multimodal mechanism of action that includes, as potential targets, several types of ion channels. In the brain, CBD reduces the firing frequency in rat hippocampal neurons, partly prolonging the duration of action potentials, suggesting a potential blockade of voltage-operated K+ channels. We postulate that this effect might involve the inhibition of the large-conductance voltage- and Ca2+-operated K+ channel (BK channel), which plays a role in the neuronal action potential's repolarization. Thus, we assessed the impact of CBD on the BK channel activity, heterologously expressed in HEK293 cells. Our findings, using the patch-clamp technique, revealed that CBD inhibits BK channel currents in a concentration-dependent manner with an IC50 of 280 nM. The inhibition is through a direct interaction, reducing both the unitary conductance and voltage-dependent activation of the channel. Additionally, the cannabinoid significantly delays channel activation kinetics, indicating stabilization of the closed state. These effects could explain the changes induced by CBD in action potential shape and duration, and they may contribute to the observed anticonvulsant activity of this cannabinoid.

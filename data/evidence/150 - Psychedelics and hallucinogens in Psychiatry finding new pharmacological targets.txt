@@ -1,0 +1,23 @@
+Psychedelics and hallucinogens in Psychiatry: finding new pharmacological targets.
+
+Authors: T. Sousa, J. Rema, S. Machado, F. Novais
+Journal: Current Topics in Medicinal Chemistry
+Date: 2021
+DOI: 10.2174/1568026621666211201145800
+Citations: 8
+URL: https://www.semanticscholar.org/paper/0a782b26390a1c2fd84472f0e581e5e648433fd0
+
+ABSTRACT: BACKGROUND
+The therapeutic options for neurobehavioral disorders are still limited, and in many cases, they lack a satisfactory balance between efficacy and side effects.
+
+
+OBJECTIVE
+This work aims to review current evidence regarding the potential contribution of psychedelics and hallucinogens to the discovery of new drugs for treating different psychiatric disorders.
+
+
+DISCUSSION
+Ayahuasca/N,N-dimethyltryptamine (DMT), lysergic acid diethylamide (LSD), and psilocybin have evidence supporting their use in depression, and psilocybin and ayahuasca have also shown good results in treatment-resistant depression. In randomized controlled trials (RCTs) conducted with anxious patients, there were symptomatic improvements with psilocybin and LSD. Psilocybin diminished Yale-Brown Obsessive Compulsive Scale (Y-BOCS) scores in a small obsessive-compulsive disorder (OCD) sample. The evidence is less robust regarding substance use disorders, but it suggests a possible role for LSD and psilocybin in alcohol use disorders and for psilocybin in tobacco addiction. In a clinical setting, these substances seem to be safe and well-tolerated. Their mechanisms of action are not fully elucidated, but there seems to be a preponderant role of 5-hydroxytryptamine (5HT) 2A agonism, as well as connectivity changes within the default mode network (DMN) and amygdala and some other molecular modifications.
+
+
+CONCLUSION
+The studies underlying the conclusions have small samples and are heterogeneous in their methods. However, the results suggest that the use of psychedelics and hallucinogens could be considered in some disorders. More studies are needed to reinforce their evidence as potential new drugs.

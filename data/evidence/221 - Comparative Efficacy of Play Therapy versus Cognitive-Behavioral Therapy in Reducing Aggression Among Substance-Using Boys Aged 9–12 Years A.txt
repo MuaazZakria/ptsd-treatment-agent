@@ -1,0 +1,12 @@
+Comparative Efficacy of Play Therapy versus Cognitive-Behavioral Therapy in Reducing Aggression Among Substance-Using Boys Aged 9–12 Years: A Randomized Controlled Trial
+
+Authors: Fatemeh Sahraei, Abolfazl Bakhshipour, Mahmoud Jajarmi
+Journal: Health Psychology and Behavioral Disorders
+Date: 2026
+DOI: 10.61838/jhpbd.201
+Citations: 0
+URL: https://doi.org/10.61838/jhpbd.201
+
+ABSTRACT: This quasi-experimental study aimed to compare the effectiveness of play therapy and cognitive-behavioral therapy (CBT) in reducing aggression among substance-using boys aged 9–12 years. A pre-test–post-test design with a control group and a two-month follow-up was employed. The statistical population consisted of all 9–12-year-old boys who had completed detoxification in addiction treatment centers in Torbat-e Jam, Iran, during 2022–2023. Using purposive sampling, 24 participants were selected and randomly assigned to two experimental groups (play therapy and CBT) and one wait-list control group (n = 8 per group). The Shahim Aggression Questionnaire (2006) was used for data collection. The first experimental group received 10 weekly 60-minute sessions of child-centered play therapy, while the second group underwent 10 weekly 60-minute sessions of CBT. The control group received no intervention. A two-month follow-up was conducted to assess maintenance of outcomes. Data were analyzed using univariate and multivariate ANCOVA via SPSS-23.
+Both interventions significantly reduced aggression (p < 0.05). Bonferroni post-hoc tests indicated that play therapy was significantly more effective than CBT in reducing overall aggression (physical, relational, and verbal). Moreover, play therapy showed superior stability at follow-up (p < 0.05).
+Play therapy and CBT are both evidence-based options for reducing aggression in substance-using children; however, play therapy demonstrated greater and more durable efficacy. Clinicians are encouraged to prioritize play-based interventions for this high-risk population.

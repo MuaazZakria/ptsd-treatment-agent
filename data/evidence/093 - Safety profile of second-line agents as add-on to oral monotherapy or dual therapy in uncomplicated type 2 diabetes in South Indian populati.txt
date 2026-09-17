@@ -1,0 +1,17 @@
+Safety profile of second-line agents as add-on to oral monotherapy or dual therapy in uncomplicated type 2 diabetes in South Indian population
+
+Authors: Rupam Gill, S. Adiga, M. Varma
+Date: 2018
+DOI: 10.5455/NJPPP.2018.8.0208302042018
+Citations: 2
+URL: https://doi.org/10.5455/njppp.2018.8.0208302042018
+
+ABSTRACT: Background: Nowadays, there is an abundance of many therapeutic options available for the management of type 2 diabetes mellitus (DM). Hence, shifting the trend toward personalized treatment that focuses on the differences among different classes of pharmacological agents with regard to the mechanism of action, efficacy, and most important - the safety. Most of the clinical guidelines reconcile the risk-benefit ratio of the individual therapies. Moreover, there is limited evidence comparing the efficacy and safety of second-line drugs in combination therapies. It becomes crucial to rationalize the combination therapies with respect to attainment of glycemic targets, reduction in the short- and long-term complications and providing a better quality of life. In clinical practice, optimal treatment of type 2 DM must take into account the various comorbidities and adverse drug reactions (ADRs). 
+ 
+Aims and Objective: The aims of the study were to assess the ADRs associated with second-line antidiabetic drugs when used as add-on agent in uncomplicated type 2 DM. 
+ 
+Materials and Methods: Patients aged ≥18 years of age, diagnosed as uncomplicated type 2 DM who were previously receiving at least one oral antidiabetic drug (metformin or sulfonylurea) or dual-combination therapy (metformin+sulfonylurea) and for the first-time initiated on a second-line add-on agent, i.e., pioglitazone or dipeptidyl peptidase-4 (DPP-4) inhibitor (sitagliptin/vildagliptin) or α-glucosidase inhibitor (voglibose) or insulin (pre-mixed insulin [30% regular/70% NPH]) were included in the study. The ADRs associated with second-line agents were assessed based on hypoglycemic events, weight changes, frequency of ADRs, liver and renal function tests, and medical events reported. 
+ 
+Results: A total of 240 patients (mean age 56.79 ± 11.73 years) were prescribed one of four different class of hypoglycemic agents. Overall, the median weight gain of 1.5 kg was observed in the insulin group, with no change of median weight in DPP-4 inhibitor group; while pioglitazone and voglibose group demonstrated a median weight loss of 1 and 0.5 kg, respectively, at the end of 6 months. The maximum number of hypoglycemic episodes was reported in insulin treatment group, i.e., 33; while least with DPP-4 inhibitor, i.e., 12. Out of 274 ADRs, the most common were gastrointestinal adverse effects, i.e., 30.66% and least were the dermatological ADRs (5.11%). 
+ 
+Conclusion: Henceforth, DPP-4 inhibitor add-on group was found to be safest in terms of least hypoglycemic episodes and side effects when used as add-on therapy.

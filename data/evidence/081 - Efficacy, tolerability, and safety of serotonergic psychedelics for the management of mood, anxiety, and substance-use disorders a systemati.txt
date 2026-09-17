@@ -1,0 +1,10 @@
+Efficacy, tolerability, and safety of serotonergic psychedelics for the management of mood, anxiety, and substance-use disorders: a systematic review of systematic reviews
+
+Authors: R. G. dos Santos, José Carlos Bouso, M. A. Alcázar-Córcoles, Jaime E. C. Hallak
+Journal: Expert Review of Clinical Pharmacology
+Date: 2018
+DOI: 10.1080/17512433.2018.1511424
+Citations: 198
+URL: https://www.semanticscholar.org/paper/79d17159045f23f102617545df3b25bff903867a
+
+ABSTRACT: ABSTRACT Introduction: Mood, anxiety, and substance-use disorders are among the most prevalent psychiatric disorders in the population. Although several pharmacological treatments are available, they are not effective for a significant proportion of patients and are associated with several adverse reactions. Therefore, new treatments should be explored. Recent studies suggest that serotonergic hallucinogens/psychedelics including ayahuasca, psilocybin, and lysergic acid diethylamide (LSD) have anxiolytic, antidepressive, and antiaddictive effects. Areas Covered: A systematic review of systematic reviews assessing the efficacy, safety, and tolerability of serotonergic hallucinogens/psychedelic was performed using the PubMed data base until 11 April 2018. Systematic reviews with or without meta-analysis were analyzed, but only reviews that described at least one randomized controlled trial (RCT) were included. Expert Commentary: Psilocybin and LSD reduced anxiety and depression in cancer patients and symptoms of alcohol and tobacco dependence, and ayahuasca reduced depression symptoms in treatment-resistant depression. Although the results are promising, several studies were open label, and only few were RCTs, and most had small sample sizes and a short duration. Single or few doses of these drugs seem to be well tolerated, but long-term studies are lacking. New RCTs with bigger samples and longer duration are needed to replicate these findings.

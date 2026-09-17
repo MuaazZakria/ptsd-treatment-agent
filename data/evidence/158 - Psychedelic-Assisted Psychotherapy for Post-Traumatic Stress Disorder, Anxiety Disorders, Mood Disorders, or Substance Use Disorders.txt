@@ -1,0 +1,14 @@
+Psychedelic-Assisted Psychotherapy for Post-Traumatic Stress Disorder, Anxiety Disorders, Mood Disorders, or Substance Use Disorders
+
+Authors: Y. Chao, J. Horton
+Journal: Canadian Journal of Health Technologies
+Date: 2021
+DOI: 10.51731/cjht.2021.90
+Citations: 4
+URL: https://canjhealthtechnol.ca/index.php/cjht/article/download/90/rc1363
+
+ABSTRACT: Two systematic reviews, 3 randomized controlled trials, and 2 single-arm safety trials were identified that evaluated several combinations of psychedelic-assisted psychotherapy. Psilocybin was the psychedelic most tested. Other psychedelics identified in the systematic reviews and primary studies were 3,4-methylenedioxymethamphetamine (or MDMA), lysergic acid diethylamide (or LSD), ayahuasca (also named N,N-dimethyltryptamine [or DMT]), ibogaine, ketamine, and nitrous oxide. 
+Manualized therapy (not defined) and non-directive support (not defined) were the psychotherapies most studied in the relevant primary studies in the 2 systematic reviews. Other psychotherapies identified included integrative psychotherapy, cognitive behavioural therapy (CBT), CBT and motivational enhancement therapy, psychosocial interventions, non-directive support, group talk therapy, and guided support. 
+Clinical effectiveness lasting weeks to months was observed in 1 systematic review that reviewed primary studies examining various combinations of psychedelics and psychotherapy in patients with various mental health conditions. Significant improvement in symptom scores related to mental illnesses and no serious and long-term adverse events were reported in the other systematic review. 
+Various combinations of psychedelics and psychotherapies were evaluated in 3 randomized controlled trials (RCTs) and 2 safety studies. Ketamine-assisted psychotherapies were associated with improvements in the symptoms related to substance use disorder in 2 RCTs. Psilocybin-assisted psychotherapy was reported to be efficacious in treating MDD in 1 RCT. No serious adverse effects were reported in the RCTs or in 2 safety trials using MDMA-assisted psychotherapy. 
+There were several limitations to the included studies, including small sample sizes (less than 20 in the majority of primary studies), relatively short follow-ups (1 week to 3 years; less than or equal to 1 year in 27 out of 31 relevant publications), differences in psychotherapy classification between systematic reviews, considerable heterogeneity between studies, and unclear generalizability and availability of the interventions in Canadian contexts. Therefore, findings should be interpreted with caution. No relevant guidelines were identified.

@@ -1,0 +1,10 @@
+Ketamine's Dose Related Multiple Mechanisms of Actions: Dissociative Anesthetic to Rapid Antidepressant.
+
+Authors: E. Lavender, Mika Hirasawa-Fujita, E. Domino
+Journal: Behavioural Brain Research
+Date: 2020
+DOI: 10.1016/j.bbr.2020.112631
+Citations: 53
+URL: https://www.semanticscholar.org/paper/d710d9f4a93f08e1fa162e53f716fec94cb2c8f7
+
+ABSTRACT: Ketamine induces safe and effective anesthesia and displays unusual cataleptic properties that gave rise to the term dissociative anesthesia. Since 1970, clinicians only utilized the drug as an anesthetic or analgesic for decades, but ketamine was found to have rapid acting antidepressant effects in 1990s. Accumulated evidence exhibits NMDAR antagonism may not be the only mechanism of ketamine. The contributions of AMPA receptor, mTor signal pathway, monoaminergic system, sigma-1 receptor, cholinergic, opioid and cannabinoid systems, as well as voltage-gated calcium channels and hyperpolarization cyclic nucleotide gated channels are discussed for the antidepressant effects. Also the effects of ketamine's enantiomers and metabolites are reviewed. Furthermore ketamine's anesthetic and analgesic mechanisms are briefly revisited. Overall, pharmacology of ketamine, its enantiomers and metabolites is very unique. Insight into multiple mechanisms of action will provide further development and desirable clinical effects of ketamine.

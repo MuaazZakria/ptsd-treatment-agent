@@ -1,0 +1,10 @@
+Ketamine and Esketamine in Psychiatry: A Comparative Review Emphasizing Neuroplasticity and Clinical Applications
+
+Authors: Georgios Mikellides
+Journal: Psychoactives
+Date: 2025
+DOI: 10.3390/psychoactives4030020
+Citations: 6
+URL: https://www.semanticscholar.org/paper/d40b5b044d8f35e2b515acdfc23096917edc025f
+
+ABSTRACT: Ketamine and esketamine are two closely related compounds with fast-acting antidepressant properties that have reshaped the treatment landscape for individuals with treatment-resistant depression (TRD). Originally developed as anesthetic agents, both have since demonstrated rapid and robust antidepressant effects in patients who have not responded to conventional treatments such as selective serotonin reuptake inhibitors (SSRIs) or cognitive behavioral therapy. This narrative review synthesizes evidence on their pharmacology, mechanisms of action, clinical efficacy, safety profiles, and regulatory considerations, with a particular focus on their neuroplastic effects. While ketamine is a racemic mixture composed of equal parts R- and S-enantiomers, esketamine consists solely of the S-enantiomer and has been approved for intranasal use by the FDA and EMA for TRD. These agents have been shown to produce symptom relief within hours of administration—an unprecedented effect in psychiatric pharmacology. This rapid onset is particularly valuable in managing suicidal ideation, offering potential lifesaving benefits in acute settings. Furthermore, ketamine and esketamine’s influence on synaptic plasticity, brain-derived neurotrophic factor (BDNF), and glutamate transmission provides insights into novel therapeutic targets beyond monoaminergic systems. This review incorporates recent real-world findings and peer-reviewed literature to contextualize the clinical use of these agents in modern psychiatry, bridging experimental research with practical application.

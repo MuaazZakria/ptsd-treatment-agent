@@ -1,0 +1,14 @@
+Cognitive Behavioral Therapy for Insomnia With Prolonged Exposure Compared to Sleep Hygiene and Prolonged Exposure: A Randomized Controlled Trial.
+
+Authors: Peter J. Colvonen, Christopher Hunt, Jane Park, A. Angkaw, Philip R. Gehrman, Kira Clare, Sonya B. Norman
+Journal: Journal of Clinical Psychiatry
+Date: 2025
+DOI: 10.4088/JCP.24m15584
+Citations: 1
+URL: https://www.semanticscholar.org/paper/f2a8fdfc5027dd124f91d95d454638b53e73221e
+
+ABSTRACT: Objective: Co-occurrence of posttraumatic stress disorder (PTSD) and insomnia disorder is common and associated with greater psychiatric and functional problems than either condition alone. Evidence-based PTSD treatment often does not effectively decrease insomnia, and insomnia may interfere with the mechanisms underlying PTSD treatment. This study compared the efficacy of integrated cognitive behavioral therapy for insomnia (CBT-I) and prolonged exposure (PE; CBTI-PE) therapy to sleep hygiene and PE (hygiene-PE) in reducing insomnia and PTSD symptoms.
+Methods: Ninety-four veterans with insomnia disorder (Insomnia Severity Index [ISI] ≥11) and PTSD (Clinician Administered PTSD Scale for DSM-5 [CAPS-5] diagnosis) were randomized to CBTI-PE or hygiene-PE therapy for 12 weeks of treatment. Recruitment ran from January 2017 to March 2023. Planned outcomes were PTSD symptoms (CAPS-5; PTSD Checklist for DSM-5), quality of life (World Health Organization Quality of Life-BREF [WHOQOL]), and insomnia severity (ISI, subjective sleep efficiency [SE], total sleep time [TST]) between baseline, week 5, posttreatment, and 3-month follow-up.
+Results: Randomized participants were 76.6% male, 52.1% white, and mean age was 40.0 years (SD = 11.6). Linear modeling showed PTSD symptoms significantly decreased for most participants, but there were no differences by treatment group (P = .844). While, on average, WHOQOL increased for all participants, there was greater improvement in perceived quality of life (QOL) in CBTI-PE relative to hygiene-PE. ISI decreased, and SE and TST increased for most participants but had statistically and clinically larger changes in CBTI-PE, compared to hygiene-PE (P < .001).
+Conclusions: On average, participants had reductions in PTSD symptoms, with no differences between the groups. CBTI-PE produced greater reductions in insomnia symptoms and larger increases in QOL, SE, and TST than hygiene-PE. Together, CBT-I PE is an effective intervention for treating 2 highly co-occurring disorders, insomnia and PTSD.
+Trial Registration: ClinicalTrials.gov identifier: NCT02774642.

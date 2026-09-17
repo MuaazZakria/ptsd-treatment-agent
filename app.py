@@ -1,21 +1,21 @@
 """
-iaso-manus - IASO PTSD pipeline with the synthesis step on the Manus agent API.
+ptsd-treatment-agent - PTSD treatment-evidence pipeline with the synthesis
+step on the Manus agent API.
 
-Standalone experimental app. NOT part of iaso-ptsd-agent/. Retrieval is local and
-deterministic; only the retrieved passages go to Manus; the safety gate and the
-citation check run in code.
+Retrieval is local and deterministic; only the retrieved passages go to
+Manus; the safety gate and the citation check run in code.
 
   POST /api/login                 - admin password -> session cookie
   POST /api/logout                - clear the session cookie
   GET  /api/health                - config + evidence index stats
   GET  /api/patients?q=&flagged=  - synthetic patient picker rows
   GET  /api/patients/{id}         - full profile + compact view
-  GET  /api/run?patient_id=       - SSE: IASO stages + live Manus working + draft
+  GET  /api/run?patient_id=       - SSE: pipeline stages + live Manus working + draft
   POST /api/decision              - record a clinician's approve/amend/reject
   GET  /api/decisions             - the persisted decision log
 
 Every /api/* route except /api/login requires a session cookie once
-IASO_ADMIN_PASSWORD is set (see iaso_lite/auth.py). With no password
+PTA_ADMIN_PASSWORD is set (see ptsd_lite/auth.py). With no password
 configured the app runs open (a startup warning is printed).
 """
 
@@ -32,11 +32,11 @@ from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from iaso_lite import auth, decisions
-from iaso_lite.config import get_settings
-from iaso_lite.corpus import get_index
-from iaso_lite.patient import load_patients, patient_by_id, patient_summary_row
-from iaso_lite.synthesis import run_stream
+from ptsd_lite import auth, decisions
+from ptsd_lite.config import get_settings
+from ptsd_lite.corpus import get_index
+from ptsd_lite.patient import load_patients, patient_by_id, patient_summary_row
+from ptsd_lite.synthesis import run_stream
 
 STEPS = [
     ("safety", "Safety gate"),
@@ -46,7 +46,7 @@ STEPS = [
     ("audit", "Citation check"),
 ]
 
-app = FastAPI(title="iaso-manus", version="0.1.0")
+app = FastAPI(title="ptsd-treatment-agent", version="0.1.0")
 
 _cors_origins = get_settings().cors_origins
 if _cors_origins:
@@ -68,11 +68,11 @@ async def _warm_index() -> None:
         print(f"[startup] evidence index not ready: {exc}")
 
 
-def require_admin(iaso_session: str | None = Cookie(default=None)) -> None:
+def require_admin(pta_session: str | None = Cookie(default=None)) -> None:
     cfg = get_settings()
     if not cfg.auth_enabled:
-        return  # no IASO_ADMIN_PASSWORD configured - running open, see the startup warning
-    if not auth.verify_token(iaso_session, cfg):
+        return  # no PTA_ADMIN_PASSWORD configured - running open, see the startup warning
+    if not auth.verify_token(pta_session, cfg):
         raise HTTPException(401, "Not signed in.")
 
 
@@ -155,7 +155,7 @@ def list_patients(
     "/api/patients/{patient_id}", dependencies=[Depends(require_admin)]
 )
 def get_patient(patient_id: str) -> dict[str, Any]:
-    from iaso_lite.patient import compact_patient_view
+    from ptsd_lite.patient import compact_patient_view
 
     p = patient_by_id(patient_id, get_settings())
     if p is None:

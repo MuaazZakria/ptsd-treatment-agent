@@ -1,0 +1,10 @@
+The effects of a dual orexin receptor antagonist on fear extinction memory and sleep in mice: Implications for exposure therapy
+
+Authors: Ihori Kobayashi, P. Forcelli
+Journal: Behavioural Brain Research
+Date: 2023
+DOI: 10.1016/j.bbr.2023.114741
+Citations: 4
+URL: https://www.semanticscholar.org/paper/87a479a1283b4085304324473b5d4db8e08028ed
+
+ABSTRACT: Extinction of conditioned fear is considered a fundamental process in the recovery from posttraumatic stress disorder and anxiety disorders. Sleep, especially rapid-eye-movement (REM) sleep, has been implicated in promoting extinction memory. The orexin system contributes to the regulation of sleep and wakefulness and emotional behaviors. In rodents, administrations of an orexin receptor antagonist following fear extinction training enhanced consolidation of extinction memory. Although orexin antagonists increase sleep, including REM sleep, the possible contribution of sleep to the effects of orexin antagonists on extinction memory has not been examined. Therefore, this study examined the effects of suvorexant, a dual orexin receptor antagonist, on extinction memory and sleep and their associations in mice. C57BL/6 mice underwent sleep recording for 24 hours before and after contextual fear conditioning with footshocks and extinction learning during the early light phase or early dark phase. Mice were systemically injected with either 25 mg/kg of suvorexant or vehicle immediately after the extinction session. We found that suvorexant neither altered sleep nor improved extinction memory recall compared with vehicle. The higher percentages of REM sleep during the post-extinction dark phase were associated with lower extinction memory recall and greater freezing responses to the fear context. Results also indicate that animals did not reach complete extinction of fear with the fear extinction training protocol used in this study. These findings suggest that promoting REM sleep may not enhance fear extinction memory when extinction of fear is incomplete.

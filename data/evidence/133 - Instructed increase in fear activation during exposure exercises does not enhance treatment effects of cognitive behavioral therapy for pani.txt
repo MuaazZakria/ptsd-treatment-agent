@@ -1,0 +1,10 @@
+Instructed increase in fear activation during exposure exercises does not enhance treatment effects of cognitive behavioral therapy for panic disorder and agoraphobia.
+
+Authors: J. Richter, Alfons O. Hamm, Thomas Lang, Alexander L. Gerlach, Christiane A. Melzig, A. Kordt, Kezia L. Droste, Stephan Goerigk, Benjamin Straube, T. Kircher, Winfried Rief, Ulrike Lueken, G. W. Alpers, Sylvia Helbig-Lang
+Journal: Behaviour Research and Therapy
+Date: 2026
+DOI: 10.1016/j.brat.2025.104946
+Citations: 0
+URL: https://www.semanticscholar.org/paper/0cbf17a89e8f36c04ceac7094d7e18e81fa15e9c
+
+ABSTRACT: The efficacy of exposure-based cognitive behavioral therapy (eCBT) for panic disorder and agoraphobia (PD/AG) is well established, but the mechanisms of action are still under debate. Here we investigated whether increased fear activation (by provoking additional bodily symptoms using interoceptive challenges) during exposure to agoraphobic situations would improve therapy outcome. Individuals diagnosed with PD/AG (N = 124) were randomized to one of the two variants of eCBT, with (exposure plus fear activation; E + FA) and without (exposure alone; E) guided evocation of unpleasant body symptoms (using additional interoceptive exposure exercises) and/or threat cognitions (expectations of potential threats that might occur during exposure). Primary outcome measures were assessed at baseline, post treatment, and at four-month follow-up. Reported fear and perceived likelihood of expected threat were assessed as moderators prior to, during, and after exposure sessions using ecological momentary assessment. Post treatment, E + FA was inferior to E in two of four primary outcome measures. At the follow-up assessment, both treatment variants were equally effective in all outcomes. In conclusion, increasing fear activation by explicitly activating the response units of the fear network did not result in better treatment outcome, questioning popular recommendations to maximize patient fear during eCBT - at least for patients with PD/AG.

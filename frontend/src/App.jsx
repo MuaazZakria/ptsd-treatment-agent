@@ -94,7 +94,7 @@ export default function App() {
 
       {run.done && (
         <div className="print-header print-only">
-          <div className="print-header-mark">IASO — Treatment Plan (decision support only)</div>
+          <div className="print-header-mark">PTA — Treatment Plan (decision support only)</div>
           <div className="print-header-meta">
             patient {selectedId?.slice(0, 8)} · {run.done.status.replace(/_/g, " ").toLowerCase()} ·
             printed {new Date().toLocaleString()}
@@ -109,9 +109,9 @@ export default function App() {
         transition={{ duration: 0.6, ease: [0.2, 0.7, 0.2, 1] }}
       >
         <div className="brand">
-          <span className="mark">IASO</span>
+          <span className="mark">PTA</span>
           <span className="sub">
-            manus console · PTSD evidence synthesis
+            PTSD treatment agent · manus console
             {health && (
               <span className="sub-mode">
                 {" · "}
@@ -138,7 +138,7 @@ export default function App() {
         </div>
       </motion.header>
 
-      <main className="grid grid-iaso">
+      <main className="grid grid-main">
         <motion.section
           className="panel case"
           initial={{ opacity: 0, y: 18 }}

@@ -1,0 +1,23 @@
+The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.
+
+Authors: T. Bostoen, E. Krediet, A. V. van Schagen, N. J. van der Wee, E. Giltay
+Journal: Journal of Psychopharmacology
+Date: 2026
+DOI: 10.1177/02698811261464502
+Citations: 0
+URL: https://doi.org/10.1177/02698811261464502
+
+ABSTRACT: BACKGROUND
+The potential safety and efficacy of the psychedelic 3,4-methylenedioxymethamphetamine-assisted therapy (MDMA-AT) for post-traumatic stress disorder (PTSD) has been researched in phase 2 and phase 3 clinical trials. We examined the occurrence and role of mystical experiences in MDMA-AT.
+
+
+METHODS
+Data were sourced from two phase 2 randomized trials of MDMA-AT for chronic PTSD, in which participants received two sessions with either MDMA or active placebo, in conjunction with psychotherapy. The Mystical Experience Questionnaire 30-item version (MEQ30) was administered after each MDMA session. The association of mystical experiences and PTSD symptom severity (Clinician Administered PTSD Scale for DSM-IV (CAPS-IV)) was analyzed using multilevel regression and mediation analyses.
+
+
+RESULTS
+Fifty-three participants with chronic PTSD were included. Standard doses of MDMA (n = 39) were associated with significantly higher mean MEQ30 scores (M = 63.1, SE = 4.9; 42.1% of maximum) compared to active placebo (M = 24.7, SE = 5.5; 16.4%), t-test p < 0.001. Mediation analysis revealed a significant indirect effect of the MEQ30 Positive Mood subscale on symptom reduction (b = -0.170, 95% CI (-0.353, -0.007)), while the MEQ total score and other subscales showed smaller, non-significant indirect effects on CAPS-IV scores.
+
+
+CONCLUSIONS
+MEQ30 scores were significantly higher for MDMA sessions than for active placebo sessions in patients undergoing MDMA-assisted therapy for chronic PTSD. Among mystical-type experiences, the positive mood subscale, rather than full mystical-type states, appeared to contribute most to the mitigation of PTSD symptoms. These findings should be interpreted with caution due to the limited sample size and secondary nature of the analysis.

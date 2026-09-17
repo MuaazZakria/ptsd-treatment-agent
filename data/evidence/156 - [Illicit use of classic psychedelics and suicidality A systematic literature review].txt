@@ -1,0 +1,23 @@
+[Illicit use of classic psychedelics and suicidality: A systematic literature review].
+
+Authors: Ana Beatriz Pereira de Oliveira, Matthieu Hein
+Journal: L'Encephale
+Date: 2026
+DOI: 10.1016/j.encep.2026.04.004
+Citations: 0
+URL: https://www.semanticscholar.org/paper/7477adda1b1b58f1f298eb9fb1d8eaec6e83205b
+
+ABSTRACT: INTRODUCTION
+Given the contrasting results available in the literature, the objective of this systematic review was to investigate the specific impact of illicit use of classic psychedelics (psilocybin, LSD, DMT, mescaline) on suicidality (suicidal ideation, suicide planning, suicide attempts, suicides).
+
+
+METHOD
+According to PRISMA criteria, a systematic review of the literature was carried out in March 2026 in the PubMed-Medline and Scopus databases. The sequences of keywords used were as follows: ("Hallucinogens" [Mesh] or Hallucinogens or Psychedelics or "Psilocybin" [Mesh] or Psilocybin or "N,N-Dimethyltryptamine" [Mesh] or N,N-Dimethyltryptamine or "Lysergic Acid Diethylamide" [Mesh] or Lysergic Acid Diethylamide or "Mescaline" [Mesh] or Mescaline) and ("Suicide" [Mesh] or Suicide or "Suicidal Ideation" [Mesh] or Suicidal Ideation or "Self-Injurious Behavior" [Mesh] or Self-Injurious Behavior or "Suicide, Attempted" [Mesh] or Suicide Attempt) for the PubMed-Medline database and (TITLE-ABS-KEY ("Hallucinogens" or "Psychedelics" or "Psilocybin" or "N,N-Dimethyltryptamine" or "Ayahuasca" or "Lysergic Acid Diethylamide" or "LSD" or "Mescaline" or "Peyote") and TITLE-ABS-KEY ("Suicide" or "Suicidal Ideation" or "Self-Injurious Behavior" or "Suicide Attempt") for the Scopus database. The inclusion criteria applied for the selection of articles in this systematic review were: (1) article with separate analyses available specifically targeting the effect of illicit use of classic psychedelics on suicidality in subjects aged at least 12 years (adolescents and adults); (2) all types of studies (cross-sectional, longitudinal, prospective, retrospective, interventional, and experimental) with the exception of literature reviews, clinical case descriptions, letters to the editor, editorials, study protocols, conference papers and preprints; (3) article published between 01/01/2015 and 31/12/2025; (4) article available in full version; and (5) article written in English or French. After assessment by the two authors of the 970 articles identified, 11 studies specifically investigating the effect of illicit consumption of classic psychedelics on suicidality were selected.
+
+
+RESULTS
+The association between illicit use of classic psychedelics and suicidality appears to vary greatly depending on the substance considered: significant association between psilocybin use and reduced suicidality, significant association between LSD/DMT use and increased suicidality, and no association between mescaline use and suicidality. All 11 studies included in this review were characterized by low methodological quality and limited scientific evidence.
+
+
+CONCLUSION
+This systematic review highlights a complex relationship between the illicit use of classic psychedelics and suicidality. These different effects depending on the substance used could be explained by the existence of different neurobiological mechanisms, distinct psychological experiences, specific contexts of use, and individual vulnerabilities. However, the interpretation of these results must remain cautious due to the major methodological limitations of the selected studies which underscores the need for further prospective longitudinal studies to better understand this relationship between the illicit use of classic psychedelics and suicidality. Finally, based on the preliminary results of this systematic review, the highlighting of this significant association between reduced suicidality and illicit psilocybin use without adequate "set and setting" seems to justify the implementation of randomized controlled trials in a strict and secure medical setting in order to determine the possible role of this substance in the prevention and management of suicidality.

@@ -1,0 +1,10 @@
+Exploring Virtual Reality as a Medium for Cognitive Behavioral Treatment
+
+Authors: Wai Yie Leong
+Journal: International Colloquium on Signal Processing and Its Applications
+Date: 2025
+DOI: 10.1109/CSPA64953.2025.10932980
+Citations: 5
+URL: https://www.semanticscholar.org/paper/b3c2d8dee0c5aafe6f3646762fe4ce745dd36786
+
+ABSTRACT: Virtual Reality (VR) technology has revolutionized therapeutic interventions by providing immersive, interactive environments that enhance traditional methods. This paper explores the application of VR as a medium for delivering Cognitive Behavioral Therapy (CBT), focusing on its potential to improve engagement, accessibility, and treatment outcomes for various mental health conditions, including anxiety, phobias, and post-traumatic stress disorder (PTSD). By creating controlled and realistic simulations, VR facilitates exposure therapy, cognitive restructuring, and behavioral activation in ways traditional approaches cannot match. Comparative analysis highlights the benefits of VR-CBT, such as increased patient immersion and adaptability, against challenges like cost and accessibility. Results from clinical studies indicate significant reductions in symptoms and high patient satisfaction rates. Through case studies, data visualizations, and theoretical discussions, this paper presents VR-CBT as a transformative approach to mental health treatment, paving the way for innovative, scalable therapeutic solutions. Future directions include integrating artificial intelligence and enhancing cost efficiency to expand accessibility.

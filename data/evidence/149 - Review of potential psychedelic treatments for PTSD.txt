@@ -1,0 +1,10 @@
+Review of potential psychedelic treatments for PTSD.
+
+Authors: Ryan L. Henner, M. Keshavan, K. Hill
+Journal: Journal of Neurological Sciences
+Date: 2022
+DOI: 10.1016/j.jns.2022.120302
+Citations: 38
+URL: https://www.semanticscholar.org/paper/1a6dfdff5e4ab3cbb5e1af120ffa0fef16de890f
+
+ABSTRACT: Post-traumatic stress disorder (PTSD) is a debilitating mental illness with limited treatment options and a high treatment dropout rate. Psychedelics, often in combination with psychotherapy, are now under investigation as a potential treatment option for a variety of psychiatric conditions including PTSD. This paper reviews the proposed mechanism of action for 3,4-Methylenedioxymethamphetamine (MDMA) and classical psychedelics such as psilocybin in treating PTSD, along with available clinical evidence, safety and side effects. MDMA-assisted psychotherapy is in FDA phase III clinical trials for PTSD and is purported to work by way of increased empathy and decreased amygdala activation during the therapeutic encounter and trauma processing. Classical psychedelics may create change by a subjective transformative experience along with an observable process of brain network alterations, though these substances have not been clinically studied in the context PTSD. In recent human-subject studies MDMA-assisted therapy resulted in significant improvement in PTSD symptoms with a good safety and side effect profile. There is not yet direct clinical evidence for classical psychedelics in treating PTSD, but the evidence supports such a trial. The studies to date have been relatively small, and participants are wellscreened for potential co-morbidities which could increase the risks of psychedelic treatment. Nonetheless, the data is promising for psychedelic-assisted treatment to become a much-needed treatment option for PTSD.

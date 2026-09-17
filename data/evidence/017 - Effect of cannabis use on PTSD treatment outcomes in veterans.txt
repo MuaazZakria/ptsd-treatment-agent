@@ -1,0 +1,83 @@
+Effect of cannabis use on PTSD treatment outcomes in veterans
+
+Authors: Meagan Petersen, K. Koller, C. Straley, E. Reed
+Journal: Mental Health Clinician
+Date: 2021
+DOI: 10.9740/mhc.2021.07.238
+Citations: 2
+URL: https://doi.org/10.9740/mhc.2021.07.238
+
+ABSTRACT: Introduction Researchers have found anandamide (an endocannabinoid) and cannabinoid type 1 receptor activation encourages extinction of aversive memories. Some theorize cannabinoids such as those in cannabis may provide a new treatment approach for PTSD, while others suggest it may worsen symptomology. The objective of the current study was to determine if cannabis use impacts the success of evidence-based intensive outpatient PTSD treatment in a veteran population. Methods A list of veterans enrolled in the Battle Creek Veterans' Affairs Medical Center outpatient PTSD Clinical Team Clinic between October 1st, 2008 and October 1st, 2016 was obtained, and a random sample was identified. Study participants were veterans aged 18 to 85 years, with at least 2 PTSD Checklist scores, and a diagnosis of PTSD. Data collected included mental health medications, type and number of evidence-based psychotherapy used, and presence of co-occurring behavioral health diagnoses. The cannabis use group was compared to the no-cannabis-use group, and differences in variables pertaining to the relative number of treatment successes and failures was evaluated for statistical and clinical significance. Results The majority of patients were white (87.1%) and male (95%). The success rate was similar between the cannabis and no-cannabis-use groups (51.9% and 51.4%, respectively). Discussion The current study did not show that a predominantly white male veteran sample diagnosed with PTSD differed in intensive PTSD treatment success or failure based on cannabis use.
+
+FULL TEXT:
+Cannabinoids are compounds derived from the cannabis plant that agonize the endocannabinoid system. This system is made of endogenous neurotransmitters (endocannabinoids) that bind to cannabinoid receptors expressed throughout the central nervous system.1 The endocannabinoid anandamide and the cannabinoid-1 receptor (CB1) have been implicated in the etiology and pathophysiology of PTSD. A study2 was conducted on the potential effects of PTSD on physiologic concentrations of anandamide and CB1 receptors. Participants diagnosed with PTSD had lower peripheral anandamide concentrations and increased amounts and locations of CB1 receptors in their brains compared with non-PTSD trauma controls. Anandamide and CB1 receptor activation may encourage extinction of aversive memories and reduce long-term fear.
+
+One major limitation of available research into cannabis-derived cannabinoids for PTSD is the innate hardship in determining active ingredients in cannabis as there are over 400 independent substances present, more than 60 of which are cannabinoids.3 Little is known about cannabinoids in general, most available information is on tetrahydrocannabinol (THC) and cannabidiol (CBD).
+
+Research suggests CBD may be beneficial in the treatment of mental health conditions whereas THC could be detrimental.4 Much of what is known clinically about THC has been extrapolated from synthetic THC. More information may become available from off-label use of CBD treatment for PTSD because of recent FDA approval of CBD extract Epidiolex. It is also possible other active cannabinoids present in cannabis could be contributing to observed benefits or detriments. Thus, composition and concentration may contribute to conflicting results seen within cannabis research. Other common limitations include small sample sizes and short follow up periods.
+
+Nabilone (FDA-approved synthetic THC-like cannabinoid) has been studied off-label to elucidate its efficacy in resistant PTSD nightmares when combined with at least 1 conventional medication. Researchers found 72% of patients experienced cessation or lessening in severity of nightmares.5 Authors of a retrospective study6 of a correctional treatment center's patients who had taken nabilone for any indication found that those suffering from PTSD had improvement in global PTSD symptoms.
+
+Not all cannabis research has been positive. One study7 found PTSD symptoms were increased in those who used alcohol, heroin, cocaine, and cannabis. Authors noted that despite validated assessments indicating worsening PTSD symptoms, participants reported feeling the substances improved symptoms. Authors of another study8 found that Iraq/Afghanistan-era veterans who met criteria for cannabis use disorder had 1.7 times higher current suicidal ideation and 2.3 times higher lifetime suicide attempts compared to those who did not meet criteria.
+
+The objective of the current study was to determine if cannabis use, medical or recreational, impacts the success of evidence-based intensive outpatient PTSD treatment, including psychotherapy and/or medications, in a veteran population.
+
+This study was approved by the VA Ann Arbor Healthcare System IRB.
+
+Cannabis use was determined by documentation of a during-treatment diagnosis of cannabis abuse or dependence, urine drug screen positive for THC, documentation of cannabis use in progress notes, or non-VA medication list reporting medical cannabis prescription while admitted to the program.
+
+The PTSD checklist IV-military (PCL) was used to assess treatment response throughout entire observation period. This is a validated 17-item self-report symptom monitoring scale with higher scores indicating greater PTSD symptom severity. Treatment success was defined as a reduction in PCL score of equal-to-or-greater than five points. This reduction is the minimum threshold for determining whether an individual has responded to treatment. Failure was defined as not achieving at least a 5-point reduction in PCL scores.9
+
+The study sample included veterans voluntarily enrolled in a 12-session intensive outpatient PTSD program at a Michigan Veteran Affairs medical center between October 1, 2008 and October 1, 2016. Retrospective chart reviews were used to compare veterans' outcomes between those using cannabis during treatment versus nonusers to determine if there were differences in the outcomes of evidence-based treatments or baseline characteristics.
+
+A list of veterans referred to the outpatient PTSD clinical team during the study time frame was obtained and a random number generator used to select veterans for inclusion in the study. Veteran eligibility included being age 18 to 85 years old, diagnosis of PTSD, baseline PCL at admission, and at least 1 subsequent PCL a minimum of 30 days after the baseline during the same admission (minimum threshold for assessing if a difference has occurred). Veterans were excluded if there was missing data preventing an adequate determination of eligibility. Information collected included demographics, diagnoses, treatment duration in number of sessions between PCLs, evidence-based psychotherapy practiced which included veterans receiving supportive therapy, use of antidepressants or antipsychotics, and incidence of cooccurring nontobacco SUDs as documented in the medical record during time of treatment.
+
+Data was collected using VA electronic medical records and databases.
+
+To improve the likelihood of obtaining a stable model with reasonably accurate parameter estimates, the necessary sample size was estimated using the formula N = (10 × k)/p, where N is the total sample size, k is the number of independent variables, and p is the smaller of the 2 probabilities for the dichotomous dependent variable.10,11 Historically, the PTSD clinical team program at the Battle Creek VAMC has an 85% success rate (5 point or more decrease in PCL), therefore for purposes of sample size calculation we used this response rate, the above formula, and 5 independent variables to calculate a sample size estimate of 333 patients total. This was rounded to 340 patients to maximize the probability of a successful fit.
+
+Veterans were analyzed by success and failure and were compared on baseline characteristics. Normally distributed continuous variables were compared using t tests. Nonnormally distributed continuous variables were compared using the Wilcoxon rank sum test. Categorical variables were compared using χ2 tests or Fisher exact test when expected cell frequencies were less than 5. Baseline characteristics were not corrected for multiple comparisons.
+
+A logistic regression model was developed to determine the effect of cannabis use on the odds of the second PCL decreasing by at least 5 points (treatment success), adjusting for other variables. Variables determined a priori to be considered for inclusion in the model were cannabis use, number of sessions completed prior to second PCL, antidepressant and/or antipsychotic prescription, and other SUDs. Univariate analysis was conducted to evaluate associations between each independent and dependent variable. Backward stepwise variable selection was conducted to identify the most parsimonious model from a group of competing models.12 Variables were included in the model if the P value in univariate analysis was .2 or smaller and the variables improved model balance as measured by Akaike information criterion in the stepwise analysis. Akaike information criterion balances model fit with model efficiency, penalizing models with more variables. Models identified by univariate and stepwise methods were compared using likelihood ratio tests in R software. Cannabis use was included in all models. After the optimal model was identified, logistic regression was used to obtain estimates of the odds ratios, confidence intervals, and tests of significance for each of the independent variables in the model. Statistical analyses were conducted with R version 3.4.2 and Stata version 15. Differences were regarded as significant when P < .05.
+
+In total, 340 veterans (n = 81 cannabis use group; n = 259 no cannabis use group) were included in the study sample. The majority was male and white. Comparison of baseline characteristics by group revealed a higher proportion of African Americans and more cooccurring substance use/SUDs in the cannabis use group (Table 1). The type of psychotherapy also differed between the groups with a higher number of subjects in the cannabis use group receiving supportive psychotherapy than the noncannabis use group (73% vs 84%), and fewer cannabis use group subjects than expected in the prolonged exposure therapy and unspecified evidence-based psychotherapies subgroups (P = .001, Fisher exact test).
+
+Patient demographics and baseline characteristics
+
+CBT = cognitive behavioral therapy; EBP = evidence-based psychotherapy; MET = motivational enhancement therapy; PCL = PTSD checklist; PE = prolonged exposure therapy.
+
+Mean number of psychotherapy sessions was calculated using all subjects (N = 340).
+
+P value from Fisher exact test comparing proportion of cannabis users by psychotherapy group.
+
+Success rate was similar between the cannabis use and noncannabis use groups, 51.9% and 51.4% respectively (χ2 [1, n = 340] = 0.006, P = .937).
+
+The optimal regression model included cannabis use, antidepressant use, and other SUDs. Number of sessions completed and antipsychotic use did not contribute to the model in univariate or stepwise analysis and were not included in the final logistic regression. Univariate P values for sessions and antipsychotics were 0.38 and 0.35, respectively.
+
+Results of the logistic regression are shown in Table 2 and the Figure. Cannabis use did not affect odds of treatment success in this PTSD program. Antidepressant use was associated with 40% increased odds of treatment success of the program. Other SUDs were found to have a significant impact (P = .001) and were associated with a decrease in odds for program treatment success by 64% controlling for the other variables in the model.
+
+Logistic regression model comparison and results
+
+AD = patients prescribed antidepressants; AP = patients prescribed antipsychotics; CI = confidence interval; OR = odds ratio; OSUD = patients with other SUDs; PCL = PTSD checklist.
+
+The full model included all of the specified variables.
+
+Treatment duration is reported as mean (SD), and all other variables are reported as count and percent of all successes.
+
+Adjusted odds of successful PTSD treatment (AD = antidepressant-receiving group; MJ = cannabis group; SUD = other substance use group)
+
+Cannabis was not found to have a significant association with success rate of intensive outpatient treatment of PTSD in this mostly white male veteran population. This indicates response to treatment was not impacted by cannabis use in this sample.
+
+A vast majority of veterans in both groups did engage in an evidence-based psychotherapy. However, there was a significantly lower proportion of veterans in the cannabis use group who did so, especially for the prolonged exposure therapy modality. This may be an artifact resulting from the fact that many early PTSD studies of a variety of psychotherapies excluded patients with comorbid SUDs. This trend occurred for a variety of reasons including a prominent hypothesis that substance use may minimize the benefits of the psychotherapy. More recent studies13,14 have included participants with SUDs, which indicates this hypothesis may be out of favor.
+
+It is possible that those with higher symptom severity may be more likely to use cannabis, which could have confounded results. This did not appear to be the case in this study since baseline PCL scores were not significantly different between the study groups.
+
+Several limitations exist in the methodology of the present study. For instance, the study used retrospective chart review for data collection which is innately error prone. However, the results do show a benefit of antidepressants that is consistent with past studies of PTSD treatment suggesting validity of these results.
+
+Other limitations include the majority of veterans in study sample were white males, making generalization to other populations problematic. Additionally, there were differences in baseline study population demographics. SUDs was significantly higher in the cannabis use group. This is expected to occur in studies investigating cannabis use as many noncannabis SUDs are generally found to be higher in a population using cannabis compared with one that does not.15
+
+It was impossible to determine the quantity or quality of cannabis used by veterans in the cannabis use group using chart review as this information was often not documented. Additionally, specific composition and concentrations of cannabinoids (eg, THC, CBD) in cannabis used could not be determined and these differences may have impacted results. Therefore, only general effects of cannabis use were identified but does not allow the determination of differences in dose/concentration effects of cannabinoids or differences in those who use cannabis occasionally versus those who meet criteria for cannabis use disorder.
+
+Last is the inability to account for past treatments, both medication and psychotherapies. This could confound results because it leaves the possibility some veterans may have treatment-resistant PTSD. This population would innately be more difficult to treat. Not being able to determine if veterans with treatment-resistant PTSD were present in the study sample and at what rates also limits the generalizability to the PTSD population at large.
+
+The current study did not show white male veterans diagnosed with PTSD differed in intensive PTSD treatment success or failure based on cannabis use.

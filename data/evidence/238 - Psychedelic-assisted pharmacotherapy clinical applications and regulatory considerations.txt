@@ -1,0 +1,10 @@
+Psychedelic-assisted pharmacotherapy: clinical applications and regulatory considerations
+
+Authors: Donatella Marazziti, Matteo Gambini, Riccardo Gurrieri, G. Russomanno, Giorgia Sità, Elena Pescini, F. Digiuseppe, F. Mucci
+Journal: Expert Opinion on Pharmacotherapy
+Date: 2026
+DOI: 10.1080/14656566.2026.2654682
+Citations: 0
+URL: https://www.semanticscholar.org/paper/f8759f01e3abee04695f3724c1698e4d990c233f
+
+ABSTRACT: ABSTRACT Introduction After decades of regulatory marginalization, psychedelic compounds have reemerged as promising therapeutic tools in psychiatry, driven by unmet clinical needs in treatment-resistant mental disorders and by growing evidence of rapid and sustained effects on mood, cognition, and behavior. Areas covered This narrative review critically examined the current clinical and regulatory landscape of psychedelic-assisted therapies in psychiatry. We synthesize evidence from phase II–III clinical trials, regulatory agency documents, and international drug policy frameworks, focusing on ketamine/esketamine, MDMA, psilocybin, LSD, DMT/5-MeO-DMT, and ibogaine across major depressive disorder, treatment-resistant depression, PTSD, anxiety disorders, and substance use disorders. Particular attention will be given to regulatory pathways, scheduling constraints, access mechanisms, and compound-specific approval trajectories in the United States, European Union, and selected international jurisdictions. Expert opinion Psychedelic-assisted therapies are unlikely to follow a conventional prescription model and instead require specialist-delivered, psychotherapy-integrated care under appropriate regulatory and ethical safeguards. While late-stage trials support their potential in high-need populations, unresolved challenges, including long-term safety, scalability, workforce training, equity of access, and medico-legal accountability, must be addressed before broader clinical implementation.

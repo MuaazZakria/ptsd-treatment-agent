@@ -1,0 +1,23 @@
+Efficacy and safety of cannabinoids in the treatment of spasticity in multiple sclerosis: A systematic review of randomized clinical trials.
+
+Authors: Letícia Hamm-Buiar, Daniela Gorski, Marcela Harumi Kagueiama, A. Wiens
+Journal: British Journal of Clinical Pharmacology
+Date: 2026
+DOI: 10.1002/bcp.70719
+Citations: 0
+URL: https://doi.org/10.1002/bcp.70719
+
+ABSTRACT: AIMS
+This work aimed to evaluate the efficacy and safety of cannabinoids for the treatment of MS-related spasticity.
+
+
+METHODS
+Systematic searches were conducted in PubMed, EMBASE, and LILACS on 2 December 2025. Randomized controlled trials evaluating natural or synthetic cannabinoids for MS-related spasticity were included. Studies published in non-Roman characters and those assessing recreational cannabis use were excluded. Two reviewers independently performed study selection, data extraction, and risk of bias assessment using the RoB 2 tool. Qualitative synthesis, pairwise random-effects meta-analyses, and Bayesian network meta-analysis were conducted. Certainty of evidence was assessed using GRADE and CINeMA.
+
+
+RESULTS
+Twenty-seven studies (>3000 participants) were included. Interventions comprised tetrahydrocannabinol:cannabidiol (THC:CBD) extracts, other cannabis extracts, isolated cannabinoids (natural or synthetic), and smoked cannabis. In pairwise meta-analysis (7 studies), THC:CBD extracts reduced patient-reported spasticity versus placebo (MD -0.82; 95% CI -1.24 to -0.40; I2 = 53%). Network meta-analysis confirmed superiority of THC:CBD (MD -0.80; 95% CrI -1.61 to -0.32). Adverse events were frequent but mostly mild to moderate, while serious events were rare. Certainty of evidence was low, and substantial clinical and methodological heterogeneity was observed.
+
+
+CONCLUSIONS
+Cannabinoids provide modest improvements in patient-reported spasticity in MS, with more consistent effects for THC:CBD extracts. Given the low certainty of evidence and limited objective benefits, cannabinoids should be considered cautiously as adjunctive therapy with appropriate safety monitoring.
